@@ -417,7 +417,7 @@ async function fetchSheetData(sheetName) {
         val = row.c[i].v;
       }
       if (!['valor', 'valor_mensal', 'valor_mes', 'multa', 'valor_unit'].includes(h)) {
-        let formatted = row.c[i].f || val;
+        let formatted = (row.c[i] && row.c[i].f) ? row.c[i].f : val;
         if (typeof formatted === 'string' && formatted.includes('########')) {
           val = String(val); 
         } else {
