@@ -197,6 +197,8 @@ function renderEmails(){
     var unidade = e.org_unit_path_required || e.unidade || '—';
     unidade = String(unidade).replace(/^[\/]+/, '') || 'Matriz';
     
+    var phone = e.work_phone || e.mobile_phone || '—';
+
     var status = e.status_read_only || e.status || '—';
     if(String(status).toLowerCase() === 'active') status = 'Ativo';
     if(String(status).toLowerCase() === 'suspended') status = 'Suspenso';
@@ -213,10 +215,10 @@ function renderEmails(){
     if (String(twfa).toLowerCase() === 'false') twfa = 'Inativo';
 
     return '<tr><td>'+email+'</td><td>'+nome+'</td>'+
-      '<td>'+unidade+'</td><td>'+storage+'</td><td>'+statusPill(twfa === 'Ativo' ? 'Em uso' : 'Inativo')+'</td>'+
+      '<td>'+unidade+'</td><td>'+phone+'</td><td>'+storage+'</td><td>'+statusPill(twfa === 'Ativo' ? 'Em uso' : 'Inativo')+'</td>'+
       '<td>'+statusPill(status)+'</td><td>'+ultimo_login+'</td></tr>';
   }).join('');
-  document.getElementById('em-tbody').innerHTML = html||'<tr><td colspan="7" class="empty">Nenhum resultado</td></tr>';
+  document.getElementById('em-tbody').innerHTML = html||'<tr><td colspan="8" class="empty">Nenhum resultado</td></tr>';
   document.getElementById('em-count').textContent = f.length+' registros';
   
   // Update KPIs
