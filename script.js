@@ -307,6 +307,8 @@ function initDashboard(){
   document.getElementById('kpi-inv-estoque').textContent = emEst+' em estoque';
   document.getElementById('kpi-col-total').textContent   = DATA.controle.length;
   document.getElementById('kpi-col-badge').textContent   = DATA.controle.length+' vínculos';
+  document.getElementById('kpi-pag-total').textContent   = fmt(totalP);
+  document.getElementById('kpi-pag-fornec').textContent  = uniqF + ' fornecedores';
   // Emails KPIs
   var emTotal = document.getElementById('em-total');
   if (emTotal) {
