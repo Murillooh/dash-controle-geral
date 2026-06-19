@@ -475,6 +475,7 @@ async function loadDataAndInit() {
     DATA.emails = emails;
 
     initDashboard();
+    showPage('dashboard');
   } catch (error) {
     console.error("Erro ao carregar dados do Sheets:", error);
     title.textContent = 'Erro de Conexão';
