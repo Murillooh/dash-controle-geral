@@ -317,10 +317,15 @@ async function fetchSheetData(sheetName) {
   const headers = jsonData.table.cols.map(c => c.label);
   const rows = jsonData.table.rows.map(row => {
     const obj = {};
-    row.c.forEach((cell, i) => {
-      let val = cell ? cell.v : '';
-      if (val === null) val = '';
-      obj[headers[i]] = val;
+    headers.forEach((h, i) => {
+      let val = '';
+      if (row.c[i] && row.c[i].v !== null && row.c[i].v !== undefined) {
+        val = row.c[i].v;
+      }
+      if (!['valor', 'multa', 'valor_unit', 'valor_mes'].includes(h)) {
+        val = String(val);
+      }
+      obj[h] = val;
     });
     return obj;
   });
