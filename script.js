@@ -174,10 +174,17 @@ function emailsFiltered(){
   var st = document.getElementById('em-st').value;
   var q  = (document.getElementById('em-search').value||'').toLowerCase();
   return DATA.emails.filter(function(e){
-    var eStr = String(e.email||'').toLowerCase();
-    var nStr = String(e.nome||'').toLowerCase();
-    var dStr = String(e.departamento||'').toLowerCase();
-    return (!st||e.status===st) && (!q||eStr.includes(q)||nStr.includes(q)||dStr.includes(q));
+    var email = e.email_address_required || e.email || '';
+    var nStr = (e.first_name_required ? e.first_name_required + ' ' + (e.last_name_required||'') : e.nome) || '';
+    var eStr = String(email).toLowerCase();
+    nStr = String(nStr).toLowerCase();
+    var dStr = String(e.org_unit_path_required || e.unidade || e.departamento || '').toLowerCase();
+    var cStatus = e.status_read_only || e.status || '';
+    var statusNorm = cStatus;
+    if(statusNorm.toLowerCase() === 'active') statusNorm = 'Ativo';
+    if(statusNorm.toLowerCase() === 'suspended') statusNorm = 'Suspenso';
+    
+    return (!st||statusNorm===st) && (!q||eStr.includes(q)||nStr.includes(q)||dStr.includes(q));
   });
 }
 function renderEmails(){
@@ -185,12 +192,50 @@ function renderEmails(){
   pages.emails = pages.emails > Math.ceil(f.length/PAGE_SIZE) ? 1 : pages.emails;
   var slice = f.slice((pages.emails-1)*PAGE_SIZE, pages.emails*PAGE_SIZE);
   var html = slice.map(function(e){
-    return '<tr><td>'+(e.email||'—')+'</td><td>'+(e.nome||'—')+'</td>'+
-      '<td>'+(e.departamento||'—')+'</td><td>'+(e.unidade||'—')+'</td>'+
-      '<td>'+statusPill(e.status)+'</td><td>'+(e.ultimo_login||'—')+'</td></tr>';
+    var email = e.email_address_required || e.email || '—';
+    var nome = (e.first_name_required ? e.first_name_required + ' ' + (e.last_name_required || '') : e.nome) || '—';
+    var unidade = e.org_unit_path_required || e.unidade || '—';
+    unidade = String(unidade).replace(/^[\/]+/, '') || 'Matriz';
+    
+    var status = e.status_read_only || e.status || '—';
+    if(String(status).toLowerCase() === 'active') status = 'Ativo';
+    if(String(status).toLowerCase() === 'suspended') status = 'Suspenso';
+    
+    var ultimo_login = e.last_sign_in_read_only || e.ultimo_login || '—';
+    if (String(ultimo_login).includes('Date(')) { // Clean raw date if necessary
+      ultimo_login = ultimo_login.split('(')[1].split(')')[0].split(',').slice(0,3).reverse().join('/');
+    }
+    if (ultimo_login === 'Never logged in') ultimo_login = 'Nunca';
+    
+    var storage = (e.storage_used_read_only || '0GB') + ' / ' + (e.storage_limit_read_only || '—');
+    var twfa = e['2sv_enrolled_read_only'] || '—';
+    if (String(twfa).toLowerCase() === 'true') twfa = 'Ativo';
+    if (String(twfa).toLowerCase() === 'false') twfa = 'Inativo';
+
+    return '<tr><td>'+email+'</td><td>'+nome+'</td>'+
+      '<td>'+unidade+'</td><td>'+storage+'</td><td>'+statusPill(twfa === 'Ativo' ? 'Em uso' : 'Inativo')+'</td>'+
+      '<td>'+statusPill(status)+'</td><td>'+ultimo_login+'</td></tr>';
   }).join('');
-  document.getElementById('em-tbody').innerHTML = html||'<tr><td colspan="6" class="empty">Nenhum resultado</td></tr>';
+  document.getElementById('em-tbody').innerHTML = html||'<tr><td colspan="7" class="empty">Nenhum resultado</td></tr>';
   document.getElementById('em-count').textContent = f.length+' registros';
+  
+  // Update KPIs
+  var totalAtivos = DATA.emails.filter(e => {
+    let st = String(e.status_read_only || e.status || '').toLowerCase();
+    return st === 'active' || st === 'ativo';
+  }).length;
+  var totalSuspensos = DATA.emails.filter(e => {
+    let st = String(e.status_read_only || e.status || '').toLowerCase();
+    return st === 'suspended' || st === 'suspenso';
+  }).length;
+
+  var emTotal = document.getElementById('em-total');
+  if (emTotal) {
+    emTotal.textContent = DATA.emails.length;
+    document.getElementById('em-ativos').textContent = totalAtivos;
+    document.getElementById('em-suspensas').textContent = totalSuspensos;
+  }
+  
   renderPagination('emails', f.length);
 }
 
@@ -264,13 +309,22 @@ function initDashboard(){
   var emTotal = document.getElementById('em-total');
   if (emTotal) {
     emTotal.textContent = DATA.emails.length;
-    document.getElementById('em-ativos').textContent = DATA.emails.filter(e=>e.status==='Ativo').length;
-    document.getElementById('em-suspensas').textContent = DATA.emails.filter(e=>e.status==='Suspenso').length;
+    document.getElementById('em-ativos').textContent = DATA.emails.filter(e=>{
+      let st = String(e.status_read_only || e.status || '').toLowerCase();
+      return st === 'active' || st === 'ativo';
+    }).length;
+    document.getElementById('em-suspensas').textContent = DATA.emails.filter(e=>{
+      let st = String(e.status_read_only || e.status || '').toLowerCase();
+      return st === 'suspended' || st === 'suspenso';
+    }).length;
   }
 
   // Dash page KPIs
   var dashE = document.getElementById('dash-emails');
-  if (dashE) dashE.textContent = DATA.emails.filter(e=>e.status==='Ativo').length + ' / ' + DATA.emails.length;
+  if (dashE) dashE.textContent = DATA.emails.filter(e=>{
+    let st = String(e.status_read_only || e.status || '').toLowerCase();
+    return st === 'active' || st === 'ativo';
+  }).length + ' / ' + DATA.emails.length;
 
   // Chips page KPIs
   document.getElementById('c-total').textContent  = totalC;
@@ -351,7 +405,10 @@ async function fetchSheetData(sheetName) {
   const jsonString = text.match(/google\.visualization\.Query\.setResponse\((.*)\);/)[1];
   const jsonData = JSON.parse(jsonString);
 
-  const headers = jsonData.table.cols.map(c => c.label);
+  const headers = jsonData.table.cols.map(c => {
+    let label = c.label || '';
+    return label.toLowerCase().replace(/[^a-z0-9_]/g, '_').replace(/_+/g, '_').replace(/^_|_$/g, '');
+  });
   const rows = jsonData.table.rows.map(row => {
     const obj = {};
     headers.forEach((h, i) => {
@@ -359,16 +416,19 @@ async function fetchSheetData(sheetName) {
       if (row.c[i] && row.c[i].v !== null && row.c[i].v !== undefined) {
         val = row.c[i].v;
       }
-      
-      const hNorm = h ? String(h).toLowerCase().trim() : '';
-      if (['valor', 'multa', 'valor_unit', 'valor_mes'].includes(hNorm)) {
+      if (!['valor', 'valor_mensal', 'valor_mes', 'multa', 'valor_unit'].includes(h)) {
+        let formatted = row.c[i].f || val;
+        if (typeof formatted === 'string' && formatted.includes('########')) {
+          val = String(val); 
+        } else {
+          val = formatted;
+        }
+      } else {
         if (typeof val === 'string') {
           val = val.replace(/[R$\s]/gi, '').replace(/\./g, '').replace(',', '.');
           val = parseFloat(val);
         }
         val = Number(val) || 0;
-      } else {
-        val = String(val);
       }
       obj[h] = val;
     });

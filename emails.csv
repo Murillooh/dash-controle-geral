@@ -1,0 +1,491 @@
+First Name [Required];Last Name [Required];Email Address [Required];Password [Required];Password Hash Function [UPLOAD ONLY];Org Unit Path [Required];New Primary Email [UPLOAD ONLY];Status [READ ONLY];Last Sign In [READ ONLY];Recovery Email;Home Secondary Email;Work Secondary Email;Recovery Phone [MUST BE IN THE E.164 FORMAT];Work Phone;Home Phone;Mobile Phone;Work Address;Home Address;Employee ID;Employee Type;Employee Title;Manager Email;Department;Cost Center;2sv Enrolled [READ ONLY];2sv Enforced [READ ONLY];Building ID;Floor Name;Floor Section;Email Usage [READ ONLY];Drive Usage [READ ONLY];Photos Usage [READ ONLY];Storage limit [READ ONLY];Storage Used [READ ONLY];Change Password at Next Sign-In;New Status [UPLOAD ONLY];Licenses [READ ONLY];New Licenses [UPLOAD ONLY];Advanced Protection Program enrollment;Gemini Limit Status [READ ONLY]
+Acesso;Locagora;acesso@locgrupo.com.br;****;;/;;Active;2026-06-18 09:57:53;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Adevair;Lopes Moreira;adevair.moreira@locgrupo.com.br;****;;/;;Active;2026-05-29 09:19:04;;;;;;;;;;;;;;;;False;False;;;;0.0GB;4.84GB;0.0GB;5.0GB;4.84GB;False;;1010020030.0;;False;-
+Adrian;Felipe Knofel Silva;adrian.silva@locgrupo.com.br;****;;/;;Active;2026-06-08 14:53:15;;;;;;;;;;;;;;;;False;False;;;;0.01GB;0.0GB;0.0GB;5.0GB;0.01GB;False;;1010020030.0;;False;-
+Adriana;Fortunado Leite;adriana.leite@locgrupo.com.br;****;;/;;Active;2026-05-05 07:03:40;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Adriana;Reis da Silva;adriana.reis@locgrupo.com.br;****;;/;;Active;2026-06-12 06:54:25;;;;;;;;;;;;;;;;False;False;;;;7.18GB;0.01GB;0.0GB;--;7.19GB;False;;1010020028.0;;False;-
+Adriana Maria;da Silva;adriana.silva@locgrupo.com.br;****;;/;;Active;2026-06-13 05:15:45;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Alana;de Abreu Carvalho;alana.carvalho@locgrupo.com.br;****;;/;;Active;2026-06-08 09:38:19;;;;+5511915243163;;;;;;;;;;;;False;False;;;;0.09GB;0.93GB;0.0GB;5.0GB;1.02GB;False;;1010020030.0;;False;-
+Alberto;Frigo;alberto.frigo@locgrupo.com.br;****;;/;;Active;2026-06-15 05:43:57;frigojr80@gmail.com;;;+5511915243404;;;;;;;;;;;;False;False;;;;2.89GB;0.03GB;0.0GB;5.0GB;2.92GB;False;;1010020030.0;;False;-
+Alef;Brito Maciel;alef.maciel@locgrupo.com.br;****;;/;;Active;2026-01-21 18:56:25;;;;;11915243526.0;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;1.18GB;5.0GB;1.18GB;False;;1010020030.0;;False;-
+Alessandra;Aline Meneguini Santos Vitoriano;alessandra.vitoriano@locgrupo.com.br;****;;/;;Active;2026-06-13 11:53:48;;;;;;;;;;;;;;;;False;False;;;;0.01GB;0.0GB;0.0GB;5.0GB;0.02GB;False;;1010020030.0;;False;-
+Aline;Cristiane Brito de Souza;aline.souza@locgrupo.com.br;****;;/;;Active;2026-06-15 10:52:40;;;;+5531993341054;;;;;;;;;;;;False;False;;;;0.38GB;0.0GB;0.0GB;5.0GB;0.38GB;False;;1010020030.0;;False;-
+Aline;Fernanda Ribeiro Duarte;aline.duarte@locgrupo.com.br;****;;/;;Active;2026-06-09 07:56:13;;;;;;;;;;;;;;;;False;False;;;;1.41GB;0.96GB;0.03GB;5.0GB;2.4GB;False;;1010020030.0;;False;-
+Aliny;Rodrigues Bernardino;aliny.bernardino@locgrupo.com.br;****;;/;;Active;2026-06-11 07:50:40;;;;;;;;;;;;;;;;False;False;;;;0.04GB;0.0GB;0.62GB;5.0GB;0.67GB;False;;1010020030.0;;False;-
+Alize;Maria Do Amparo Campelo;alize.campelo@locgrupo.com.br;****;;/;;Active;2026-06-08 04:48:58;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.12GB;5.0GB;0.12GB;False;;1010020030.0;;False;-
+Allan;De Lima romão;allan.romao@locgrupo.com.br;****;;/;;Active;2026-06-12 04:25:03;;;;;;;;;;;;;;;;False;False;;;;0.02GB;0.94GB;0.0GB;5.0GB;0.96GB;False;;1010020030.0;;False;-
+Amanda;Leal da Silva;amanda.silva@locgrupo.com.br;****;;/;;Active;2026-06-17 12:39:46;;;;;;;;;;;;;;;;False;False;;;;0.01GB;0.0GB;0.0GB;5.0GB;0.01GB;False;;1010020030.0;;False;-
+Amanda;Mauro de Pádua Vago;amanda.vago@locgrupo.com.br;****;;/;;Active;2026-05-20 04:48:37;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.03GB;0.0GB;5.0GB;0.04GB;False;;1010020030.0;;False;-
+Amanda;Rodrigues;amanda.rodrigues@locgrupo.com.br;****;;/;;Active;2025-12-08 04:02:28;;;;;;;;;;;;;;;;False;False;;;;0.2GB;0.0GB;0.0GB;5.0GB;0.21GB;False;;1010020030.0;;False;-
+Aminadabe;Macedo Santos;aminadabe.santos@locgrupo.com.br;****;;/;;Active;2026-03-02 11:22:23;;;;;;;;;;;;;;;;False;False;;;;0.08GB;0.0GB;0.0GB;5.0GB;0.08GB;False;;1010020030.0;;False;-
+Ana;Carolina de Oliveira Cairo;ana.cairo@locgrupo.com.br;****;;/;;Active;2025-09-22 06:34:09;;;;;;;;;;;;;;;;False;False;;;;3.26GB;0.0GB;0.0GB;5.0GB;3.27GB;False;;1010020030.0;;False;-
+Ana;Torres;ana.torres@locgrupo.com.br;****;;/;;Active;2026-04-07 15:23:27;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.06GB;5.0GB;0.06GB;False;;1010020030.0;;False;-
+Ana Alice;Eustáquio Silva;ana.silva@locgrupo.com.br;****;;/;;Active;2026-06-10 13:11:43;anaeustaquio161030@gmail.com;;;+5531991500176;;;;;;;;;;;;False;False;;;;0.04GB;0.03GB;0.01GB;5.0GB;0.08GB;False;;1010020030.0;;False;-
+Ana Carolina;Gelape Carvalho Nascimento;ana.nascimento@locgrupo.com.br;****;;/;;Active;2025-12-11 05:52:52;;;;+5531971483973;;;;;;;;;;;;False;False;;;;0.04GB;0.0GB;0.0GB;5.0GB;0.04GB;False;;1010020030.0;;False;-
+Ana Clara;Gonçalves Sabino;ana.sabino@locgrupo.com.br;****;;/;;Active;2026-06-14 18:08:46;;;;;;;;;;;;;;;;False;False;;;;0.01GB;0.0GB;0.02GB;5.0GB;0.03GB;False;;1010020030.0;;False;-
+Ana Karolina;Dias Cavalcanti;ana.cavalcanti@locgrupo.com.br;****;;/;;Active;2026-06-11 05:45:27;;;;+5531981086410;;;;;;;;;;;;False;False;;;;0.09GB;0.51GB;0.0GB;5.0GB;0.61GB;False;;1010020030.0;;False;-
+Ana Luiza;Silva Sant'Anna;ana.santanna@locgrupo.com.br;****;;/;;Active;2026-06-11 13:31:03;;;;;;;;;;;;;;;;False;False;;;;0.08GB;10.02GB;0.0GB;--;10.11GB;False;;1010020027.0;;False;-
+Ananda;Ibis Fonseca Leandro;ananda.leandro@locgrupo.com.br;****;;/;;Active;2025-12-11 23:42:10;ananda.leandro@locgrupo.com.br;;;+5531984108833;;;;;;;;;;;;False;False;;;;2.67GB;0.86GB;0.0GB;5.0GB;3.53GB;False;;1010020030.0;;False;-
+Anderson;Renato;anderson.renato@locgrupo.com.br;****;;/;;Active;2026-06-09 07:20:54;;;;;;;;;;;;;;;;False;False;;;;0.25GB;1.53GB;0.0GB;5.0GB;1.78GB;False;;1010020030.0;;False;-
+Anderson;Borges Figueiredo;anderson.figueiredo@locgrupo.com.br;****;;/;;Active;2026-06-01 08:44:55;borgesfigueiredo@gmail.com;;;+5511995050972;;;;;;;;;;;;False;False;;;;0.05GB;0.03GB;0.0GB;5.0GB;0.08GB;False;;1010020030.0;;False;-
+Andressa;Sampaio Bautista;andressa.bautista@locgrupo.com.br;****;;/;;Active;2026-04-28 06:37:45;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Andressa;Ferraresi De Farias;andressa.farias@locgrupo.com.br;****;;/;;Active;2026-06-05 08:32:58;;;;+5511915243213;;;;;;;;;;;;False;False;;;;0.01GB;0.0GB;0.0GB;5.0GB;0.01GB;False;;1010020030.0;;False;-
+Anna;Carolina Gonçalves Lopes;anna.lopes@locgrupo.com.br;****;;/;;Active;2026-04-14 06:37:53;annacarolinagl99@gmail.com;;;+5531984203957;;;;;;;;;;;;False;False;;;;0.15GB;3.4GB;0.0GB;5.0GB;3.55GB;False;;1010020030.0;;False;-
+Anna;Paula Alves da Silva;anna.silva@locgrupo.com.br;****;;/;;Active;2026-06-12 06:15:07;;;;;;;;;;;;;;;;False;False;;;;0.02GB;0.62GB;0.36GB;5.0GB;1.0GB;False;;1010020030.0;;False;-
+Anna Karine;Pereira de Barcelos;anna.barcelos@locgrupo.com.br;****;;/;;Active;2026-06-11 08:16:01;annabarcelos8@gmail.com;;;+5531989583748;;;;;;;;;;;;False;False;;;;0.03GB;1.64GB;0.6GB;5.0GB;2.28GB;False;;1010020030.0;;False;-
+Anny;Caroline Paulucci de Oliveira;anny.oliveira@locgrupo.com.br;****;;/;;Active;2026-06-12 10:39:27;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.02GB;0.0GB;5.0GB;0.03GB;False;;1010020030.0;;False;-
+Antônio;Jorge Salomão;antonio.salomao@locgrupo.com.br;****;;/;;Active;2026-06-05 11:22:52;;;;+5511930190286;;;;;;;;;;;;False;False;;;;0.44GB;0.09GB;0.0GB;5.0GB;0.54GB;False;;1010020030.0;;False;-
+Aplicativo;LocaGora;app.locagora@locgrupo.com.br;****;;/;;Active;2026-04-08 10:16:13;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;--;0.0GB;False;;1010020028.0;;False;-
+Ariele;Debora Da Silva Lima;ariele.lima@locgrupo.com.br;****;;/;;Active;2026-06-17 12:43:00;;;;;;;;;;;;;;;;False;False;;;;0.01GB;0.0GB;0.14GB;5.0GB;0.15GB;False;;1010020030.0;;False;-
+Arlete;de Sousa Ramos;arlete.ramos@locgrupo.com.br;****;;/;;Active;2026-06-14 22:08:38;;;;;;;;;;;;;;;;False;False;;;;0.11GB;0.22GB;0.0GB;5.0GB;0.33GB;False;;1010020030.0;;False;-
+Arthur;Parentoni dos Santos;arthur.parentoni@locgrupo.com.br;****;;/;;Active;2026-06-02 13:13:48;arthurparentoni.locagora@gmail.com;;;;;;;;;;;;;;;False;False;;;;0.1GB;0.06GB;0.0GB;5.0GB;0.17GB;False;;1010020030.0;;False;-
+Artur;Muniz Silva Sabatini;artur.sabatini@locgrupo.com.br;****;;/;;Active;2026-06-12 11:36:45;;;;;;;;;;;;;;;;False;False;;;;0.17GB;0.16GB;0.0GB;5.0GB;0.33GB;False;;1010020030.0;;False;-
+Ataisse;Guilherme Primo;ataisse.primo@locgrupo.com.br;****;;/;;Active;2026-06-15 17:03:27;ataissegprimo@gmail.com;;;+5511969325328;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Aymee;Bruna Ferreira Bastos da Silva;aymee.silva@locgrupo.com.br;****;;/;;Active;2026-06-08 11:12:26;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Ayrla;Silva dos Santos;ayrla.santos@locgrupo.com.br;****;;/;;Active;2026-05-19 04:13:20;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Barbara;Santana;barbara.santana@locgrupo.com.br;****;;/;;Active;2026-06-09 10:05:04;;;;+5511963428680;;;;;;;;;;;;False;False;;;;0.01GB;0.0GB;0.0GB;5.0GB;0.01GB;False;;1010020030.0;;False;-
+Barbara;Aparecida da Silva;barbara.silva@locgrupo.com.br;****;;/;;Active;2026-06-11 13:31:23;;;;;;;;;;;;;;;;False;False;;;;0.01GB;0.01GB;0.0GB;5.0GB;0.02GB;False;;1010020030.0;;False;-
+Beatriz;dos Santos Barbosa Teles;beatriz.teles@locgrupo.com.br;****;;/;;Active;2026-06-09 09:18:50;;;;;;;;;;;;;;;;False;False;;;;0.03GB;0.98GB;0.0GB;5.0GB;1.0GB;False;;1010020030.0;;False;-
+Beatriz;Carvalho Santos Solar;beatriz.solar@locgrupo.com.br;****;;/;;Active;2026-06-14 05:51:39;;;;+5531984775133;;;;;;;;;;;;False;False;;;;0.01GB;0.11GB;0.03GB;5.0GB;0.14GB;False;;1010020030.0;;False;-
+Bianca;Gomes da Silva;bianca.gomes@locgrupo.com.br;****;;/;;Active;2026-06-03 08:02:52;;;;+5511930190156;;;;;;;;;;;;False;False;;;;2.14GB;5.73GB;0.17GB;--;8.03GB;False;;1010020027.0;;False;-
+bkp;whats app;bkp@locgrupo.com.br;****;;/;;Active;2025-11-04 12:24:35;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Brenda;Ayala Fagundes Moreira de Araújo dos Santos;brenda.santos@locgrupo.com.br;****;;/;;Active;2026-06-18 11:55:23;;;;;;;;;;;;;;;;False;False;;;;0.06GB;0.0GB;0.0GB;5.0GB;0.06GB;False;;1010020030.0;;False;-
+Brenno;Ferreira de Melo;brenno.melo@locgrupo.com.br;****;;/;;Active;2026-03-30 09:58:00;;;;+5583998301908;;;;;;;;;;;;False;False;;;;0.02GB;0.0GB;0.0GB;5.0GB;0.02GB;False;;1010020030.0;;False;-
+Breno;Araujo de Souza;breno.souza@locgrupo.com.br;****;;/;;Active;2026-06-17 05:16:48;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Bruna;Silva Xavier;bruna.xavier@locgrupo.com.br;****;;/;;Active;2026-06-10 13:08:18;;;;+5511915411545;;;;;;;;;;;;False;False;;;;0.7GB;0.23GB;0.0GB;5.0GB;0.93GB;False;;1010020030.0;;False;-
+Bruna;Carolina Almeida Lima;bruna.lima@locgrupo.com.br;****;;/;;Active;2026-06-11 05:45:51;;;;+5531983472008;;;;;;;;;;;;False;False;;;;0.05GB;0.0GB;0.47GB;5.0GB;0.52GB;False;;1010020030.0;;False;-
+Bruno;Pereira;bruno.pereira@locgrupo.com.br;****;;/;;Active;2026-05-06 08:15:28;;;;;;;;;;;;;;;;False;False;;;;0.0GB;27.6GB;6.09GB;--;33.7GB;False;;1010020028.0;;False;-
+Bruno;Sampaio Barbosa;bruno.barbosa@locgrupo.com.br;****;;/;;Active;2026-06-10 10:34:24;;;;;;;;;;;;;;;;False;False;;;;0.06GB;0.0GB;0.0GB;5.0GB;0.06GB;False;;1010020030.0;;False;-
+Bruno;Galdino da Silva;bruno.silva@locgrupo.com.br;****;;/;;Active;2026-06-15 12:16:27;;;;;;;;;;;;;;;;False;False;;;;0.01GB;0.0GB;0.45GB;5.0GB;0.46GB;False;;1010020030.0;;False;-
+Bruno;César Miranda Vieira;bruno.vieira@locgrupo.com.br;****;;/;;Active;2026-06-11 14:03:15;;;;;;;;;;;;;;;;False;False;;;;0.35GB;59.38GB;0.0GB;--;59.73GB;False;;1010020028.0;;False;NOT_APPROACHING_LIMIT
+Bryna;Lima Felix;bryna.felix@locgrupo.com.br;****;;/;;Active;2026-06-01 06:46:52;;;;;;;;;;;;;;;;False;False;;;;0.01GB;0.21GB;0.0GB;5.0GB;0.22GB;False;;1010020030.0;;False;-
+Bárbara;Marques Ferreira;barbara.ferreira@locgrupo.com.br;****;;/;;Active;2025-07-23 07:33:41;;;;;;;;;;;;;;;;False;False;;;;0.01GB;0.0GB;0.0GB;5.0GB;0.01GB;False;;1010020030.0;;False;-
+Cadu;Araujo;cadu.araujo@locgrupo.com.br;****;;/;;Active;2026-01-26 04:25:00;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Caio;Vieira Pires da Silva;caio.silva@locgrupo.com.br;****;;/;;Active;2026-06-12 05:03:50;;;;;;;;;;;;;;;;False;False;;;;0.05GB;0.0GB;0.0GB;5.0GB;0.05GB;False;;1010020030.0;;False;-
+Caio Augusto;Pereira Rocha;caio.rocha@locgrupo.com.br;****;;/;;Active;2026-06-09 05:52:20;;;;+5531984805852;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.22GB;5.0GB;0.22GB;False;;1010020030.0;;False;-
+cameras;loc;cameras.loc@locgrupo.com.br;****;;/;;Active;2025-09-18 08:50:54;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Camila;Silva de Oliveira;camila.oliveira@locgrupo.com.br;****;;/;;Active;2026-02-18 05:04:29;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;True;;1010020030.0;;False;-
+Camila Sena;Mairinques;camila.mairinques@locgrupo.com.br;****;;/;;Active;2026-06-03 09:56:03;;;;+5531973449014;;;;;;;;;;;;False;False;;;;0.29GB;0.0GB;0.0GB;5.0GB;0.29GB;False;;1010020030.0;;False;-
+Camilla Fernanda;Gonçalves Almeida;camilla.almeida@locgrupo.com.br;****;;/;;Active;2026-05-26 16:01:35;;;;+5531984993575;;;;;;;;;;;;False;False;;;;0.02GB;0.01GB;0.0GB;5.0GB;0.02GB;False;;1010020030.0;;False;-
+Camille;De Oliveira Freire;camille.freire@locgrupo.com.br;****;;/;;Active;2026-06-12 04:13:54;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Carla Patrícia;Dias Soares;carla.soares@locgrupo.com.br;****;;/;;Active;2026-06-15 18:31:03;;;;;;;;;;;;;;;;False;False;;;;0.03GB;0.96GB;0.46GB;5.0GB;1.46GB;False;;1010020030.0;;False;-
+Caroline;Martins de Oliveira Lima;caroline.lima@locgrupo.com.br;****;;/;;Active;2025-09-30 22:58:17;;;;;;;;;;;;;;;;False;False;;;;0.0GB;4.42GB;0.06GB;5.0GB;4.48GB;False;;1010020030.0;;False;-
+Caroline Gabrielle;Barsante;caroline.barsante@locgrupo.com.br;****;;/;;Active;2026-04-07 16:04:50;;;;+5531984858249;;;;;;;;;;;;False;False;;;;2.1GB;1.08GB;0.0GB;5.0GB;3.19GB;False;;1010020030.0;;False;-
+Caroline Stefany;de Freitas da Silva;caroline.silva@locgrupo.com.br;****;;/;;Active;2026-06-08 07:51:44;;;;;;;;;;;;;;;;False;False;;;;0.54GB;0.26GB;0.01GB;5.0GB;0.81GB;False;;1010020030.0;;False;-
+Cassio Augusto;Fernandes;cassio.fernandes@locgrupo.com.br;****;;/;;Active;2026-05-25 14:14:03;;;;+5531984902808;;;;;;;;;;;;False;False;;;;0.03GB;4.75GB;0.0GB;5.0GB;4.83GB;False;;1010020030.0;;False;-
+Cayo Luiz;Barros da Silva;cayo.silva@locgrupo.com.br;****;;/;;Active;2026-06-08 13:43:24;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Celso;Ricardo Barbosa de Lima;celso.lima@locgrupo.com.br;****;;/;;Active;2026-06-11 14:29:14;;;;;;;;;;;;;;;;False;False;;;;0.0GB;2.28GB;1.74GB;5.0GB;4.02GB;False;;1010020030.0;;False;-
+Chamados;LocAgora BH;chamados.locagorabh@locgrupo.com.br;****;;/;;Active;2026-04-10 15:12:16;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Charles Gleidson;Santos;charles.santos@locgrupo.com.br;****;;/;;Active;2026-04-20 05:17:37;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;True;;1010020030.0;;False;-
+Cintia;Rosalia da Silva;cintia.silva@locgrupo.com.br;****;;/;;Active;2026-06-02 06:46:26;;;;;;;;;;;;;;;;False;False;;;;0.05GB;0.05GB;0.0GB;5.0GB;0.1GB;False;;1010020030.0;;False;-
+Clecio;Dos Santos Amabilio;clecio.amabilio@locgrupo.com.br;****;;/;;Active;2026-01-28 05:59:10;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Cleidilson;Silva Pereira;cleidilson.pereira@locgrupo.com.br;****;;/;;Active;2026-06-12 04:22:01;cleidilson44@gmail.com;;;+5511986520941;;;;;;;;;;;;True;False;;;;0.04GB;0.47GB;0.0GB;5.0GB;0.51GB;False;;1010020030.0;;False;-
+Cleonice;De Castro Pinheiro;cleonice.pinheiro@locgrupo.com.br;****;;/;;Active;2026-06-14 06:48:33;;;;;;;;;;;;;;;;False;False;;;;8.94GB;27.19GB;0.0GB;--;36.13GB;False;;1010020028.0;;False;NOT_APPROACHING_LIMIT
+Comunicação;Locgrupo;comunica@locgrupo.com.br;****;;/;;Active;2025-11-17 09:13:34;suporte.ti@locgrupo.com.br;;;+5511915244788;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Conteúdo;Locagora;conteudo@locgrupo.com.br;****;;/;;Active;Never logged in;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;--;0.0GB;True;;1010020028.0;;False;-
+Contratos;Franquias;contratos.franquias@locgrupo.com.br;****;;/;;Active;2026-06-12 11:47:27;;;;;;;;;;;;;;;;False;False;;;;0.59GB;1.17GB;0.0GB;--;1.76GB;False;;1010020028.0;;False;-
+Contratos De Investimentos;do Grupo Loc;investimentos.grupoloc@locgrupo.com.br;****;;/;;Active;2026-06-05 06:22:37;;;;;;;;;;;;;;;;False;False;;;;0.69GB;0.0GB;0.0GB;5.0GB;0.69GB;False;;1010020030.0;;False;-
+Cristiano Raydan;da Cruz;cristiano.cruz@locgrupo.com.br;****;;/;;Active;2026-06-14 16:10:33;;;;;;;;;;;;;;;;False;False;;;;0.06GB;0.71GB;0.17GB;5.0GB;0.93GB;False;;1010020030.0;;False;-
+Cs;rblocacaodemotos;cs.rblocacaodemotos@locgrupo.com.br;****;;/;;Active;Never logged in;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;True;;1010020030.0;;False;-
+cs;jblocacaodemotos;cs.jblocadorademotos@locgrupo.com.br;****;;/;;Active;2026-06-12 12:29:31;davi.araujo@locgrupo.com.br;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+cs;mslocacoesdemotos;cs.mslocacoesdemotos@locgrupo.com.br;****;;/;;Active;2026-06-12 06:41:38;davi.araujo@locgrupo.com.br;;;+5524993220779;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Cs;bhflocacoes;cs.bhflocacoes@locgrupo.com.br;****;;/;;Active;2026-06-13 07:33:51;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+CS;Vida Mobility;cs.vidamobility@locgrupo.com.br;****;;/;;Active;Never logged in;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;True;;1010020030.0;;False;-
+cs;evr;cs.evr@locgrupo.com.br;****;;/;;Active;2026-05-15 11:43:28;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Cássio;Florisbal Ribeiro;cassio.ribeiro@locgrupo.com.br;****;;/;;Active;2026-02-03 06:59:57;;;;;;;;;;;;;;;;False;False;;;;0.3GB;0.08GB;0.0GB;5.0GB;0.38GB;False;;1010020030.0;;False;-
+César;Ferreira;cesar.ferreira@locgrupo.com.br;****;;/;;Active;2026-06-11 11:56:33;cacesar99@yahoo.com.br;;;+5511950511916;;;;;;;;;;;;False;False;;;;0.01GB;0.0GB;0.0GB;5.0GB;0.01GB;False;;1010020030.0;;False;-
+Daiana;Gomes Silva;daiana.silva@locgrupo.com.br;****;;/;;Active;2026-06-11 12:20:31;;;;+5531984536808;;;;;;;;;;;;False;False;;;;0.23GB;0.01GB;1.63GB;5.0GB;1.94GB;False;;1010020030.0;;False;-
+Daiana;Mauro;daiana.mauro@locgrupo.com.br;****;;/;;Active;2026-06-02 04:11:02;;;;;;;;;;;;;;;;False;False;;;;0.1GB;0.13GB;0.0GB;5.0GB;0.22GB;False;;1010020030.0;;False;-
+Dalton;de Almeida Oliveira;dalton.oliveira@locgrupo.com.br;****;;/;;Active;2026-06-06 11:01:27;;;;;+55 (31) 98582-8808;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Daniel;De Souza Santos;daniel.santos@locgrupo.com.br;****;;/;;Active;Never logged in;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;True;;1010020030.0;;False;-
+Daniela;dos Santos;daniela.santos@locgrupo.com.br;****;;/;;Active;2026-06-08 04:10:13;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.01GB;5.0GB;0.01GB;False;;1010020030.0;;False;-
+Danielle;De Oliveira Gomes;danielle.gomes@locgrupo.com.br;****;;/;;Active;2026-06-05 11:25:02;danyoliveira10gomes@gmail.com;;;+5531971807413;;;;;;;;;;;;False;False;;;;2.02GB;3.2GB;0.0GB;--;5.22GB;False;;1010020028.0;;False;-
+Danielle Augusta;Rodrigues;danielle.rodrigues@locgrupo.com.br;****;;/;;Active;2026-06-12 10:31:39;;;;;;;;;;;;;;;;False;False;;;;0.11GB;0.09GB;0.13GB;5.0GB;0.33GB;False;;1010020030.0;;False;-
+Danyane;Pereira De Souza Santos;danyane.santos@locgrupo.com.br;****;;/;;Active;2026-05-25 05:35:24;danyanepss@gmail.com;;;+5531984737368;;;;;;;;;;;;False;False;;;;0.02GB;0.14GB;0.0GB;5.0GB;0.16GB;False;;1010020030.0;;False;-
+Dashboard;Dados;dashboard@locgrupo.com.br;****;;/;;Active;2026-05-11 06:05:45;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;--;0.0GB;False;;1010020028.0;;False;-
+Davi;Balbino Araujo;davi.araujo@locgrupo.com.br;****;;/;;Active;2026-06-02 13:42:33;davi_balbino@hotmail.com;;;+5524993220779;;;;;;;;;;;;False;False;;;;0.61GB;509.21GB;0.0GB;--;509.82GB;False;;1010020027.0;;False;-
+David;Almeida Mendes;david.mendes@locgrupo.com.br;****;;/;;Active;2026-06-13 18:33:57;;;;;;;;;;;;;;;;False;False;;;;0.14GB;0.0GB;1.33GB;5.0GB;1.47GB;False;;1010020030.0;;False;-
+Dayane;Costa;dayane.costa@locgrupo.com.br;****;;/;;Active;2025-07-16 07:31:31;;;;;;;;;;;;;;;;False;False;;;;0.11GB;0.65GB;0.0GB;5.0GB;0.75GB;False;;1010020030.0;;False;-
+Denis;Damiao da Silva;denis.silva@locgrupo.com.br;****;;/;;Active;2026-01-21 10:54:06;;;;;;;;;;;;;;;;False;False;;;;0.12GB;0.03GB;0.0GB;5.0GB;0.15GB;True;;1010020030.0;;False;-
+Diego;Alves Silva;diego.silva@locgrupo.com.br;****;;/;;Active;2026-05-29 07:40:41;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.84GB;0.1GB;5.0GB;0.95GB;False;;1010020030.0;;False;-
+Diego;Gonçalves Bastos;diego.bastos@locgrupo.com.br;****;;/;;Active;2026-06-16 08:55:44;diegobastos691@gmail.com;;;+5511915244379;;;;;;;;;;;;False;False;;;;0.06GB;1.36GB;0.0GB;5.0GB;1.42GB;False;;1010020030.0;;False;-
+Diogo;Henrique Batista;diogo.henrique@locgrupo.com.br;****;;/;;Active;2026-06-05 11:36:02;;;;+5511994943277;;;;;;;;;;;;False;False;;;;0.01GB;0.0GB;0.0GB;5.0GB;0.01GB;False;;1010020030.0;;False;-
+Diógenes;Ticiani couto;diogenes.couto@locgrupo.com.br;****;;/;;Active;2026-01-05 18:05:34;;;;;;;;;;;;;;;;False;False;;;;0.51GB;0.0GB;0.0GB;5.0GB;0.52GB;True;;1010020030.0;;False;-
+Douglas;Ramos Pissirilli;douglas.pissirilli@locgrupo.com.br;****;;/;;Active;2025-12-15 15:04:22;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.05GB;5.0GB;0.05GB;False;;1010020030.0;;False;-
+Douglas Tiago;Rezende Santos;douglas.santos@locgrupo.com.br;****;;/;;Active;2025-12-05 20:01:55;;;;+5531996263553;;;;;;;;;;;;False;False;;;;0.02GB;1.5GB;0.0GB;5.0GB;1.52GB;False;;1010020030.0;;False;-
+Débora;Gabriela da Paixão Pedras;debora.pedras@locgrupo.com.br;****;;/;;Active;2026-06-15 11:10:00;debspaixao21@gmail.com;;;+5531996734996;;;;;;;;;;;;False;False;;;;2.73GB;1.56GB;0.03GB;5.0GB;4.32GB;False;;1010020030.0;;False;-
+Eduarda;Da Pieve Monteiro;eduarda.monteiro@locgrupo.com.br;****;;/;;Active;2026-06-09 10:04:03;;;;;;;;;;;;;;;;False;False;;;;0.22GB;1.79GB;0.0GB;5.0GB;2.02GB;False;;1010020030.0;;False;-
+Eduardo;Teixeira Rocha;eduardo.rocha@locgrupo.com.br;****;;/;;Active;2026-06-10 13:04:03;;;;+5531975591475;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Elenice;De Jesus Soares;elenice.soares@locgrupo.com.br;****;;/;;Active;2026-06-02 07:06:42;elenicesoares32@hotmail.com;;;+5511970174508;;;;;;;;;;;;False;False;;;;0.16GB;0.0GB;0.0GB;5.0GB;0.16GB;False;;1010020030.0;;False;-
+Eliane;Dos Santos Mattos;eliane.mattos@locgrupo.com.br;****;;/;;Active;2026-06-13 17:16:44;liumattos@hotmail.com;;;+5511989013910;;;;;;;;;;;;False;False;;;;5.59GB;6.34GB;0.0GB;--;11.93GB;False;;1010020028.0;;False;NOT_APPROACHING_LIMIT
+Eliane;Ferreira;elaine.ferreira@locgrupo.com.br;****;;/;;Active;2026-01-06 05:50:04;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Elioenay;Libny de Souza;elioenay.1.souza@locgrupo.com.br;****;;/;;Active;2026-06-13 20:08:45;elioenaysouza@gmail.com;;;+5531997003663;;;;;;;;;;;;False;False;;;;0.05GB;0.1GB;0.45GB;5.0GB;0.6GB;False;;1010020030.0;;False;-
+Ellen;Dos Santos Fernandes;ellen.fernandes@locgrupo.com.br;****;;/;;Active;2026-06-10 04:31:26;ellenfernandes08@gmail.com;;;+5531988150854;;;;;;;;;;;;False;False;;;;0.15GB;0.8GB;0.0GB;5.0GB;0.96GB;False;;1010020030.0;;False;-
+Ellen;Christine Lopes;ellen.lopes@locgrupo.com.br;****;;/;;Active;2026-05-29 18:19:58;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Elton;Rodrigues Sobral;elton.sobral@locgrupo.com.br;****;;/;;Active;2026-06-18 11:27:29;;;;+5511994927643;;;;;;;;;;;;False;False;;;;0.08GB;0.14GB;0.0GB;5.0GB;0.22GB;False;;1010020030.0;;False;-
+Emilly;Alves Tonaco;emilly.tonaco@locgrupo.com.br;****;;/;;Active;2026-06-02 09:35:28;;;;;;;;;;;;;;;;False;False;;;;0.01GB;0.0GB;0.0GB;5.0GB;0.01GB;False;;1010020030.0;;False;-
+Emilly;De Oliveira Costa;emilly.costa@locgrupo.com.br;****;;/;;Active;2026-06-11 10:37:12;;;;;;;;;;;;;;;;False;False;;;;0.71GB;0.38GB;0.02GB;5.0GB;1.12GB;False;;1010020030.0;;False;-
+Emily Mary;de Melo;emily.melo@locgrupo.com.br;****;;/;;Active;2026-05-21 06:39:32;emilymarydemelo26@gmail.com;;;+5531996613094;;;;;;;;;;;;False;False;;;;0.01GB;2.95GB;0.0GB;5.0GB;2.96GB;False;;1010020030.0;;False;-
+Equipe;Aguia Suprema;equipe.aguiasuprema@locgrupo.com.br;****;;/;;Active;2026-06-02 04:45:16;;;;;;;;;;;;;;;;False;False;;;;0.02GB;99.89GB;0.0GB;--;99.91GB;False;;1010020028.0;;False;NOT_APPROACHING_LIMIT
+Equipe;Sparta;equipe.sparta@locgrupo.com.br;****;;/;;Active;2026-06-10 06:24:29;jullius.brum@locgrupo.com.br;;;+5531991639644;;;;;;;;;;;;False;False;;;;0.01GB;49.77GB;0.0GB;--;49.78GB;False;;1010020028.0;;False;NOT_APPROACHING_LIMIT
+Equipe;Xerife do Belo;equipe.xerife@locgrupo.com.br;****;;/;;Active;2026-04-08 08:14:24;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;--;0.0GB;False;;1010020028.0;;False;-
+Equipe;Fênix;equipe.fenix@locgrupo.com.br;****;;/;;Active;2026-06-12 06:03:19;;;;;;;;;;;;;;;;False;False;;;;0.0GB;312.24GB;0.0GB;--;312.24GB;False;;1010020028.0;;False;NOT_APPROACHING_LIMIT
+Equipe;Alpha;equipe.alpha@locgrupo.com.br;****;;/;;Active;2026-06-02 09:59:31;natalia.onilis@locgrupo.com.br;;;+5531972117351;;;;;;;;;;;;False;False;;;;0.0GB;105.6GB;0.0GB;--;105.6GB;False;;1010020028.0;;False;NOT_APPROACHING_LIMIT
+Erik;Anderson Alves da Cunha Silva;erik.silva@locgrupo.com.br;****;;/;;Active;2026-06-18 07:51:09;;;;;;;;;;;;;;;;False;False;;;;0.01GB;0.0GB;0.0GB;5.0GB;0.01GB;False;;1010020030.0;;False;-
+Erik Junio;Santos Tomaz;erik.tomaz@locgrupo.com.br;****;;/;;Active;2025-12-01 13:58:34;;;;+5531991846529;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Ezequiel Eliezer;Zanelato;ezequiel.zanelato@locgrupo.com.br;****;;/;;Active;2026-05-20 07:07:17;;;;;;;;;;;;;;;;False;False;;;;0.01GB;0.0GB;0.0GB;5.0GB;0.01GB;False;;1010020030.0;;False;-
+Fabiano;Camacho;fabiano.camacho@locgrupo.com.br;****;;/;;Active;2025-08-05 07:07:02;;;;;;;;;;;;;;;;False;False;;;;0.03GB;0.0GB;0.0GB;--;0.03GB;False;;1010020027.0;;False;-
+Fabiano;Da Silva;fabiano.silva@locgrupo.com.br;****;;/;;Active;2026-03-31 13:43:45;;;;;;;;;;;;;;;;False;False;;;;0.84GB;0.0GB;0.03GB;--;0.87GB;False;;1010020028.0;;False;-
+Fabio;Alves Galvao;fabio.galvao@locgrupo.com.br;****;;/;;Active;2026-02-28 10:07:40;;;;;;;;;;;;;;;;False;False;;;;0.06GB;0.0GB;0.0GB;5.0GB;0.06GB;True;;1010020030.0;;False;-
+Fabrício;Henrique Mesquita de Almeida;fabricio.almeida@locgrupo.com.br;****;;/;;Active;2026-06-01 04:51:27;;;;;;;;;;;;;;;;False;False;;;;0.02GB;0.0GB;0.0GB;5.0GB;0.02GB;False;;1010020030.0;;False;-
+Felipe;Domingos dos Santos;felipe.santos@locgrupo.com.br;****;;/;;Active;2026-01-30 09:54:29;;;;;;;;;;;;;;;;False;False;;;;0.22GB;0.32GB;0.01GB;5.0GB;0.55GB;False;;1010020030.0;;False;-
+Felipe;Alexandre Generoso;felipe.generoso@locgrupo.com.br;****;;/;;Active;2026-06-15 10:31:19;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;7.07GB;5.0GB;7.07GB;False;;1010020030.0;;False;-
+Felipe;Augusto Salomão;felipe.salomao@locgrupo.com.br;****;;/;;Active;2026-06-08 10:31:02;;;;;;;;;;;;;;;;False;False;;;;0.04GB;0.0GB;0.0GB;5.0GB;0.04GB;False;;1010020030.0;;False;-
+Felipe;Ornelas Rezende Rodrigues;felipe.ornelas@locgrupo.com.br;****;;/;;Active;2026-06-02 13:49:45;;;;;31994007192.0;;;;;;;;;;;False;False;;;;4.76GB;0.0GB;0.0GB;--;4.76GB;False;;1010020028.0;;False;-
+Felipe;Correia;felipe.correia@locgrupo.com.br;****;;/;;Active;2026-06-17 13:30:09;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Felix;Teixeira Fernandes;felix.fernandes@locgrupo.com.br;****;;/;;Active;2026-01-19 11:49:28;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;True;;1010020030.0;;False;-
+Fernando;Henrique De Almeida;fernando.henrique@locgrupo.com.br;****;;/;;Active;2026-06-11 20:12:53;;;;+5511982038403;;;;;;;;;;;;False;False;;;;0.22GB;0.01GB;0.56GB;5.0GB;0.79GB;False;;1010020030.0;;False;-
+Fernando;Fernandes Cordeiro Farias;fernando.farias@locgrupo.com.br;****;;/;;Active;2026-02-03 09:05:06;;;;;;;;;;;;;;;;False;False;;;;0.04GB;0.03GB;0.0GB;5.0GB;0.07GB;False;;1010020030.0;;False;-
+Fernando Luis;Couto Da Silva;fernando.silva@locgrupo.com.br;****;;/;;Active;2026-02-26 03:42:20;caroline.barsante@locgrupo.com.br;;;+5531984858249;;;;;;;;;;;;True;False;;;;0.53GB;1.26GB;0.0GB;5.0GB;1.79GB;False;;1010020030.0;;False;-
+Filipe;Thiago Barros Alencar;filipe.alencar@locgrupo.com.br;****;;/;;Active;2025-08-07 04:31:59;;;;;;;;;;;;;;;;False;False;;;;0.01GB;0.29GB;0.0GB;5.0GB;0.3GB;False;;1010020030.0;;False;-
+Fillipe;Tadeu Ramos Felix Ferreira;fillipe.felix@locgrupo.com.br;****;;/;;Active;2026-06-09 03:32:39;;;;+5531984126892;;;;;;;;;;;;False;False;;;;0.53GB;0.0GB;0.0GB;--;0.53GB;False;;1010020028.0;;False;-
+Flavia;Seandra Silva Piemonte;flavia.piemonte@locgrupo.com.br;****;;/;;Active;2026-05-04 06:01:53;;;;+5511988613687;;;;;;;;;;;;False;False;;;;0.0GB;0.09GB;0.05GB;5.0GB;0.14GB;False;;1010020030.0;;False;-
+Flávia;Paulina do Nascimento Duarte;flavia.duarte@locgrupo.com.br;****;;/;;Active;2026-06-09 17:15:19;;;;+5511988592594;;;;;;;;;;;;False;False;;;;0.1GB;0.32GB;0.9GB;5.0GB;1.32GB;False;;1010020030.0;;False;-
+Francisca;Nascimento Fernandes;francisca.fernandes@locgrupo.com.br;****;;/;;Active;2026-01-23 07:23:00;;;;;;;;;;;;;;;;False;False;;;;0.03GB;3.07GB;1.3GB;5.0GB;4.41GB;True;;1010020030.0;;False;-
+Francisca;Daiana Barbosa Silva;francisca.silva@locgrupo.com.br;****;;/;;Active;2026-06-02 23:13:59;Dayannacrateus@gmail.com;;;;;;;;;;;;;;;False;False;;;;0.02GB;0.0GB;0.0GB;5.0GB;0.02GB;False;;1010020030.0;;False;-
+Franklin;do Sacramento Teles Cerqueira;franklin.cerqueira@locgrupo.com.br;****;;/;;Active;2025-11-19 06:14:24;franklintele@gmail.com;;;+5571999127115;;;;;;;;;;;;False;False;;;;0.02GB;0.19GB;0.0GB;5.0GB;0.21GB;False;;1010020030.0;;False;-
+Fábio Augusto;de Freitas Dias;fabio.dias@locgrupo.com.br;****;;/;;Active;2026-06-09 10:52:40;;;;+5531984206717;;;;;;;;;;;;False;False;;;;0.04GB;15.66GB;0.0GB;--;15.7GB;False;;1010020028.0;;False;-
+Gabriel;da Gama Neves Bonfim;gabriel.bonfim@locgrupo.com.br;****;;/;;Active;2026-06-19 12:00:15;;;;;;;;;;;;;;;;False;False;;;;0.0GB;11.01GB;0.0GB;--;11.02GB;False;;1010020028.0;;False;-
+Gabriel;Lourinho Costa;gabriel.costa@locgrupo.com.br;****;;/;;Active;2026-05-10 12:10:43;;;;;;;;;;;;;;;;False;False;;;;0.01GB;0.0GB;0.02GB;5.0GB;0.03GB;False;;1010020030.0;;False;-
+Gabriel;Souza;gabriel.souza@locgrupo.com.br;****;;/;;Active;2026-04-22 08:08:09;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Gabriel;Antônio Rausch Ferreira;gabriel.ferreira@locgrupo.com.br;****;;/;;Active;2026-06-09 05:01:21;;;;;;;;;;;;;;;;False;False;;;;0.03GB;0.0GB;0.0GB;--;0.03GB;False;;1010020027.0;;False;NOT_APPROACHING_LIMIT
+Gabriel Afonso;Cunha Vieira;gabriel.vieira@locgrupo.com.br;****;;/;;Active;2026-06-03 05:03:43;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Gabriel Caique;de Souza;gabrielcaique.souza@locgrupo.com.br;****;;/;;Active;2026-06-08 03:47:43;;;;;;;;;;;;;;;;False;False;;;;0.58GB;2.32GB;0.0GB;5.0GB;2.9GB;False;;1010020030.0;;False;-
+Gabriela;Dos Anjos Da Silva Santana;gabriela.santana@locgrupo.com.br;****;;/;;Active;2026-06-05 08:21:19;;;;+5511953280978;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.01GB;False;;1010020030.0;;False;-
+Gabriela;Barbosa da Silva;gabriela.silva@locgrupo.com.br;****;;/;;Active;2026-04-09 20:25:54;;;;+5531984848346;;;;;;;;;;;;False;False;;;;0.02GB;0.0GB;0.0GB;5.0GB;0.02GB;False;;1010020030.0;;False;-
+Gabriela;Xavier dos Santos;gabriela.santos@locgrupo.com.br;****;;/;;Active;2026-06-12 09:32:31;;;;+5511939029979;;;;;;;;;;;;False;False;;;;0.35GB;1.43GB;11.34GB;--;13.12GB;False;;1010020028.0;;False;NOT_APPROACHING_LIMIT
+Gabriela Maria;Neiva Mendes;gabriela.mendes@locgrupo.com.br;****;;/;;Active;2025-06-23 07:39:53;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Gemini;ia;gemini.ia@locgrupo.com.br;****;;/;;Active;2026-06-13 14:13:52;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+gemini;slv;gemini.slv@locgrupo.com.br;****;;/;;Active;2026-06-10 09:37:04;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;--;0.0GB;False;;1010020028.0;;False;-
+Georgia;teixeira;georgia.teixeira@locgrupo.com.br;****;;/;;Active;2026-06-13 10:07:55;gege628@gmail.com;;;+5511977261492;;;;;;;;;;;;False;False;;;;0.02GB;0.0GB;2.03GB;5.0GB;2.04GB;False;;1010020030.0;;False;-
+Geovana Aparecida;Ferreira de Pádua;geovana.padua@locgrupo.com.br;****;;/;;Active;2026-05-22 09:16:58;padua19geovana95@gmail.com;;;+5531984667215;;;;;;;;;;;;False;False;;;;0.01GB;0.0GB;0.0GB;5.0GB;0.01GB;False;;1010020030.0;;False;-
+Geziane Rose;Rocha Ribeiro;geziane.ribeiro@locgrupo.com.br;****;;/;;Active;Never logged in;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;True;;1010020030.0;;False;-
+Gildalina;Luzia Reis da Costa;gildalina.costa@locgrupo.com.br;****;;/;;Active;2026-05-30 03:49:52;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Giovanna;Sena da Silva;giovanna.silva@locgrupo.com.br;****;;/;;Active;2026-06-11 04:44:49;;;;;;;;;;;;;;;;False;False;;;;0.01GB;0.0GB;0.0GB;5.0GB;0.01GB;False;;1010020030.0;;False;-
+Giovanna;Laís de Lima Ferreira Lobão;giovanna.lobao@locgrupo.com.br;****;;/;;Active;2025-07-31 09:35:23;giovannalais.lobao@gmail.com;;;+5531975327332;;;;;;;;;;;;False;False;;;;0.4GB;0.0GB;0.0GB;5.0GB;0.41GB;False;;1010020030.0;;False;-
+Giovanna;Maria Nascimento;giovanna.nascimento@locgrupo.com.br;****;;/;;Active;2026-04-15 04:51:58;;;;;;;;;;;;;;;;False;False;;;;2.09GB;1.37GB;0.0GB;5.0GB;3.46GB;True;;1010020030.0;;False;-
+Glaucia;Pereira de Sousa;glaucia.sousa@locgrupo.com.br;****;;/;;Active;2026-06-18 12:01:46;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Glaucia;Faria Rodrigues da Silva;glaucia.silva@locgrupo.com.br;****;;/;;Active;2026-06-09 04:31:21;financeirolocagora01@gmail.com;;;+5531984585102;;;;;;;;;;;;False;False;;;;2.45GB;0.06GB;0.0GB;5.0GB;2.51GB;False;;1010020030.0;;False;-
+Glayson;Oliveira Lopes;glayson.lopes@locgrupo.com.br;****;;/;;Active;2026-06-11 07:27:42;;;;;;;;;;;;;;;;False;False;;;;0.01GB;0.0GB;0.0GB;5.0GB;0.01GB;False;;1010020030.0;;False;-
+Gleice Maria;Silva de Carvalho;gleice.carvalho@locgrupo.com.br;****;;/;;Active;2026-06-09 07:07:38;;;;+5583998301915;;;;;;;;;;;;False;False;;;;0.04GB;0.0GB;0.0GB;5.0GB;0.04GB;False;;1010020030.0;;False;-
+Gleidson;Mendonça de Andrade;gleidson.andrade@locgrupo.com.br;****;;/;;Active;2026-06-14 13:05:25;gleidsonmendonca@gmail.com;;;+5531997946832;;;;;;;;;;;;False;False;;;;0.06GB;2.63GB;1.72GB;5.0GB;4.43GB;False;;1010020030.0;;False;-
+Guilherme;Alves Damazio;guilherme.damazio@locgrupo.com.br;****;;/;;Active;2026-06-05 10:00:48;;;;;;;;;;;;;;;;False;False;;;;0.29GB;0.5GB;0.0GB;5.0GB;0.79GB;False;;1010020030.0;;False;-
+Guilherme;Sousa;guilherme.sousa@locgrupo.com.br;****;;/;;Active;Never logged in;;;;;;;;;;;;;;;;False;False;;;;0.18GB;0.0GB;0.0GB;5.0GB;0.18GB;True;;1010020030.0;;False;-
+Gustavo;Henrique Custódio  da Silva;gustavo.silva@locgrupo.com.br;****;;/;;Active;2026-06-05 10:52:21;;;;;;;;;;;;;;;;False;False;;;;0.01GB;0.0GB;0.0GB;5.0GB;0.01GB;False;;1010020030.0;;False;-
+Gustavo;Dos Santos Ferreira;gustavo.ferreira@locgrupo.com.br;****;;/;;Active;2026-05-20 04:49:54;;;;+5511989010566;;;;;;;;;;;;False;False;;;;0.13GB;0.0GB;0.0GB;5.0GB;0.13GB;False;;1010020030.0;;False;-
+Hiago;Faustino Oliveira Souza;hiago.souza@locgrupo.com.br;****;;/;;Active;2025-12-19 23:00:29;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;2.32GB;5.0GB;2.32GB;False;;1010020030.0;;False;-
+Hillary;Barcellos Figueiredo;hillary.figueiredo@locgrupo.com.br;****;;/;;Active;2025-12-04 12:33:00;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;True;;1010020030.0;;False;-
+Hugo;Silva Santos;hugo.santos@locgrupo.com.br;****;;/;;Active;2026-06-05 04:06:11;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Humberto Afonso;Nunes de Melo;humberto.melo@locgrupo.com.br;****;;/;;Active;2026-06-13 17:17:01;;;;;;;;;;;;;;;;False;False;;;;0.01GB;0.0GB;0.0GB;5.0GB;0.01GB;False;;1010020030.0;;False;-
+Iara;Pires Pereira;iara.pereira@locgrupo.com.br;****;;/;;Active;2026-01-16 04:29:10;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Igor;Gaudencio;igor.gaudencio@locgrupo.com.br;****;;/;;Active;2026-06-09 05:08:46;;;;+5531999995898;;;;;;;;;;;;False;False;;;;0.06GB;2.75GB;0.02GB;--;2.83GB;False;;1010020028.0;;False;-
+Ilza Carla;Amador Santos Costa;ilza.costa@locgrupo.com.br;****;;/;;Active;2026-06-03 10:21:42;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Ingrid;Branca Ribeiro de Assis;ingrid.assis@locgrupo.com.br;****;;/;;Active;2025-12-12 07:24:06;;;;;;;;;;;;;;;;False;False;;;;0.01GB;2.76GB;0.0GB;5.0GB;2.76GB;False;;1010020030.0;;False;-
+Instagram;Franquia;intagram.franquia@locgrupo.com.br;****;;/;;Active;Never logged in;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;True;;1010020030.0;;False;-
+Inteligência artificial;Seminovos;ia.seminovos@locgrupo.com.br;****;;/;;Active;2026-05-18 08:26:40;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;--;0.0GB;False;;1010020028.0;;False;-
+Isabela;Fonseca;isabela.fonseca@locgrupo.com.br;****;;/;;Active;2026-06-12 06:23:33;;;;;;;;;;;;;;;;False;False;;;;2.1GB;0.01GB;0.0GB;5.0GB;2.11GB;False;;1010020030.0;;False;-
+Isabela;da Silva Menezes;isabela.menezes@locgrupo.com.br;****;;/;;Active;2026-06-11 07:39:44;;;;;;;;;;;;;;;;False;False;;;;0.04GB;0.0GB;0.0GB;5.0GB;0.04GB;False;;1010020030.0;;False;-
+Isabela;Marques Félix Ferreira;isabela.ferreira@locgrupo.com.br;****;;/;;Active;2026-02-26 07:33:13;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Isabela;Caroline Ferreira Soares;isabela.soares@locgrupo.com.br;****;;/;;Active;2026-06-03 08:25:48;;;;+5531982160697;;;;;;;;;;;;False;False;$$NO_BUILDING$$;;;1.7GB;3.18GB;0.0GB;5.0GB;4.88GB;False;;1010020030.0;;False;-
+Isabella;Boccatto Novais;isabella.novais@locgrupo.com.br;****;;/;;Active;2025-12-08 11:46:49;ibn.isaboccatto@gmail.com;;;+5511948171702;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Isabelle;Ferraz Silva;isabelle.silva@locgrupo.com.br;****;;/;;Active;2026-06-11 06:07:14;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Israel;Paulo Silva Filho;israel.filho@locgrupo.com.br;****;;/;;Active;2026-05-05 14:16:13;israelfilho@locagoraveiculos.com.br;;;+5511962192029;;;;;;;;;;;;False;False;;;;0.01GB;0.84GB;0.02GB;5.0GB;0.87GB;False;;1010020030.0;;False;-
+Italuana;Souza Santana;italuana.santana@locgrupo.com.br;****;;/;;Active;2026-06-10 06:17:02;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;3.03GB;--;3.04GB;False;;1010020027.0;;False;-
+Ivan;Carlos de Almeida Silva;ivan.silva@locgrupo.com.br;****;;/;;Active;Never logged in;;;;+5511967345046;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;True;;1010020030.0;;False;-
+Izabella;Dantas do Nascimento;izabella.nascimento@locgrupo.com.br;****;;/;;Active;2026-06-08 05:15:39;;;;+5511989158704;;;;;;;;;;;;False;False;;;;0.02GB;0.0GB;0.0GB;5.0GB;0.02GB;False;;1010020030.0;;False;-
+Jackson Junio;da Silva Rosa;jackson.rosa@locgrupo.com.br;****;;/;;Active;2026-06-12 10:26:36;;;;;;;;;;;;;;;;False;False;;;;0.01GB;0.01GB;0.07GB;5.0GB;0.09GB;False;;1010020030.0;;False;-
+Jacqueline;Sotero Lage Magalhães;jacqueline.magalhaes@locgrupo.com.br;****;;/;;Active;2026-06-09 09:03:40;;;;;;;;;;;;;;;;False;False;;;;0.72GB;0.0GB;0.0GB;5.0GB;0.72GB;False;;1010020030.0;;False;-
+Jader;Diniz Ferreira Dos Santos;jader.diniz@locgrupo.com.br;****;;/;;Active;2026-06-15 12:33:58;;;;;;;;;;;;;;;;False;False;;;;0.12GB;5.24GB;0.06GB;--;5.42GB;False;;1010020027.0;;False;-
+Jaira;Fagundes Moreira de Araújo Gomes;jaira.gomes@locgrupo.com.br;****;;/;;Active;2026-06-10 06:24:50;;;;+5531982972282;;;;;;;;;;;;False;False;;;;0.08GB;0.52GB;0.0GB;5.0GB;0.6GB;False;;1010020030.0;;False;-
+Jamile;Santos de Almeida;jamile.almeida@locgrupo.com.br;****;;/;;Active;2026-02-18 11:32:44;;;;+5511939027890;;;;;;;;;;;;False;False;;;;0.01GB;0.0GB;0.0GB;5.0GB;0.01GB;False;;1010020030.0;;False;-
+Jaqueline;Santos de Almeida;jaqueline.almeida@locgrupo.com.br;****;;/;;Active;Never logged in;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;True;;1010020030.0;;False;-
+Jaqueline;Fernandes Alvez da Silva;jaqueline.silva@locgrupo.com.br;****;;/;;Active;2026-06-01 06:38:36;;;;;;;;;;;;;;;;False;False;;;;0.05GB;0.01GB;0.0GB;5.0GB;0.06GB;False;;1010020030.0;;False;-
+Jayara;Fagundes Araujo;jayara.araujo@locgrupo.com.br;****;;/;;Active;2026-06-08 07:20:39;JAYARAARAUJOO@GMAIL.COM;;;+5531989615843;;;;;;;;;;;;False;False;;;;0.03GB;0.0GB;0.0GB;5.0GB;0.03GB;False;;1010020030.0;;False;-
+Jeferson;Gomes da Silva;jeferson.silva@locgrupo.com.br;****;;/;;Active;2026-06-02 05:15:58;;;;+5511915244918;;;;;;;;;;;;False;False;;;;0.02GB;0.01GB;0.0GB;5.0GB;0.03GB;False;;1010020030.0;;False;-
+Jeferson;Marques Magalhães;jeferson.magalhaes@locgrupo.com.br;****;;/;;Active;Never logged in;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;True;;1010020030.0;;False;-
+Jeferson;Rodrigues da Silva;jefersonrodrigues.silva@locgrupo.com.br;****;;/;;Active;2026-06-05 03:38:29;;;;;;;;;;;;;;;;False;False;;;;0.08GB;0.13GB;0.0GB;5.0GB;0.22GB;False;;1010020030.0;;False;-
+Jessica;Damas Fliess Nogueira;jessica.nogueira@locgrupo.com.br;****;;/;;Active;2026-05-13 12:22:06;;;;;;;;;;;;;;;;False;False;;;;0.01GB;0.0GB;0.0GB;5.0GB;0.01GB;False;;1010020030.0;;False;-
+Jessica;Helena Oliveira Murça;jessica.murca@locgrupo.com.br;****;;/;;Active;2026-04-12 19:56:27;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;True;;1010020030.0;;False;-
+Jessica;de Sousa Martins;jessica.martins@locgrupo.com.br;****;;/;;Active;2026-05-06 07:50:46;;;;;;;;;;;;;;;;False;False;;;;0.06GB;0.1GB;0.0GB;5.0GB;0.16GB;False;;1010020030.0;;False;-
+Jessyca Vitória;Arruda Leandro;jessya.leandro@locgrupo.com.br;****;;/;;Active;2026-06-11 14:29:19;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.01GB;False;;1010020030.0;;False;-
+Jhenifer;ketlin Duarte Pereira;jhenifer.pereira@locgrupo.com.br;****;;/;;Active;2026-06-08 15:07:30;Jhenduartee@gmail.com;;;+5511977260431;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.01GB;5.0GB;0.02GB;False;;1010020030.0;;False;-
+Jhennifer;Francielly Moraes de Oliveira;jhennifer.oliveira@locgrupo.com.br;****;;/;;Active;2025-06-23 04:33:31;;;;;;;;;;;;;;;;False;False;;;;0.03GB;0.0GB;0.0GB;5.0GB;0.03GB;False;;1010020030.0;;False;-
+Jhonatan;Henrique Salatiel Carvalho;jhonatan.carvalho@locgrupo.com.br;****;;/;;Active;Never logged in;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;True;;1010020030.0;;False;-
+Jhonathan;Felix da Silva;jhonathan.silva@locgrupo.com.br;****;;/;;Active;2026-06-01 15:45:16;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Jhuli;Dos Santos Souza;jhuli.souza@locgrupo.com.br;****;;/;;Active;2026-06-11 06:50:08;;;;;;;;;;;;;;;;False;False;;;;0.12GB;47.68GB;0.0GB;--;47.8GB;False;;1010020028.0;;False;NOT_APPROACHING_LIMIT
+Joao;Catanan Neto;joao.neto@locgrupo.com.br;****;;/;;Active;2026-06-02 06:47:07;joao.catananmobili@gmail.com;;;+5511993432201;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Joao Felipe;Câmera Cardoso;joao.cardoso@locgrupo.com.br;****;;/;;Active;Never logged in;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;True;;1010020030.0;;False;-
+Jonas;Felippe dos Santos;jonas.santos@locgrupo.com.br;****;;/;;Active;2026-01-26 10:11:37;;;;;;;;;;;;;;;;False;False;;;;0.0GB;153.32GB;0.0GB;--;153.33GB;False;;1010020027.0;;False;-
+Jonata Leno;Cordvil Pereira;jonata.pereira@locgrupo.com.br;****;;/;;Active;Never logged in;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;True;;1010020030.0;;False;-
+Jonathan Patrick;dos Santos;jonathan.santos@locgrupo.com.br;****;;/;;Active;2026-06-15 02:03:53;;;;;;;;;;;;;;;;False;False;;;;0.01GB;0.0GB;0.0GB;5.0GB;0.01GB;False;;1010020030.0;;False;-
+Jordhan;Jackson de Oliveira Mendes;jordhan.mendes@locgrupo.com.br;****;;/;;Active;2026-05-15 05:07:58;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Jose Flavio;Albuquerque Junior;jose.junior@locgrupo.com.br;****;;/;;Active;2026-06-02 04:34:54;flavio08pedro@gmail.com;;;+5582999442010;;;;;;;;;;;;False;False;;;;0.1GB;0.0GB;0.0GB;5.0GB;0.1GB;False;;1010020030.0;;False;-
+Josué;Rodrigues Dias;josue.dias@locgrupo.com.br;****;;/;;Active;2026-06-10 06:17:10;;;;;;;;;;;;;;;;False;False;;;;0.2GB;0.41GB;0.05GB;5.0GB;0.66GB;False;;1010020030.0;;False;-
+José;Luis Ramos;jose.ramos@locgrupo.com.br;****;;/;;Active;2026-01-25 17:44:59;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+José Victor;Pinto de Souza;jose.souza@locgrupo.com.br;****;;/;;Active;2026-06-15 13:29:29;;;;;;;;;;;;;;;;False;False;;;;0.01GB;1.05GB;0.0GB;5.0GB;1.06GB;False;;1010020030.0;;False;-
+José Wilson;Pereira Alcântara;jose.alcantara@locgrupo.com.br;****;;/;;Active;2026-06-11 14:31:30;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.42GB;0.98GB;--;1.4GB;False;;1010020028.0;;False;-
+Joyce;Ferreira de Alcântara;joyce.alcantara@locgrupo.com.br;****;;/;;Active;2026-06-09 00:04:33;;;;+5511961493399;;;;;;;;;;;;False;False;;;;0.02GB;0.01GB;1.41GB;5.0GB;1.43GB;False;;1010020030.0;;False;-
+Joyce;da Silva Araújo Ruza;joyce.ruza@locgrupo.com.br;****;;/;;Active;2026-06-08 09:04:44;;;;;;;;;;;;;;;;False;False;;;;0.16GB;0.0GB;0.0GB;5.0GB;0.16GB;False;;1010020030.0;;False;-
+Joyce Camila;Nascimento;joyce.nascimento@locgrupo.com.br;****;;/;;Active;2026-05-19 04:43:54;;;;;;;;;;;;;;;;False;False;;;;0.01GB;0.05GB;0.0GB;5.0GB;0.06GB;False;;1010020030.0;;False;-
+João;Pedro Drummond Scarponi;joao.scarponi@locgrupo.com.br;****;;/;;Active;2026-03-07 03:19:06;;;;;;;;;;;;;;;;False;False;;;;2.46GB;2.74GB;0.05GB;--;5.24GB;False;;1010020028.0;;False;-
+Jucélia;de Oliveira Alves;jucelia.alves@locgrupo.com.br;****;;/;;Active;2026-06-15 12:08:09;;;;;;;;;;;;;;;;False;False;;;;0.01GB;0.29GB;4.59GB;5.0GB;4.89GB;False;;1010020030.0;;False;-
+Julia;Vieira de Sousa;julia.sousa@locgrupo.com.br;****;;/;;Active;2025-09-10 07:48:23;;;;;;;;;;;;;;;;False;False;;;;0.01GB;0.0GB;0.0GB;5.0GB;0.01GB;False;;1010020030.0;;False;-
+Juliana;Lopes Barbosa;juliana.barbosa@locgrupo.com.br;****;;/;;Active;2026-06-10 05:48:47;julianalopesb23@gmail.com;;;+5531981122344;;;;;;;;;;;;False;False;;;;0.28GB;2.4GB;0.0GB;5.0GB;2.68GB;False;;1010020030.0;;False;-
+Juliana;Luiza Ferreira dos Santos;juliana.santos@locgrupo.com.br;****;;/;;Active;2026-06-12 11:06:54;julianaluiza367714@gmail.com;;;+5511915244991;;;;;;;;;;;;False;False;;;;0.05GB;0.03GB;0.94GB;--;1.05GB;False;;1010020027.0;;False;-
+Juliana;Pereira Leite;juliana.leite@locgrupo.com.br;****;;/;;Active;2026-03-05 11:12:18;juliana.julit@gmail.com;;;+5511914825273;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Juliana;Gonçalves Dias;juliana.dias@locgrupo.com.br;****;;/;;Active;Never logged in;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;True;;1010020030.0;;False;-
+Jullius;Carvalho de Brum;jullius.brum@locgrupo.com.br;****;;/;;Active;2026-06-11 08:51:01;;;;;;;;;;;;;;;;False;False;;;;0.13GB;8.27GB;0.0GB;--;8.4GB;False;;1010020028.0;;False;NOT_APPROACHING_LIMIT
+Junior;Pereira Lima;waldemar.junior@locgrupo.com.br;****;;/;;Active;2026-06-07 08:40:52;wpljunior@gmail.com;;;+5511981611585;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Jussara;Silva Irineu Pereira;jussara.pereira@locgrupo.com.br;****;;/;;Active;2025-09-24 03:50:02;;;;;;;;;;;;;;;;False;False;;;;0.08GB;0.97GB;0.0GB;5.0GB;1.05GB;False;;1010020030.0;;False;-
+Jéssica Mayra;Rodrigues Higino;jessica.higino@locgrupo.com.br;****;;/;;Active;2026-06-15 10:21:52;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Júlia;Rocha Braga da Silva;julia.silva@locgrupo.com.br;****;;/;;Active;2026-06-10 10:12:51;;;;+5531984207002;;;;;;;;;;;;False;False;;;;0.31GB;1.61GB;0.0GB;5.0GB;1.92GB;False;;1010020030.0;;False;-
+Júlia;Gonçalves Gabriel Landa;julia.landa@locgrupo.com.br;****;;/;;Active;2026-06-09 13:09:21;;;;;;;;;;;;;;;;False;False;;;;0.08GB;0.12GB;0.0GB;5.0GB;0.2GB;False;;1010020030.0;;False;-
+Kaique;Santos;kaique.santos@locgrupo.com.br;****;;/;;Active;2026-06-12 11:14:51;ksnkaique@gmail.com;;;;;;;;;;;;;;;False;False;$$MISSING_BUILDING$$;;;0.37GB;2.49GB;0.0GB;--;2.86GB;False;;1010020028.0;;False;NOT_APPROACHING_LIMIT
+Kamila;da Silva Gomes;kamila.gomes@locgrupo.com.br;****;;/;;Active;2026-04-15 08:05:22;;;;;;;;;;;;;;;;False;False;;;;0.03GB;0.0GB;0.0GB;5.0GB;0.03GB;False;;1010020030.0;;False;-
+Kamila Karen;Roque Ferreira;kamila.ferreira@locgrupo.com.br;****;;/;;Active;2026-06-11 05:57:23;;;;;;;;;;;;;;;;False;False;;;;1.98GB;0.02GB;0.0GB;5.0GB;2.0GB;False;;1010020030.0;;False;-
+Kamylle Cecilia;Gonçalves da Cruz;kamylle.cruz@locgrupo.com.br;****;;/;;Active;2026-06-09 12:07:21;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Karen;Brandão de Araujo;karen.araujo@locgrupo.com.br;****;;/;;Active;2025-04-08 07:05:05;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Karolayne;lira da silva;karolayne.silva@locgrupo.com.br;****;;/;;Active;2026-06-11 05:43:02;;;;+5511953282107;;;;;;;;;;;;False;False;;;;0.02GB;0.0GB;0.0GB;5.0GB;0.02GB;False;;1010020030.0;;False;-
+Karoline;Vieira Gouveia;karoline.gouveia@locgrupo.com.br;****;;/;;Active;2026-06-12 05:37:06;;;;;;;;;;;;;;;;False;False;;;;0.09GB;4.36GB;0.0GB;5.0GB;4.46GB;False;;1010020030.0;;False;-
+Kathleen;Martins D Avila Carneiro;kathleen.carneiro@locgrupo.com.br;****;;/;;Active;2026-05-27 06:19:26;;;;+5531984091696;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.01GB;5.0GB;0.02GB;False;;1010020030.0;;False;-
+Kaua;de Sousa Pereira;kaua.pereira@locgrupo.com.br;****;;/;;Active;Never logged in;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;True;;1010020030.0;;False;-
+Kawany;Chaves de Oliveira;kawany.oliveira@locgrupo.com.br;****;;/;;Active;2025-07-11 10:14:45;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Kayane Emily;Martins;kayane.emily@locgrupo.com.br;****;;/;;Active;2026-04-18 04:06:47;;;;;;;;;;;;;;;;False;False;;;;0.03GB;4.49GB;0.0GB;5.0GB;4.53GB;False;;1010020030.0;;False;-
+Kayky;Maximiano de Andrade;kayky.andrade@locgrupo.com.br;****;;/;;Active;2026-02-03 04:14:49;;;;+5511953282107;;;;;;;;;;;;False;False;;;;0.02GB;0.0GB;0.0GB;5.0GB;0.02GB;False;;1010020030.0;;False;-
+Kelryma;Viana;kelryma.viana@locgrupo.com.br;****;;/;;Active;Never logged in;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;True;;1010020030.0;;False;-
+Kerolainy;Campos Braga;kerolainy.braga@locgrupo.com.br;****;;/;;Active;2026-06-11 16:36:52;;;;;;;;;;;;;;;;False;False;;;;0.01GB;0.0GB;0.0GB;5.0GB;0.01GB;False;;1010020030.0;;False;-
+Keshelyn;Kristiny Oliveira de França;keshelyn.franca@locgrupo.com.br;****;;/;;Active;2026-06-12 03:32:21;;;;+5511953281196;11953281196.0;;;;;;;;;;;False;False;;;;0.03GB;0.08GB;0.29GB;5.0GB;0.41GB;False;;1010020030.0;;False;-
+Ketlyn;Carvalho Gregorio;ketlyn.gregorio@locgrupo.com.br;****;;/;;Active;2026-06-05 08:40:22;;;;;;;;;;;;;;;;False;False;;;;0.01GB;0.0GB;0.0GB;5.0GB;0.01GB;False;;1010020030.0;;False;-
+Kimberlly;Lorraine Rodrigues Santos;kimberlly.santos@locgrupo.com.br;****;;/;;Active;2026-01-21 13:30:27;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;True;;1010020030.0;;False;-
+Laercio;Gonzaga da Silva;laercio.silva@locgrupo.com.br;****;;/;;Active;Never logged in;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;True;;1010020030.0;;False;-
+Laila;Morgana Xavier Vieira;laila.vieira@locgrupo.com.br;****;;/;;Active;2026-06-08 12:53:50;lailamorgana1309@gmail.com;;;+5531993562328;;;;;;;;;;;;False;False;;;;0.01GB;0.0GB;0.0GB;5.0GB;0.01GB;False;;1010020030.0;;False;-
+Larissa;Marques Aversani;larissa.aversani@locgrupo.com.br;****;;/;;Active;2025-10-03 16:30:58;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Layane;Garcia de Oliveira Silva;layane.silva@locgrupo.com.br;****;;/;;Active;2026-06-08 06:40:30;;;;+5531991500092;;;;;;;;;;;;False;False;;;;0.02GB;1.73GB;0.04GB;5.0GB;1.78GB;False;;1010020030.0;;False;-
+Layla;Maria De Souza Lopes;layla.lopes@locgrupo.com.br;****;;/;;Active;2026-04-13 05:34:56;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.1GB;0.0GB;5.0GB;0.1GB;True;;1010020030.0;;False;-
+Laís Amanda;Silveira Rocha;lais.rocha@locgrupo.com.br;****;;/;;Active;2025-06-17 09:53:18;;;;;;;;;;;;;;;;False;False;;;;1.44GB;0.0GB;0.0GB;5.0GB;1.44GB;False;;1010020030.0;;False;-
+Leandro;Souza;leandro.souza@locgrupo.com.br;****;;/;;Active;2026-03-22 11:09:58;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Leandro;Rodrigues Cunha;leandro.cunha@locgrupo.com.br;****;;/;;Active;2026-02-17 05:23:50;;;;+5531983507880;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Leandro;de Souza Sabino;leandro.sabino@locgrupo.com.br;****;;/;;Active;2026-06-05 19:12:31;;;;+5531983351111;;;;;;;;;;;;False;False;;;;0.17GB;0.0GB;0.01GB;5.0GB;0.18GB;False;;1010020030.0;;False;-
+Leonardo;Gonçalves Carvalho;leonardo.carvalho@locgrupo.com.br;****;;/;;Active;2026-06-18 12:10:30;;;;+5531998356340;;;;;;;;;;;;False;False;;;;2.17GB;1.1GB;0.0GB;5.0GB;3.27GB;False;;1010020030.0;;False;-
+Leonardo;Gonçalves Müller da Silveira;leonardo.silveira@locgrupo.com.br;****;;/;;Active;2025-11-18 04:18:16;;;;;;;;;;;;;;;;False;False;;;;0.28GB;0.03GB;0.0GB;5.0GB;0.31GB;False;;1010020030.0;;False;-
+Leonardo;Alves;leonardo.alves@locgrupo.com.br;****;;/;;Active;2026-01-26 06:43:35;;;;;;;;;;;;;;;;False;False;;;;0.05GB;0.16GB;0.02GB;--;0.24GB;False;;1010020028.0;;False;-
+Lesley;Marques Ribeiro;lesley.ribeiro@locgrupo.com.br;****;;/;;Active;2025-06-23 07:10:33;;;;;;;;;;;;;;;;False;False;;;;0.02GB;0.0GB;0.0GB;5.0GB;0.02GB;False;;1010020030.0;;False;-
+Leticia;de Lima Souza;leticia.souza@locgrupo.com.br;****;;/;;Active;2026-06-12 06:55:35;;;;;;;;;;;;;;;;False;False;;;;0.18GB;96.02GB;0.0GB;--;96.2GB;False;;1010020027.0;;False;-
+Leticya;Vieira Herculido;leticya.herculino@locgrupo.com.br;****;;/;;Active;2026-06-15 02:29:38;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;1.18GB;5.0GB;1.18GB;False;;1010020030.0;;False;-
+Ligiane;Airys De Sousa Nunes;ligiane.nunes@locgrupo.com.br;****;;/;;Active;2026-06-11 13:00:05;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.02GB;5.0GB;0.03GB;False;;1010020030.0;;False;-
+Loc;Belo Horizonte;loc.agorabh@locgrupo.com.br;****;;/;;Active;2026-03-17 05:14:15;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Loc;Sao paulo;loc.saopaulo@locgrupo.com.br;****;;/;;Active;2026-03-17 05:14:15;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+LocaGOra;Belém;locagora.belem@locgrupo.com.br;****;;/;;Active;Never logged in;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;True;;1010020030.0;;False;-
+Lorchaider;Ferreira Lage;lorchaider.lage@locgrupo.com.br;****;;/;;Active;2026-06-12 09:17:44;;;;;;;;;;;;;;;;False;False;;;;0.04GB;0.01GB;0.23GB;5.0GB;0.28GB;False;;1010020030.0;;False;-
+Lorena;Cristina Gonçalves do Nascimento;lorena.nascimento@ilocphone.com.br;****;;/;;Active;2025-11-11 06:29:52;lorena.cnascimento2096@gmail.com;;;+5531972352906;;;;;;;;;;;;False;False;;;;0.02GB;0.12GB;0.18GB;5.0GB;0.31GB;False;;1010020030.0;;False;-
+Lorena;Aparecida Santos Felix;lorena.felix@locgrupo.com.br;****;;/;;Active;2026-05-19 13:14:30;lorenasoterio@yahoo.com.br;;;+5531994163542;;;;;;;;;;;;False;False;;;;0.32GB;0.0GB;0.0GB;5.0GB;0.32GB;False;;1010020030.0;;False;-
+Luan;Santos Medeiros;luan.medeiros@locgrupo.com.br;****;;/;;Active;2026-06-12 08:17:30;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.04GB;5.0GB;0.04GB;False;;1010020030.0;;False;-
+Luana;Santos Azevedo;luana.azevedo@locgrupo.com.br;****;;/;;Active;2026-03-13 10:11:09;;;;;;;;;;;;;;;;False;False;;;;0.29GB;0.56GB;0.0GB;5.0GB;0.86GB;False;;1010020030.0;;False;-
+Luany;Fernandes Ferreira;luany.ferreira@locgrupo.com.br;****;;/;;Active;2026-05-28 07:48:37;luanyff16@gmail.com;;;+5531972303484;;;;;;;;;;;;False;False;;;;0.0GB;0.78GB;0.0GB;5.0GB;0.79GB;False;;1010020030.0;;False;-
+Lucas;Joseph de Oliva Ribeiro;lucas.ribeiro@locgrupo.com.br;****;;/;;Active;2026-04-23 12:27:54;;;;+5531999190592;;;;;;;;;;;;False;False;;;;0.02GB;0.01GB;0.0GB;5.0GB;0.03GB;False;;1010020030.0;;False;-
+Lucas;Rodrigues de Paula;lucas.rodrigues@locgrupo.com.br;****;;/;;Active;2025-11-25 05:11:01;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Lucas;Gomes Torres;lucas.torres@locgrupo.com.br;****;;/;;Active;2026-06-15 12:12:38;lucas.trs@yahoo.com;;;+5582993125151;;;;;;;;;;;;False;False;;;;0.41GB;0.06GB;0.0GB;5.0GB;0.47GB;False;;1010020030.0;;False;-
+Lucas;Lujan Pereira;lucas.pereira@locgrupo.com.br;****;;/;;Active;2026-06-12 00:55:41;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;1.15GB;5.0GB;1.15GB;False;;1010020030.0;;False;-
+Lucas;Ferreira Silva;lucas.ferreira@locgrupo.com.br;****;;/;;Active;2026-06-08 09:42:40;;;;;;;;;;;;;;;;False;False;;;;0.03GB;0.1GB;0.23GB;5.0GB;0.36GB;False;;1010020030.0;;False;-
+Luciano;Ferreira da Silva;luciano.silva@locgrupo.com.br;****;;/;;Active;2026-05-13 13:12:28;llj.eventos@yahoo.com.br;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Ludmilla;Nery Brandi;ludmilla.brandi@locgrupo.com.br;****;;/;;Active;2026-06-10 05:29:40;neryludmilla@gmail.com;;;+5531997816819;;;;;;;;;;;;False;False;;;;0.04GB;0.03GB;0.0GB;5.0GB;0.06GB;False;;1010020030.0;;False;-
+Luiz;Eduardo Fernandes da Silva Ferreira;luiz.ferreira@locgrupo.com.br;****;;/;;Active;2026-06-12 04:32:41;;;;;;;;;;;;;;;;False;False;;;;0.15GB;0.29GB;0.0GB;5.0GB;0.44GB;False;;1010020030.0;;False;-
+Luiz Damião;da Silva Júnior;luiz.junior@locgrupo.com.br;****;;/;;Active;2026-05-02 18:05:39;;;;+5591980628651;;;;;;;;;;;;False;False;;;;0.01GB;0.48GB;0.0GB;5.0GB;0.49GB;False;;1010020030.0;;False;-
+Luiza Helena;Freitas Trabuco Lima;luiza.lima@locgrupo.com.br;****;;/;;Active;2026-06-11 13:51:48;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Lêda;dos Santos;leda.santos@locgrupo.com.br;****;;/;;Active;2026-06-18 10:34:59;;;;+5511961493071;;;;;;;;;;;;False;False;;;;0.02GB;0.0GB;0.0GB;5.0GB;0.02GB;False;;1010020030.0;;False;-
+Lígia;Mendelssohn Cunha da Silva;ligia.silva@locgrupo.com.br;****;;/;;Active;2026-06-05 04:48:44;;;;+5531999456253;;;;;;;;;;;;False;False;;;;1.44GB;1.33GB;0.0GB;5.0GB;2.77GB;False;;1010020030.0;;False;-
+Maiane;Stefane Almeida Bispo;maiane.bispo@locgrupo.com.br;****;;/;;Active;2026-06-18 08:56:23;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Marcela;Bandeira de Brito;marcela.brito@locgrupo.com.br;****;;/;;Active;2026-03-30 10:12:40;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Marcia;Amanda De Souza;marcia.souza@locgrupo.com.br;****;;/;;Active;2025-06-20 04:00:43;;;;;;;;;;;;;;;;False;False;;;;0.1GB;0.0GB;0.0GB;5.0GB;0.1GB;False;;1010020030.0;;False;-
+Marcilio;da Silva Fonseca;marcilio.fonseca@locgrupo.com.br;****;;/;;Active;2026-06-09 09:19:44;marcilio_mg07@hotmail.com;;;+5531997965866;;;;;;;;;;;;False;False;;;;3.73GB;0.0GB;0.0GB;5.0GB;3.73GB;False;;1010020030.0;;False;-
+Marcos;Paulo Da Silva;marcos.silva@locgrupo.com.br;****;;/;;Active;2026-01-09 10:35:41;;;;+5531998496999;;;;;;;;;;;;False;False;;;;0.03GB;0.0GB;0.0GB;5.0GB;0.03GB;False;;1010020030.0;;False;-
+Marcos Antônio;Gomes Figueiredo Júnior;marcos.figueiredo@locgrupo.com.br;****;;/;;Active;2026-06-08 04:01:49;;;;;;;;;;;;;;;;False;False;;;;0.58GB;0.04GB;0.18GB;5.0GB;0.8GB;False;;1010020030.0;;False;-
+Marcus;Oliveira;marcus.oliveira@locgrupo.com.br;****;;/;;Active;2026-06-12 11:38:44;;;;;;;;;;;;;;;;False;False;;;;0.06GB;20.22GB;0.0GB;--;20.28GB;False;;1010020028.0;;False;NOT_APPROACHING_LIMIT
+Marcus Vinicius;Gonçalves da Silva;marcus.silva@locgrupo.com.br;****;;/;;Active;2026-06-11 09:03:52;vsilva533@yahoo.com;;;+5511939032141;;;;;;;;;;;;False;False;;;;0.32GB;0.03GB;2.09GB;5.0GB;2.44GB;False;;1010020030.0;;False;-
+Maria Clara;Borges de Paiva;maria.paiva@locgrupo.com.br;****;;/;;Active;2026-06-10 05:03:01;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.01GB;False;;1010020030.0;;False;-
+Maria Eduarda;de Sousa Matos;maria.matos@locgrupo.com.br;****;;/;;Active;2026-06-17 05:30:10;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Maria Luiza;Barbosa Rodrigues;maria.rodrigues@locgrupo.com.br;****;;/;;Active;2026-06-08 11:58:37;;;;;;;;;;;;;;;;False;False;;;;0.04GB;2.48GB;0.03GB;5.0GB;2.54GB;False;;1010020030.0;;False;-
+Mariana;Raquel dos Santos;mariana.santos@locgrupo.com.br;****;;/;;Active;2026-05-13 23:33:23;;;;;;;;;;;;;;;;False;False;;;;0.01GB;0.0GB;0.0GB;5.0GB;0.01GB;False;;1010020030.0;;False;-
+Mariana;Leme dos Santos de Lima;mariana.lima@locgrupo.com.br;****;;/;;Active;2026-06-19 09:51:40;;;;+5511977262191;;;;;;;;;;;;False;False;;;;0.03GB;0.12GB;0.0GB;5.0GB;0.15GB;False;;1010020030.0;;False;-
+Marina;Cintra do Nascimento Oliveira;nina.cintra@locgrupo.com.br;****;;/;;Active;2026-05-07 06:53:16;;;;;;;;;;;;;;;;False;False;;;;0.23GB;49.64GB;0.0GB;--;49.87GB;False;;1010020027.0;;False;-
+Matheus;Rodrigues Eleodoro;matheus.eleodoro@locgrupo.com.br;****;;/;;Active;2026-06-15 09:31:00;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Matheus;Rodrigues Souza;matheus.souza@locgrupo.com.br;****;;/;;Active;2026-06-11 10:34:27;;;;;;;;;;;;;;;;False;False;;;;0.01GB;0.0GB;0.0GB;5.0GB;0.01GB;False;;1010020030.0;;False;-
+Mathias;Feliciano Pereira Neto;mathias.neto@locgrupo.com.br;****;;/;;Active;Never logged in;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;True;;1010020030.0;;False;-
+Melaine;Vieira Camargo;melaine.camargo@locgrupo.com.br;****;;/;;Active;2026-04-01 04:53:16;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Melissa;Rodrigues da Silva;melissa.silva@locgrupo.com.br;****;;/;;Active;2026-06-15 05:40:18;;;;+5531995737097;;;;;;;;;;;;False;False;;;;0.01GB;0.05GB;0.0GB;5.0GB;0.06GB;False;;1010020030.0;;False;-
+Melissa Emanuelle;Silva Martins;melissa.martins@locgrupo.com.br;****;;/;;Active;2025-11-11 03:55:22;;;;+5531997718041;;;;;;;;;;;;False;False;;;;0.4GB;0.17GB;0.0GB;5.0GB;0.57GB;False;;1010020030.0;;False;-
+Messias;Rodrigues de Oliveira;messias.oliveira@locgrupo.com.br;****;;/;;Active;2026-06-01 11:19:10;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Michel;Freitas Santos;michel.freitas@locgrupo.com.br;****;;/;;Active;2026-02-06 13:15:09;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Michel;Costa Silva;michel.silva@locgrupo.com.br;****;;/;;Active;2026-05-29 05:10:37;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Michelle;Cruz Silva de Oliveira;michelle.oliveira@locgrupo.com.br;****;;/;;Active;2026-04-15 07:09:02;;;;;;;;;;;;;;;;False;False;;;;2.46GB;1.14GB;0.0GB;5.0GB;3.6GB;True;;1010020030.0;;False;-
+Michelley;dos Santos Oliveira;michelley.oliveira@locgrupo.com.br;****;;/;;Active;2026-06-05 05:23:31;;;;;;;;;;;;;;;;False;False;;;;0.05GB;0.0GB;0.0GB;5.0GB;0.05GB;False;;1010020030.0;;False;-
+Millena;lana Teixeira;millena.teixeira@locgrupo.com.br;****;;/;;Active;2026-06-11 12:53:53;;;;;;;;;;;;;;;;False;False;;;;0.23GB;0.03GB;0.1GB;5.0GB;0.36GB;False;;1010020030.0;;False;-
+Mirella;Condé Feitoza Silva;mirella.silva@locgrupo.com.br;****;;/;;Active;2026-06-03 07:46:19;mirellacfs1@gmail.com;;;+5515996191734;;;;;;;;;;;;False;False;;;;0.01GB;0.0GB;0.0GB;5.0GB;0.01GB;False;;1010020030.0;;False;-
+Multiedro;Migração;multiedro@locgrupo.com.br;****;;/;;Active;2025-04-08 06:28:06;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Murillo;Silva;murillo.silva@locgrupo.com.br;****;;/;;Active;2026-06-12 08:22:56;;;;;;;;;;;;;;;;False;False;;;;0.83GB;40.54GB;0.0GB;--;41.36GB;False;;1010020028.0;;False;NOT_APPROACHING_LIMIT
+Mylena;Aparecida da Silva;mylena.silva@locgrupo.com.br;****;;/;;Active;2026-06-12 05:17:33;;;;;;;;;;;;;;;;False;False;;;;0.05GB;0.0GB;0.0GB;5.0GB;0.05GB;False;;1010020030.0;;False;-
+Naiara;Marjorie de Sousa Oliveira;naiara.marjorie@locgrupo.com.br;****;;/;;Active;2026-06-01 04:40:37;;;;+5511994894199;;;;;;;;;;;;False;False;;;;0.04GB;4.91GB;0.0GB;--;4.94GB;False;;1010020027.0;;False;-
+Natalia;Onilis Peixoto;natalia.onilis@locgrupo.com.br;****;;/;;Active;2026-06-11 06:01:10;nataliaonilisrepresentante@gmail.com;;;+5531972117351;;;;;;;;;;;;False;False;;;;0.04GB;0.3GB;0.0GB;--;0.35GB;False;;1010020027.0;;False;-
+Natan;de Almeida Carvalho;natan.carvalho@locgrupo.com.br;****;;/;;Active;2026-04-06 06:54:43;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.38GB;0.0GB;--;0.38GB;False;;1010020027.0;;False;-
+Natasha;Rubeonor Inacio Silva Rosa;natasha.rosa@locgrupo.com.br;****;;/;;Active;2026-05-02 13:37:34;;;;+5511915244306;;;;;;;;;;;;False;False;;;;0.06GB;1.57GB;0.39GB;5.0GB;2.02GB;False;;1010020030.0;;False;-
+Nathalia;Santos Coelho;nathalia.coelho@locgrupo.com.br;****;;/;;Active;2026-06-05 04:27:29;nathaliasantoscoelho12@gmail.com;;;+5531992630581;;;;;;;;;;;;False;False;;;;2.05GB;0.34GB;0.0GB;5.0GB;2.4GB;False;;1010020030.0;;False;-
+Nelson;Nigro nascimento filho;nelson.filho@locgrupo.com.br;****;;/;;Active;2025-12-15 01:56:48;nelsinhonigro@hotmail.com;;;+5511943630239;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Nestor Jorge;Costa Neto;nestor.neto@locgrupo.com.br;****;;/;;Active;2026-06-05 09:42:32;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.01GB;0.0GB;5.0GB;0.01GB;False;;1010020030.0;;False;-
+Nicolas;Tavares Silva;nicolas.silva@locgrupo.com.br;****;;/;;Active;Never logged in;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;True;;1010020030.0;;False;-
+Nicolas;Matheus de Lima Barbosa;nicolas.barbosa@locgrupo.com.br;****;;/;;Active;2026-03-08 19:46:44;;;;;;;;;;;;;;;;False;False;;;;0.01GB;0.0GB;0.0GB;5.0GB;0.01GB;False;;1010020030.0;;False;-
+Nicolas;José Bernardo Tavares;nicolas.tavares@locgrupo.com.br;****;;/;;Active;2025-12-18 09:50:05;;;;;;;;;;;;;;;;False;False;;;;0.22GB;0.0GB;0.0GB;5.0GB;0.22GB;False;;1010020030.0;;False;-
+Nicole;Milani Macuzaya;nicole.macuzaya@locgrupo.com.br;****;;/;;Active;2026-06-13 05:39:55;;;;+5511915244341;;;;;;;;;;;;False;False;;;;0.04GB;0.08GB;0.95GB;5.0GB;1.07GB;False;;1010020030.0;;False;-
+Nicoli;Correia;nicoli.correia@locgrupo.com.br;****;;/;;Active;2026-06-13 12:43:42;;;;;;;;;;;;;;;;False;False;;;;0.01GB;0.17GB;0.0GB;5.0GB;0.18GB;False;;1010020030.0;;False;-
+Nilton;Barbosa bernini milagres;nilton.milagres@locgrupo.com.br;****;;/;;Active;Never logged in;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;True;;1010020030.0;;False;-
+Oficina;Maceió;oficina.maceio@locgrupo.com.br;****;;/;;Active;2026-04-14 09:52:12;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Oficina Locagora;Master Belém;oficina.belem@locgrupo.com.br;****;;/;;Active;Never logged in;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;True;;1010020030.0;;False;-
+Oman;Oliveira Carvalho;oman.carvalho@locgrupo.com.br;****;;/;;Active;2026-06-12 06:21:35;;;;+5511962449178;;;;;;;;;;;;False;False;;;;0.1GB;0.0GB;0.0GB;5.0GB;0.12GB;False;;1010020030.0;;False;-
+Onboarding;CS FRANQUEADO;onboarding@locgrupo.com.br;****;;/Contas Especiais;;Active;2026-05-20 08:24:26;eduardo@rochaef.com.br;;;+5531992227062;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Onboarding;Franqueados;onboarding.franqueados@locgrupo.com.br;****;;/;;Active;2026-06-10 04:12:36;;;;;;;;;;;;;;;;False;False;;;;0.0GB;76.59GB;0.0GB;--;76.6GB;False;;1010020028.0;;False;-
+Oscar;Gerardo Acosta Araguayan;oscar.araguayan@locgrupo.com.br;****;;/;;Active;2026-03-17 20:10:28;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Pablo Luiz;da Silva;pablo.silva@locgrupo.com.br;****;;/;;Active;2025-09-19 08:33:05;;;;;;;;;;;;;;;;False;False;;;;0.03GB;0.0GB;0.0GB;5.0GB;0.03GB;False;;1010020030.0;;False;-
+Paloma;Santana de Araujo;paloma.araujo@locgrupo.com.br;****;;/;;Active;2026-01-19 14:20:20;;;;+5511978971668;;;;;;;;;;;;False;False;;;;0.05GB;0.0GB;0.06GB;5.0GB;0.11GB;False;;1010020030.0;;False;-
+Pamela;Francis de Oliveira;pamela.oliveira@locgrupo.com.br;****;;/;;Active;2025-09-23 10:16:46;;;;+5531980139039;;;;;;;;;;;;False;False;;;;0.0GB;0.09GB;0.0GB;--;0.09GB;False;;1010020027.0;;False;-
+Patricia;Lima Lousada;patricia.lousada@locgrupo.com.br;****;;/;;Active;2026-06-16 07:51:59;;;;+5511973617467;;;;;;;;;;;;False;False;;;;0.06GB;0.03GB;0.0GB;5.0GB;0.09GB;False;;1010020030.0;;False;-
+Patricia;Queiroz da Silva;patricia.silva@locgrupo.com.br;****;;/;;Active;2026-01-02 16:56:59;;;;+5511994945763;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Patricia;Valentim Dos Santos;patricia.santos@locgrupo.com.br;****;;/;;Active;2025-12-18 10:20:50;;;;+5511930190142;;;;;;;;;;;;False;False;;;;0.01GB;0.0GB;0.0GB;--;0.01GB;False;;1010020027.0;;False;-
+Patrick;Araujo Santos;patrick.santos@locgrupo.com.br;****;;/;;Active;2026-01-12 05:51:30;;;;;;;;;;;;;;;;False;False;;;;0.01GB;0.0GB;0.0GB;5.0GB;0.01GB;False;;1010020030.0;;False;-
+Patrícia;Haliski;patricia.haliski@locgrupo.com.br;****;;/;;Active;2025-07-25 06:15:37;;;;;;;;;;;;;;;;False;False;;;;0.41GB;0.03GB;0.0GB;5.0GB;0.45GB;False;;1010020030.0;;False;-
+Paula;Faria Eduardo;paula.faria@locgrupo.com.br;****;;/;;Active;2026-06-01 05:02:49;paulaf1211@gmail.com;;;+5531975292465;;;;;;;;;;;;False;False;;;;0.0GB;5.98GB;0.0GB;--;5.98GB;False;;1010020027.0;;False;-
+Paulo;Maurício Bie Lima Costa;paulo.costa@locgrupo.com.br;****;;/;;Active;2026-05-25 07:01:30;;;;;;;;;;;;;;;;False;False;;;;0.04GB;0.0GB;0.0GB;5.0GB;0.04GB;False;;1010020030.0;;False;-
+Paulo;da Silva Mungo;paulo.mungo@locgrupo.com.br;****;;/;;Active;2025-09-10 04:59:50;paulo.mungo@cooperloc.com.br;;;+5531992838509;;;;;;;;;;;;False;False;;;;1.05GB;0.09GB;0.0GB;5.0GB;1.14GB;False;;1010020030.0;;False;-
+Paulo;Henrique Baltrusaitis;paulo.baltrusaitis@locgrupo.com.br;****;;/;;Active;2026-03-02 05:47:52;;;;+5511915244845;11915244845.0;;;;;;;;;;;False;False;;;;0.13GB;0.07GB;0.0GB;5.0GB;0.2GB;False;;1010020030.0;;False;-
+Paulo;Henrique Sodre Silva;paulo.silva@locgrupo.com.br;****;;/;;Active;Never logged in;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;True;;1010020030.0;;False;-
+Paulo Rafael;Pereira Neves;paulo.neves@locgrupo.com.br;****;;/;;Active;2026-06-11 06:40:43;;;;;;;;;;;;;;;;False;False;;;;0.16GB;0.0GB;0.0GB;5.0GB;0.17GB;False;;1010020030.0;;False;-
+Pedro;Henrique Rodrigues Rosendo de Lima;pedro.externo@locgrupo.com.br;****;;/;;Active;2026-02-10 13:46:24;;;;;;;;;;;;;;;;False;False;;;;0.0GB;2.11GB;0.0GB;5.0GB;2.11GB;False;;1010020030.0;;False;-
+Pedro;Henrique Souza da Silva;pedro.silva@locgrupo.com.br;****;;/;;Active;2026-06-11 06:49:22;;;;;;;;;;;;;;;;False;False;;;;0.01GB;0.0GB;0.0GB;5.0GB;0.01GB;False;;1010020030.0;;False;-
+Pedro;Tiago de Araújo;pedro.araujo@locgrupo.com.br;****;;/;;Active;2026-06-15 11:12:09;;;;;;;;;;;;;;;;False;False;;;;0.18GB;43.1GB;0.0GB;--;43.29GB;False;;1010020028.0;;False;NOT_APPROACHING_LIMIT
+Pedro;Henrique de Jesus Tertuliano de Lima;pedro.lima@locgrupo.com.br;****;;/;;Active;2026-06-08 05:15:45;;;;;;;;;;;;;;;;False;False;;;;0.05GB;0.0GB;0.0GB;5.0GB;0.05GB;False;;1010020030.0;;False;-
+Pedro Henrique;Caldas Brito de Paula Rocha;pedro.rocha@locgrupo.com.br;****;;/;;Active;2026-06-02 08:37:49;;;;;;;;;;;;;;;;False;False;;;;0.01GB;0.0GB;0.0GB;5.0GB;0.01GB;False;;1010020030.0;;False;-
+Pedro Henrique;Bernardes da Silva;pedro.bernardes@locgrupo.com.br;****;;/;;Active;2026-06-09 05:16:50;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Pedro Ivo;Calzavara de Carvalho;pedro.carvalho@locgrupo.com.br;****;;/;;Active;2026-06-19 05:47:25;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Pedro Luiz;Costa do Espírito Santo;pedro.santo@locgrupo.com.br;****;;/;;Active;2026-06-06 04:09:36;;;;+5531992396288;;;;;;;;;;;;False;False;;;;0.0GB;0.14GB;0.0GB;5.0GB;0.14GB;False;;1010020030.0;;False;-
+Philippe;Tadeu;philippe.tadeu@locgrupo.com.br;****;;/;;Active;2026-06-12 05:46:02;;;;;;;;;;;;;;;;False;False;;;;0.03GB;0.0GB;0.0GB;5.0GB;0.03GB;False;;1010020030.0;;False;-
+Priscila;Silva Ladeia;priscila.ladeia@locgrupo.com.br;****;;/;;Active;2026-03-31 19:59:16;;;;;;;;;;;;;;;;False;False;;;;0.06GB;0.05GB;0.0GB;5.0GB;0.11GB;False;;1010020030.0;;False;-
+Priscila;da Silva Dias;priscila.dias@locgrupo.com.br;****;;/;;Active;2026-01-07 04:05:29;;;;;;;;;;;;;;;;False;False;;;;0.01GB;0.0GB;0.0GB;5.0GB;0.01GB;False;;1010020030.0;;False;-
+Priscila;Amaral Porto;priscila.porto@locgrupo.com.br;****;;/;;Active;2026-01-08 03:25:05;priscilamaralp@gmail.com;;;+5531988718112;;;;;;;;;;;;False;False;;;;0.03GB;0.0GB;0.3GB;5.0GB;0.33GB;False;;1010020030.0;;False;-
+Priscila Cristina;Xavier de Souza;priscila.souza@locgrupo.com.br;****;;/;;Active;2026-05-28 04:05:29;;;;;;;;;;;;;;;;False;False;;;;0.14GB;4.27GB;0.52GB;5.0GB;4.93GB;False;;1010020030.0;;False;-
+Quezia;Monique Nobre da Silva Costa;quezia.nobre@locgrupo.com.br;****;;/;;Active;2026-04-07 10:12:36;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Rafael;Costa;rafael.costa@locgrupo.com.br;****;;/;;Active;2026-06-12 06:09:04;;;;;31973399934.0;;;;;;;;;;;False;False;;;;0.08GB;0.15GB;0.0GB;5.0GB;0.24GB;False;;1010020030.0;;False;-
+Rafael;Assis Peixoto dos Santos;rafael.santos@locgrupo.com.br;****;;/;;Active;2026-06-01 06:38:05;;;;;;;;;;;;;;;;False;False;;;;0.05GB;0.04GB;0.0GB;5.0GB;0.09GB;False;;1010020030.0;;False;-
+Rafael Marlon;Silva Barros;rafael.barros@locgrupo.com.br;****;;/;;Active;2026-06-11 03:49:45;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Rafaela;Teixeira;rafaela.teixeira@locgrupo.com.br;****;;/;;Active;2026-06-11 11:13:19;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.56GB;5.0GB;0.57GB;False;;1010020030.0;;False;-
+Raillan Junior;Salles;raillan.salles@locgrupo.com.br;****;;/;;Active;2026-06-12 06:58:23;;;;;;;;;;;;;;;;False;False;;;;0.05GB;0.0GB;0.06GB;5.0GB;0.1GB;False;;1010020030.0;;False;-
+Raphael;Miranda Xavier de Almeida;raphael.almeida@locgrupo.com.br;****;;/;;Active;2026-06-09 07:25:51;;;;+5511994910063;;;;;;;;;;;;False;False;;;;0.61GB;480.33GB;0.0GB;--;480.94GB;False;;1010020028.0;;False;-
+Raphael;Gomes de Matos;raphael.matos@locgrupo.com.br;****;;/;;Active;2025-12-15 11:52:35;;;;+5531990789147;;;;;;;;;;;;False;False;;;;0.02GB;3.6GB;0.0GB;5.0GB;3.61GB;False;;1010020030.0;;False;-
+Raphael;Ornelas Rezende Rodrigues;raphael.rodrigues@locgrupo.com.br;****;;/;;Active;2026-05-27 14:30:02;;;;;;;;;;;;;;;;False;False;;;;0.08GB;0.35GB;0.0GB;5.0GB;0.43GB;False;;1010020030.0;;False;-
+Rayane;Alves sanzovo;rayane.sanzovo@locgrupo.com.br;****;;/;;Active;2026-06-09 11:39:09;;;;;;;;;;;;;;;;False;False;;;;0.22GB;0.0GB;0.0GB;5.0GB;0.22GB;False;;1010020030.0;;False;-
+Rayanne;Tereza Alves de Sousa;rayanne.sousa@locgrupo.com.br;****;;/;;Active;2026-05-06 11:33:06;;;;;;;;;;;;;;;;False;False;;;;0.06GB;0.0GB;0.0GB;5.0GB;0.06GB;False;;1010020030.0;;False;-
+Rayssa Yasmin;Calixto Rodrigues;rayssa.rodrigues@locgrupo.com.br;****;;/;;Active;2026-04-25 04:22:53;;;;;;;;;;;;;;;;False;False;;;;0.03GB;0.0GB;0.02GB;5.0GB;0.05GB;False;;1010020030.0;;False;-
+Recebimentos de Leads;Panico;recebimento.leads@locgrupo.com.br;****;;/;;Active;2025-06-16 07:17:43;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Reijane;Silva Conceição;reijane.conceicao@locgrupo.com.br;****;;/;;Active;2026-06-12 11:07:08;;;;;;;;;;;;;;;;False;False;;;;0.01GB;0.01GB;0.23GB;5.0GB;0.25GB;False;;1010020030.0;;False;-
+Renato;Hipólito Massalino;renato.massalino@locgrupo.com.br;****;;/;;Active;2026-03-02 09:58:04;;;;;;;;;;;;;;;;False;False;;;;0.15GB;0.0GB;1.86GB;5.0GB;2.01GB;False;;1010020030.0;;False;-
+Renato;Batista Morais;renato.morais@locgrupo.com.br;****;;/;;Active;2026-06-05 05:37:03;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.01GB;0.0GB;5.0GB;0.02GB;False;;1010020030.0;;False;-
+Ricardo;Augusto Pagani Moreira;ricardo.moreira@locgrupo.com.br;****;;/;;Active;2026-06-11 16:31:35;;;;+5531995936625;;;;;;;;;;;;False;False;;;;0.03GB;32.72GB;2.82GB;--;35.57GB;False;;1010020028.0;;False;NOT_APPROACHING_LIMIT
+Ricardo;Carlos rossi;ricardo.rossi@locgrupo.com.br;****;;/;;Active;2026-06-14 23:19:22;;;;+5511939027380;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Rita;de Cássia Silva Ferreira;rita.ferreira@locgrupo.com.br;****;;/;;Active;2026-04-30 06:58:21;;;;;;;;;;;;;;;;False;False;;;;0.18GB;0.0GB;0.0GB;5.0GB;0.18GB;False;;1010020030.0;;False;-
+Robson;Luiz Braz;robson.braz@locgrupo.com.br;****;;/;;Active;2026-01-19 18:48:12;;;;;;;;;;;;;;;;False;False;;;;0.19GB;0.01GB;0.14GB;5.0GB;0.34GB;True;;1010020030.0;;False;-
+Rodolfo;de Souza Paiva Garcia Rosa;rodolfo.rosa@locgrupo.com.br;****;;/;;Active;2026-06-09 17:13:20;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Rodrigo;Claudino da Silva;rodrigo.claudino@locgrupo.com.br;****;;/;;Active;2026-04-13 05:47:18;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;True;;1010020030.0;;False;-
+Rodrigo;Rafael da Silva;rodrigo.silva@locgrupo.com.br;****;;/;;Active;2026-06-18 12:55:28;;;;+5511967353656;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Ruan Julio;da Silva Marques;ruan.marques@locgrupo.com.br;****;;/;;Active;2026-06-12 05:59:03;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.02GB;5.0GB;0.04GB;False;;1010020030.0;;False;-
+Rubia;De Lima Nicolau;rubia.nicolau@locgrupo.com.br;****;;/;;Active;2026-06-01 06:51:50;;;;;;;;;;;;;;;;False;False;;;;0.08GB;0.22GB;0.0GB;5.0GB;0.31GB;False;;1010020030.0;;False;-
+Rubia;Nascimento ribeiro;rubia.ribeiro@locgrupo.com.br;****;;/;;Active;2026-03-03 05:11:37;;;;+5531996700589;;;;;;;;;;;;False;False;;;;0.01GB;0.0GB;0.0GB;5.0GB;0.01GB;False;;1010020030.0;;False;-
+Ryan Yuri;Lima da Silva;ryan.silva@locgrupo.com.br;****;;/;;Active;2026-05-16 03:23:12;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Sabrina;Fontes de Melo;sabrina.melo@locgrupo.com.br;****;;/;;Active;2025-09-02 13:38:10;;;;+5531972293074;;;;;;;;;;;;False;False;;;;0.1GB;0.0GB;0.0GB;5.0GB;0.1GB;False;;1010020030.0;;False;-
+Sabrina;Neres Brito;sabrina.brito@locgrupo.com.br;****;;/;;Active;2026-06-03 07:00:13;;;;;;;;;;;;;;;;False;False;;;;0.07GB;0.0GB;0.0GB;5.0GB;0.07GB;False;;1010020030.0;;False;-
+Salomão;Garson;salomao.garson@locgrupo.com.br;****;;/;;Active;2026-06-11 15:24:08;salomao.garson@gmail.com;;;;;;;;;;;;;;;False;False;;;;0.07GB;0.67GB;0.0GB;5.0GB;0.75GB;False;;1010020030.0;;False;-
+Samara;Gomes da Costa Souza;samara.souza@locgrupo.com.br;****;;/;;Active;2025-08-05 07:56:05;;;;;;;;;;;;;;;;False;False;;;;0.06GB;0.0GB;0.0GB;5.0GB;0.06GB;False;;1010020030.0;;False;-
+Samia;DiCiero;samia.diciero@locgrupo.com.br;****;;/;;Active;2026-06-12 05:52:32;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Samuel;Mendes Nascimento;samuel.nascimento@locgrupo.com.br;****;;/;;Active;2026-06-08 10:05:14;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Samyle Fernanda;Castro da Silva;samyle.silva@locgrupo.com.br;****;;/;;Active;2026-06-12 11:58:49;;;;+5591980630186;;;;;;;;;;;;False;False;;;;0.01GB;0.0GB;0.69GB;5.0GB;0.71GB;False;;1010020030.0;;False;-
+Sandra;Rodrigues Caldas Santos;sandra.santos@locgrupo.com.br;****;;/;;Active;2026-06-15 00:02:45;;;;;;;;;;;;;;;;False;False;;;;0.04GB;0.14GB;0.0GB;5.0GB;0.18GB;False;;1010020030.0;;False;-
+Sara;Denise Soares da Cruz;sara.cruz@locgrupo.com.br;****;;/;;Active;2026-02-10 03:44:13;caroline.barsante@locgrupo.com.br;;;+5531984858249;;;;;;;;;;;;False;False;;;;0.21GB;0.0GB;0.05GB;5.0GB;0.25GB;False;;1010020030.0;;False;-
+Sara;Gabriela Teixeira Torres;sara.torres@locgrupo.com.br;****;;/;;Active;2025-11-15 18:19:45;;;;;;;;;;;;;;;;False;False;;;;0.01GB;0.0GB;0.0GB;5.0GB;0.01GB;False;;1010020030.0;;False;-
+Sarah Liz;Will Nogueira;sarah.nogueira@locgrupo.com.br;****;;/;;Active;2026-06-03 10:17:37;;;;;;;;;;;;;;;;False;False;;;;0.01GB;0.0GB;0.0GB;5.0GB;0.01GB;False;;1010020030.0;;False;-
+Saulo;Santos de Aquino;saulo.aquino@locgrupo.com.br;****;;/;;Active;2026-05-14 20:02:47;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Servidor;Arquivos;servidorarquivos@locgrupo.com.br;****;;/;;Active;2026-06-12 12:17:28;;;;;;;;;;;;;;;;False;False;;;;3.81GB;354.96GB;0.0GB;--;358.77GB;False;;1010020028.0;;False;-
+Shayene Sousa;dos Santos;shayene.santos@locgrupo.com.br;****;;/;;Active;2025-10-21 06:22:37;;;;;+55 31 8942-0343;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Sheylla;Ribeiro Silva;sheylla.silva@locgrupo.com.br;****;;/;;Active;2026-06-10 05:14:11;;;;+5531982651388;;;;;;;;;;;;False;False;;;;0.05GB;0.13GB;0.04GB;5.0GB;0.22GB;False;;1010020030.0;;False;-
+Shirley Cristina;Pereira Oliveira dos Santos;shirley.santos@locgrupo.com.br;****;;/;;Active;2026-03-17 10:43:42;;;;;;;;;;;;;;;;False;False;;;;0.02GB;0.0GB;0.0GB;5.0GB;0.02GB;False;;1010020030.0;;False;-
+Sidineia;Alves Miranda;sidineia.miranda@locgrupo.com.br;****;;/;;Active;2025-12-03 04:15:33;;;;;;;;;;;;;;;;False;False;;;;0.02GB;0.0GB;0.0GB;5.0GB;0.02GB;False;;1010020030.0;;False;-
+Simone;Marques Santos;simone.santos@locgrupo.com.br;****;;/;;Active;2026-06-11 09:12:14;;;;;;;;;;;;;;;;False;False;;;;7.92GB;0.02GB;0.0GB;--;7.95GB;False;;1010020028.0;;False;-
+Stefany;Silva de Souza;stefany.souza@locgrupo.com.br;****;;/;;Active;2026-06-11 06:27:28;;;;;;;;;;;;;;;;False;False;;;;0.01GB;1.09GB;0.01GB;5.0GB;1.1GB;False;;1010020030.0;;False;-
+Stella;Barbosa da Silva;stella.silva@locgrupo.com.br;****;;/;;Active;2026-05-05 08:26:54;;;;;;;;;;;;;;;;False;False;;;;9.74GB;0.02GB;0.0GB;--;9.76GB;False;;1010020027.0;;False;NOT_APPROACHING_LIMIT
+Stella;Soares dos Santos;stella.santos@locgrupo.com.br;****;;/;;Active;2026-06-10 04:22:49;stella.primers@gmail.com;;;+5531991099716;;;;;;;;;;;;False;False;;;;4.17GB;13.95GB;0.13GB;--;18.26GB;False;;1010020028.0;;False;-
+Stephanie Paolla;Saraiva Souza;stephanie.souza@locgrupo.com.br;****;;/;;Active;2026-06-17 07:41:06;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Stephanny;Oliveira dos Santos;stephanny.santos@locgrupo.com.br;****;;/;;Active;2025-10-16 10:27:52;;;;;;;;;;;;;;;;False;False;;;;0.04GB;0.0GB;0.0GB;5.0GB;0.04GB;False;;1010020030.0;;False;-
+Stephany;Alves Oliveira Santos;stephany.santos@locgrupo.com.br;****;;/;;Active;2026-06-08 12:29:11;;;;;;;;;;;;;;;;False;False;;;;0.05GB;0.0GB;0.0GB;5.0GB;0.05GB;False;;1010020030.0;;False;-
+Sthefany;Gomes Nazareth;sthefany.nazareth@locgrupo.com.br;****;;/;;Active;2026-06-12 05:32:58;jonathaan.1995@gmail.com;;;+5531983368702;;;;;;;;;;;;False;False;;;;0.03GB;0.0GB;0.02GB;5.0GB;0.06GB;False;;1010020030.0;;False;-
+Suellem Cristina;dos Santos Ribeiro;suellem.ribeiro@locgrupo.com.br;****;;/;;Active;2025-11-06 06:54:49;;;;;;;;;;;;;;;;False;False;;;;0.01GB;0.0GB;0.0GB;5.0GB;0.01GB;True;;1010020030.0;;False;-
+Suellen Kennedy;de Araújo e Silva;suellen.esilva@locgrupo.com.br;****;;/;;Active;Never logged in;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;True;;1010020030.0;;False;-
+Sâmela;Teixeira Torres;samela.torres@locgrupo.com.br;****;;/;;Active;2026-06-12 11:11:14;;;;+553172367822;;;;;;;;;;;;False;False;;;;0.0GB;0.01GB;0.13GB;5.0GB;0.14GB;False;;1010020030.0;;False;-
+Tainara;de Souza Silva;tainara.silva@locgrupo.com.br;****;;/;;Active;2025-11-18 12:41:13;;;;;11915244985.0;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Tamara;Souza Cassinelli;tamara.cassinelli@locgrupo.com.br;****;;/;;Active;2025-11-20 05:34:43;;;;+5511930190622;;;;;;;;;;;;False;False;;;;0.0GB;1.39GB;0.07GB;5.0GB;1.47GB;False;;1010020030.0;;False;-
+Tamyris;Evelin Raira Paixao;tamyris.paixao@locgrupo.com.br;****;;/;;Active;2026-06-15 13:27:32;;;;;;;;;;;;;;;;False;False;;;;0.02GB;0.08GB;0.23GB;5.0GB;0.34GB;False;;1010020030.0;;False;-
+Tatiana;da Cruz;tatiana.cruz@locgrupo.com.br;****;;/;;Active;2026-03-16 06:19:41;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Tatiana;Silva da Rocha;tatiana.rocha@locgrupo.com.br;****;;/;;Active;2026-06-10 05:27:59;;;;;;;;;;;;;;;;False;False;;;;0.02GB;0.0GB;0.0GB;5.0GB;0.02GB;False;;1010020030.0;;False;-
+Tatiana;Cristina Francisco;tatiana.francisco@locgrupo.com.br;****;;/;;Active;2026-06-08 05:26:42;;;;;;;;;;;;;;;;False;False;;;;0.93GB;0.27GB;0.0GB;5.0GB;1.2GB;False;;1010020030.0;;False;-
+Tayssa Emanuelle;Oliveira Lopes;tayssa.lopes@locgrupo.com.br;****;;/;;Active;2026-03-10 08:15:24;;;;;;;;;;;;;;;;False;False;;;;0.29GB;0.55GB;0.0GB;5.0GB;0.85GB;False;;1010020030.0;;False;-
+Tchaya;Trindade Moura;tchaya.moura@locgrupo.com.br;****;;/;;Active;2026-06-01 10:28:51;tchayamoura@icloud.com;;;+5531992836707;;;;;;;;;;;;False;False;;;;0.62GB;0.3GB;0.0GB;5.0GB;0.92GB;False;;1010020030.0;;False;-
+tec;nologia;tecnologia@locgrupo.com.br;****;;/;;Active;2026-01-23 08:36:33;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;True;;1010020030.0;;False;-
+Telma;da Cruz Monteiro;telma.monteiro@locgrupo.com.br;****;;/;;Active;2026-06-10 10:01:24;telmacrz@gmail.com;;;;;;;;;;;;;;;False;False;;;;0.02GB;3.42GB;1.38GB;5.0GB;4.82GB;False;;1010020030.0;;False;-
+Thaina;Tavares de Oliveira;thaina.oliveira@locgrupo.com.br;****;;/;;Active;2026-06-14 09:00:59;;;;+5511988594981;;;;;;;;;;;;False;False;;;;0.01GB;0.0GB;0.0GB;5.0GB;0.01GB;False;;1010020030.0;;False;-
+Thais;Portugal Hosken;thais.hosken@locgrupo.com.br;****;;/;;Active;2026-06-08 11:28:23;;;;+5531984996352;;;;;;;;;;;;False;False;;;;0.86GB;0.25GB;0.0GB;5.0GB;1.12GB;False;;1010020030.0;;False;-
+Thais;Luciano da Rocha;thais.rocha@locgrupo.com.br;****;;/;;Active;2025-08-08 07:03:57;;;;;;;;;;;;;;;;False;False;;;;0.01GB;0.31GB;0.0GB;5.0GB;0.32GB;False;;1010020030.0;;False;-
+Thais;Apolinario dos Santos;thais.santos@locgrupo.com.br;****;;/;;Active;2026-06-13 09:42:51;thais124@live.com;;;+5511991544678;;;;;;;;;;;;False;False;;;;0.04GB;2.27GB;0.1GB;5.0GB;2.41GB;False;;1010020030.0;;False;-
+Thais Alessandra;Monteiro Rocha;thais.monteiro@locgrupo.com.br;****;;/;;Active;2026-06-13 14:21:37;;;;+5531991407274;;;;;;;;;;;;False;False;;;;0.05GB;3.38GB;0.01GB;5.0GB;3.45GB;False;;1010020030.0;;False;-
+Thaissa;de Morais Câmara;thaissa.camara@locgrupo.com.br;****;;/;;Active;2026-05-29 12:14:23;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.02GB;False;;1010020030.0;;False;-
+Thalita;Kellen Josino Gonçalves;thalita.goncalves@locgrupo.com.br;****;;/;;Active;2025-05-06 10:51:11;;;;;;;;;;;;;;;;False;False;;;;0.03GB;0.0GB;0.0GB;5.0GB;0.03GB;False;;1010020030.0;;False;-
+Thalita;de Lima Menezes;thalita.menezes@locgrupo.com.br;****;;/;;Active;2025-09-11 05:59:01;;;;;;;;;;;;;;;;False;False;;;;0.01GB;0.0GB;0.0GB;5.0GB;0.01GB;False;;1010020030.0;;False;-
+Thalita Evelyn;Siqueira Silva;thalita.silva@locgrupo.com.br;****;;/;;Active;2026-06-10 04:54:44;;;;;;;;;;;;;;;;False;False;;;;0.01GB;0.23GB;0.0GB;5.0GB;0.24GB;False;;1010020030.0;;False;-
+Thaynara;Stefany Izidoro Gomes;thaynara.gomes@locgrupo.com.br;****;;/;;Active;2026-06-17 03:20:35;chamados.ti@locgrupo.com.br;;;+5511915411795;;;;;;;;;;;;False;False;;;;2.93GB;2.1GB;0.08GB;--;5.11GB;False;;1010020027.0;;False;-
+Thaynara;Cardoso de Campos;thaynara.campos@locgrupo.com.br;****;;/;;Active;2026-01-23 06:53:33;;;;;;;;;;;;;;;;False;False;;;;0.03GB;0.06GB;0.05GB;5.0GB;0.14GB;True;;1010020030.0;;False;-
+Thiago;Freitas dos Santos;thiago.santos@locgrupo.com.br;****;;/;;Active;2026-06-15 04:57:54;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.02GB;5.0GB;0.03GB;False;;1010020030.0;;False;-
+Thiago;Valdinei Oliveira de Andrade;thiago.andrade@locgrupo.com.br;****;;/;;Active;2026-06-08 07:50:22;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Thiago;Bossolani da Silva;thiago.silva@locgrupo.com.br;****;;/;;Active;2026-06-13 05:19:40;thiagobossolani@outlook.com;;;+5511989743773;;;;;;;;;;;;False;False;;;;0.15GB;0.0GB;0.0GB;5.0GB;0.15GB;False;;1010020030.0;;False;-
+Thiago Aparecido;Ribeiro;thiago.ribeiro@locgrupo.com.br;****;;/;;Active;Never logged in;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;True;;1010020030.0;;False;-
+Thompson Felipe;de Aquino;thompson.aquino@locgrupo.com.br;****;;/;;Active;2026-06-11 16:16:17;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.11GB;0.0GB;5.0GB;0.11GB;False;;1010020030.0;;False;-
+Tiago;Henrique Souto;tiago.souto@locgrupo.com.br;****;;/;;Active;2026-03-01 16:12:24;;;;;;;;;;;;;;;;False;False;;;;0.0GB;136.08GB;0.0GB;--;136.08GB;False;;1010020028.0;;False;-
+Ticket's;Suporte T.I;chamados.ti@locgrupo.com.br;****;;/;;Active;2025-11-13 09:59:48;;;;;;;;;;;;;;;;False;False;;;;0.15GB;0.0GB;0.0GB;5.0GB;0.16GB;False;;1010020030.0;;False;-
+Titãs;da SAF;equipe.titasdasaf@locgrupo.com.br;****;;/;;Active;2026-06-02 12:00:51;;;;+5531982929004;;;;;;;;;;;;False;False;;;;0.0GB;6.29GB;0.0GB;--;6.29GB;False;;1010020028.0;;False;-
+Tricia;Gorgonha Ribeiro;tricia.ribeiro@locgrupo.com.br;****;;/;;Active;2025-10-02 13:24:18;;;;+5511915244901;;;;;;;;;;;;False;False;;;;0.01GB;0.0GB;0.0GB;5.0GB;0.01GB;False;;1010020030.0;;False;-
+Tulio;Augusto Evangelista;tulio.evangelista@locgrupo.com.br;****;;/;;Active;2026-06-17 13:07:38;;;;;;;;;;;;;;;;False;False;;;;1.04GB;13.45GB;21.21GB;--;35.71GB;False;;1010020028.0;;False;-
+Victor;Augusto Malagoli Araujo;victor.araujo@locgrupo.com.br;****;;/;;Active;2026-05-29 09:00:25;;;;;;;;;;;;;;;;False;False;;;;1.53GB;0.0GB;0.0GB;5.0GB;1.54GB;False;;1010020030.0;;False;-
+Victor;Alderoman Brito Lima;victor.lima@locgrupo.com.br;****;;/;;Active;Never logged in;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;--;0.0GB;False;;1010020027.0;;False;-
+Victor Alejandro;Monteoiro Martins;victor.martins@locgrupo.com.br;****;;/;;Active;Never logged in;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;True;;1010020030.0;;False;-
+Victor Vinícius;Lima Miranda;victor.miranda@locgrupo.com.br;****;;/;;Active;2026-06-12 14:53:00;;;;+5531991500098;;;;;;;;;;;;False;False;;;;0.02GB;0.02GB;0.05GB;5.0GB;0.08GB;False;;1010020030.0;;False;-
+Vinicius;de Moraes Januario;vinicius.januario@locgrupo.com.br;****;;/;;Active;2026-06-12 17:20:30;;;;;;;;;;;;;;;;False;False;;;;0.12GB;0.0GB;0.0GB;5.0GB;0.12GB;False;;1010020030.0;;False;-
+Vinicius;Freitas;vinicius.freitas@locgrupo.com.br;****;;/;;Active;2026-06-03 12:01:40;vinyfreitas01@gmail.com;;;+5531992434712;;;;;;;;;;;;False;False;;;;0.02GB;0.38GB;0.0GB;5.0GB;0.39GB;False;;1010020030.0;;False;-
+Vitor;de Souza Silva;vitor.silva@locgrupo.com.br;****;;/;;Active;2026-02-28 03:04:27;;;;+5511964608844;;;;;;;;;;;;False;False;;;;0.04GB;0.0GB;0.0GB;5.0GB;0.05GB;False;;1010020030.0;;False;-
+Vitória;Dos Santos Moreira;vitoria.moreira@locgrupo.com.br;****;;/;;Active;2026-06-02 06:58:23;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.01GB;0.0GB;5.0GB;0.01GB;False;;1010020030.0;;False;-
+Wagner Jose;Lima da Silva;wagner.silva@locgrupo.com.br;****;;/;;Active;2026-06-12 06:16:18;;;;;;;;;;;;;;;;False;False;;;;0.01GB;0.0GB;0.0GB;5.0GB;0.02GB;False;;1010020030.0;;False;-
+Wellington;Gabriel Alves Araujo;wellington.araujo@locgrupo.com.br;****;;/;;Active;2026-06-10 11:14:48;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.04GB;0.0GB;5.0GB;0.05GB;False;;1010020030.0;;False;-
+Wellington;Tabosa;wellington.tabosa@locgrupo.com.br;****;;/;;Active;2026-03-03 10:15:21;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Wellington;Paes Do Nascimento;wellington.nascimento@locgrupo.com.br;****;;/;;Active;2026-06-13 18:35:26;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Wellington;Luiz Camargo;wellington.camargo@locgrupo.com.br;****;;/;;Active;2026-03-09 13:09:40;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Wellyngton Luiz;de Souza;wellyngton.souza@locgrupo.com.br;****;;/;;Active;2026-06-17 11:14:02;;;;;;;;;;;;;;;;False;False;;;;0.13GB;0.39GB;0.16GB;5.0GB;0.68GB;False;;1010020030.0;;False;-
+Wendy Cecília;Moreira de Araújo;wendy.araujo@locgrupo.com.br;****;;/;;Active;2025-09-29 06:00:48;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.05GB;0.0GB;5.0GB;0.05GB;False;;1010020030.0;;False;-
+Wesdrino;Alex;wesdrino.alex@locgrupo.com.br;****;;/;;Active;2026-06-06 18:20:21;;;;;;;;;;;;;;;;False;False;;;;0.01GB;0.0GB;0.0GB;5.0GB;0.01GB;False;;1010020030.0;;False;-
+Wilfred;Cordeiro;wilfred.cordeiro@locgrupo.com.br;****;;/;;Active;2026-03-11 10:02:15;fredlocagora@gmail.com;;;+5511986523036;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Wiliaquison;Valentim de Jesus;wiliaquison.valentim@locgrupo.com.br;****;;/;;Active;2026-06-05 12:10:10;;;;;;;;;;;;;;;;False;False;;;;0.32GB;0.0GB;0.0GB;--;0.32GB;False;;1010020028.0;;False;-
+Wisner Patrick;Marques Rodrigues;wisner.rodrigues@locgrupo.com.br;****;;/;;Active;2026-06-02 04:44:06;;;;;;;;;;;;;;;;False;False;;;;0.09GB;1.14GB;0.0GB;5.0GB;1.23GB;False;;1010020030.0;;False;-
+Wivian;Lara da Silva Magalhães;wivian.magalhaes@locgrupo.com.br;****;;/;;Active;2026-06-12 08:14:15;;;;;;;;;;;;;;;;False;False;;;;0.0GB;0.0GB;0.0GB;5.0GB;0.0GB;False;;1010020030.0;;False;-
+Yngrid;Aguilar Zamboni;yngrid.zamboni@locgrupo.com.br;****;;/;;Active;2026-06-09 08:14:15;;;;;;;;;;;;;;;;False;False;;;;0.05GB;0.03GB;0.0GB;5.0GB;0.08GB;False;;1010020030.0;;False;-
+Élida;Percilia Figueredo Crepaldi;elida.crepaldi@locgrupo.com.br;****;;/;;Active;2026-06-15 04:18:42;;;;+5511966505528;;;;;;;;;;;;False;False;;;;0.12GB;10.97GB;1.2GB;--;12.29GB;False;;1010020028.0;;False;NOT_APPROACHING_LIMIT
+ÍTALA;LIMA DA SILVA;itala.silva@locgrupo.com.br;****;;/;;Active;2026-06-11 22:29:14;;;;;11938104889.0;;;;;;;;;;;False;False;;;;1.02GB;3.87GB;0.47GB;--;5.35GB;False;;1010020028.0;;False;-
