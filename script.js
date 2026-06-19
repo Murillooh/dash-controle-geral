@@ -322,7 +322,15 @@ async function fetchSheetData(sheetName) {
       if (row.c[i] && row.c[i].v !== null && row.c[i].v !== undefined) {
         val = row.c[i].v;
       }
-      if (!['valor', 'multa', 'valor_unit', 'valor_mes'].includes(h)) {
+      
+      const hNorm = h ? String(h).toLowerCase().trim() : '';
+      if (['valor', 'multa', 'valor_unit', 'valor_mes'].includes(hNorm)) {
+        if (typeof val === 'string') {
+          val = val.replace(/[R$\s]/gi, '').replace(/\./g, '').replace(',', '.');
+          val = parseFloat(val);
+        }
+        val = Number(val) || 0;
+      } else {
         val = String(val);
       }
       obj[h] = val;
