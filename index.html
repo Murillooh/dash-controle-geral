@@ -4,12 +4,13 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Painel de Controle TI — Loc Grupo</title>
-<link rel="stylesheet" href="style.css?v=2">
+<link rel="stylesheet" href="style.css?v=3">
 
 </head>
 <body>
 
-<aside class="sidebar">
+<div class="sidebar-overlay" id="sidebar-overlay" onclick="toggleSidebar()"></div>
+<aside class="sidebar" id="sidebar">
   <div class="logo">
     <div class="logo-mark">Loc Grupo</div>
     <div class="logo-sub">Painel de TI — Controle Total</div>
@@ -45,9 +46,12 @@
 
 <main class="main">
   <div class="topbar">
-    <div>
-      <div class="topbar-title" id="topbar-title">Dashboard Geral</div>
-      <div class="topbar-meta" id="topbar-meta">Visão consolidada de todos os controles</div>
+    <div class="topbar-header">
+      <div>
+        <div class="topbar-title" id="topbar-title">Dashboard Geral</div>
+        <div class="topbar-meta" id="topbar-meta">Visão consolidada de todos os controles</div>
+      </div>
+      <button class="menu-toggle" onclick="toggleSidebar()">☰</button>
     </div>
     <div class="search-wrap">
       <span style="color:var(--text-dim)">🔍</span>
@@ -243,7 +247,7 @@
   </div>
 </main>
 
-<script src="script.js?v=8"></script>
+<script src="script.js?v=9"></script>
 
 </body>
 </html>
