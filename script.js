@@ -1,4 +1,4 @@
-let DATA = { chips: [], inventario: [], controle: [], pagamentos: [] };
+let DATA = { chips: [], inventario: [], controle: [], pagamentos: [], emails: [] };
 const SHEET_ID = '1ny9SzA7Sxsc6HSuLeJ8OS0w3bhX5Qq5WX-1ZXHIJ21A';
 
 const fmt = n => 'R$' + Number(n).toLocaleString('pt-BR',{minimumFractionDigits:0,maximumFractionDigits:0});
@@ -9,7 +9,7 @@ const fmtCNPJ = s => {
 
 function statusPill(st){
   const map = {'Ativo':'pill-green','Inativo':'pill-red','Em uso':'pill-green',
-    'Em estoque':'pill-blue','Em manutenção':'pill-orange','Quarentena':'pill-red','Inutilizável':'pill-dim'};
+    'Em estoque':'pill-blue','Em manutenção':'pill-orange','Quarentena':'pill-red','Inutilizável':'pill-dim','Suspenso':'pill-red'};
   return '<span class="pill '+(map[st]||'pill-dim')+'">'+( st||'—')+'</span>';
 }
 function opPill(op){
@@ -17,12 +17,16 @@ function opPill(op){
   return '<span class="pill '+(map[op]||'pill-dim')+'">'+op+'</span>';
 }
 
+const PAGE_SIZE = 15;
+let pages = { chips: 1, inventario: 1, controle: 1, pagamentos: 1, emails: 1 };
+
 const titles = {
-  dashboard: ['Dashboard Geral','Visão consolidada de todos os controles'],
-  chips:     ['Chips / Telefonia Corporativa','Base completa de linhas — Claro, TIM, Vivo'],
-  inventario:['Inventário de TI','Notebooks, monitores, periféricos e celulares'],
-  controle:  ['Controle de Ativos','Recebimento de notebooks e celulares por colaborador'],
-  pagamentos:['Pagamentos e Contratos','Fornecedores e custos mensais de TI'],
+  dashboard: ['Dashboard Geral', 'Visão consolidada de todos os controles'],
+  chips: ['Chips / Telefonia Corporativa', 'Base completa de linhas — Claro, TIM, Vivo'],
+  inventario: ['Inventário TI', 'Controle de máquinas e ativos'],
+  controle: ['Controle de Ativos / Termos', 'Termos de responsabilidade e devoluções'],
+  emails: ['Email Google', 'Controle de contas da empresa'],
+  pagamentos: ['Pagamentos e Contratos', 'Controle financeiro de fornecedores TI']
 };
 
 function showPage(id){
@@ -38,12 +42,10 @@ function showPage(id){
   if(id==='inventario') renderInventario();
   if(id==='controle')   renderControle();
   if(id==='pagamentos') renderPagamentos();
+  if(id==='emails')     renderEmails();
 }
 
-const PAGE_SIZE = 50;
-const pages = {chips:1, inventario:1, controle:1, pagamentos:1};
-
-const ID_PREFIX = {chips:'chips', inventario:'inv', controle:'ctrl', pagamentos:'pag'};
+const ID_PREFIX = {chips:'chips', inventario:'inv', controle:'ctrl', pagamentos:'pag', emails:'em'};
 
 function renderPagination(module, filtered){
   var prefix = ID_PREFIX[module] || module;
@@ -63,6 +65,7 @@ function renderPagination(module, filtered){
       if(module==='chips') renderChips();
       else if(module==='inventario') renderInventario();
       else if(module==='controle') renderControle();
+      else if(module==='emails') renderEmails();
       else renderPagamentos();
     };
     btns.appendChild(b);
@@ -166,6 +169,31 @@ function renderControle(){
   renderPagination('controle', f.length);
 }
 
+// ── EMAILS ────────────────────────────────────────────────
+function emailsFiltered(){
+  var st = document.getElementById('em-st').value;
+  var q  = (document.getElementById('em-search').value||'').toLowerCase();
+  return DATA.emails.filter(function(e){
+    var eStr = String(e.email||'').toLowerCase();
+    var nStr = String(e.nome||'').toLowerCase();
+    var dStr = String(e.departamento||'').toLowerCase();
+    return (!st||e.status===st) && (!q||eStr.includes(q)||nStr.includes(q)||dStr.includes(q));
+  });
+}
+function renderEmails(){
+  var f = emailsFiltered();
+  pages.emails = pages.emails > Math.ceil(f.length/PAGE_SIZE) ? 1 : pages.emails;
+  var slice = f.slice((pages.emails-1)*PAGE_SIZE, pages.emails*PAGE_SIZE);
+  var html = slice.map(function(e){
+    return '<tr><td>'+(e.email||'—')+'</td><td>'+(e.nome||'—')+'</td>'+
+      '<td>'+(e.departamento||'—')+'</td><td>'+(e.unidade||'—')+'</td>'+
+      '<td>'+statusPill(e.status)+'</td><td>'+(e.ultimo_login||'—')+'</td></tr>';
+  }).join('');
+  document.getElementById('em-tbody').innerHTML = html||'<tr><td colspan="6" class="empty">Nenhum resultado</td></tr>';
+  document.getElementById('em-count').textContent = f.length+' registros';
+  renderPagination('emails', f.length);
+}
+
 // ── PAGAMENTOS ────────────────────────────────────────────────
 function pagFiltered(){
   var fn = document.getElementById('pag-cat').value;
@@ -226,14 +254,23 @@ function initDashboard(){
   // Dashboard KPIs
   document.getElementById('kpi-chips-ativo').textContent = ativas;
   document.getElementById('kpi-chips-total').textContent = totalC;
-  document.getElementById('kpi-chips-pct').textContent   = (ativas/totalC*100).toFixed(1)+'% ativos';
+  document.getElementById('kpi-chips-pct').textContent   = (totalC > 0 ? (ativas/totalC*100).toFixed(1) : 0)+'% ativos';
   document.getElementById('kpi-inv-uso').textContent     = emUso;
   document.getElementById('kpi-inv-total').textContent   = totalI;
   document.getElementById('kpi-inv-estoque').textContent = emEst+' em estoque';
   document.getElementById('kpi-col-total').textContent   = DATA.controle.length;
   document.getElementById('kpi-col-badge').textContent   = DATA.controle.length+' vínculos';
-  document.getElementById('kpi-pag-total').textContent   = fmt(totalP);
-  document.getElementById('kpi-pag-fornec').textContent  = uniqF+' fornecedores';
+  // Emails KPIs
+  var emTotal = document.getElementById('em-total');
+  if (emTotal) {
+    emTotal.textContent = DATA.emails.length;
+    document.getElementById('em-ativos').textContent = DATA.emails.filter(e=>e.status==='Ativo').length;
+    document.getElementById('em-suspensas').textContent = DATA.emails.filter(e=>e.status==='Suspenso').length;
+  }
+
+  // Dash page KPIs
+  var dashE = document.getElementById('dash-emails');
+  if (dashE) dashE.textContent = DATA.emails.filter(e=>e.status==='Ativo').length + ' / ' + DATA.emails.length;
 
   // Chips page KPIs
   document.getElementById('c-total').textContent  = totalC;
@@ -347,17 +384,19 @@ async function loadDataAndInit() {
   meta.textContent = 'Conectando ao Google Sheets';
 
   try {
-    const [chips, inventario, controle, pagamentos] = await Promise.all([
+    const [chips, inventario, controle, pagamentos, emails] = await Promise.all([
       fetchSheetData('chips'),
       fetchSheetData('inventario'),
       fetchSheetData('controle'),
-      fetchSheetData('pagamentos')
+      fetchSheetData('pagamentos'),
+      fetchSheetData('emails')
     ]);
 
     DATA.chips = chips;
     DATA.inventario = inventario;
     DATA.controle = controle;
     DATA.pagamentos = pagamentos;
+    DATA.emails = emails;
 
     initDashboard();
   } catch (error) {

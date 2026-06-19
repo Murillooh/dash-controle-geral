@@ -32,6 +32,9 @@
       <a class="nav-item" data-page="controle" onclick="showPage('controle')">
         <span class="nav-icon">📋</span> Controle de Ativos
       </a>
+      <a class="nav-item" data-page="emails" onclick="showPage('emails')">
+        <span class="nav-icon">📧</span> Email Google
+      </a>
       <a class="nav-item" data-page="pagamentos" onclick="showPage('pagamentos')">
         <span class="nav-icon">💳</span> Pagamentos
       </a>
@@ -186,6 +189,31 @@
     </div>
   </div>
 
+  <!-- EMAILS -->
+  <div class="page" id="page-emails">
+    <div class="kpi-grid">
+      <div class="kpi" style="--accent:var(--blue)"><div class="kpi-label">Total de Contas</div><div class="kpi-value" id="em-total">—</div></div>
+      <div class="kpi" style="--accent:var(--green)"><div class="kpi-label">Contas Ativas</div><div class="kpi-value" id="em-ativos">—</div></div>
+      <div class="kpi" style="--accent:var(--red)"><div class="kpi-label">Contas Suspensas</div><div class="kpi-value" id="em-suspensas">—</div></div>
+    </div>
+    <div class="filter-row">
+      <select class="filter-select" id="em-st" onchange="renderEmails()">
+        <option value="">Todos status</option>
+        <option>Ativo</option><option>Suspenso</option>
+      </select>
+      <input class="filter-select" type="text" id="em-search" placeholder="Buscar email / nome / depto..." oninput="renderEmails()" style="width:260px">
+    </div>
+    <div class="table-wrap">
+      <div class="table-head"><span class="table-title">Contas de Email Corporativo</span><span class="table-count" id="em-count">—</span></div>
+      <div style="overflow-x:auto">
+        <table class="tbl"><thead><tr>
+          <th>EMAIL</th><th>NOME</th><th>DEPARTAMENTO</th><th>UNIDADE</th><th>STATUS</th><th>ÚLTIMO LOGIN</th>
+        </tr></thead><tbody id="em-tbody"></tbody></table>
+      </div>
+      <div class="pagination"><span class="pag-info" id="em-pag-info"></span><div class="pag-btns" id="em-pag-btns"></div></div>
+    </div>
+  </div>
+
   <!-- PAGAMENTOS -->
   <div class="page" id="page-pagamentos">
     <div class="kpi-grid">
@@ -215,7 +243,7 @@
   </div>
 </main>
 
-<script src="script.js?v=3"></script>
+<script src="script.js?v=4"></script>
 
 </body>
 </html>

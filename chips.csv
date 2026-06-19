@@ -1,465 +1,465 @@
-numero,plano,operadora,valor,status,nome,departamento,fidelidade,multa,cnpj
-(11) 97690 7609,Pós Pago,Claro,53.69,Inativo,Cancelar Linha,Não Informado,08/05/2027,550.0,57129904000139
-(11) 97894 0458,Pós Pago,Claro,53.69,Inativo,Cancelar Linha,Não Informado,09/05/2027,550.0,57129904000139
-(11) 97897 1668,Pós Pago,Claro,53.69,Ativo,Barbara Silva,Barueri,10/05/2027,550.0,57129904000139
-(11) 98859 6434,Pós Pago,Claro,53.69,Inativo,Cancelar Linha,Não Informado,27/02/2027,450.0,57129904000139
-(11) 98859 6679,Pós Pago,Claro,53.69,Ativo,Alize Maria Do Amparo Campelo,Barueri,27/02/2027,450.0,57129904000139
-(11) 98859 7639,Pós Pago,Claro,53.69,Ativo,Thaina Tavares,Barueri,27/02/2027,450.0,57129904000139
-(11) 98859 9820,Pós Pago,Claro,53.69,Inativo,Cancelar Linha,Não Informado,27/02/2027,450.0,57129904000139
-(11) 98861 0049,Pós Pago,Claro,53.69,Inativo,Cancelar Linha,Não Informado,27/02/2027,450.0,57129904000139
-(11) 98861 0697,Pós Pago,Claro,53.69,Inativo,Cancelar Linha,Não Informado,27/02/2027,450.0,57129904000139
-(11) 98861 3026,Pós Pago,Claro,53.69,Inativo,Cancelar Linha,Não Informado,27/02/2027,450.0,57129904000139
-(11) 98861 3687,Pós Pago,Claro,53.69,Inativo,Cancelar Linha,Não Informado,27/02/2027,450.0,57129904000139
-(11) 98861 4609,Pós Pago,Claro,53.69,Inativo,Cancelar Linha,Não Informado,27/02/2027,450.0,57129904000139
-(11) 98861 4824,Pós Pago,Claro,53.69,Inativo,Cancelar Linha,Não Informado,27/02/2027,450.0,57129904000139
-(11) 98901 0370,Pós Pago,Claro,53.69,Inativo,Cancelar Linha,Não Informado,08/05/2027,550.0,57129904000139
-(11) 98901 0494,Pós Pago,Claro,53.69,Ativo,Vanderson Luis Augusto,Barueri,08/05/2027,550.0,57129904000139
-(11) 98901 0566,Pós Pago,Claro,53.69,Ativo,Elenice Soares,Canindé,08/05/2027,550.0,57129904000139
-(11) 98901 0751,Pós Pago,Claro,53.69,Inativo,Cancelar Linha,Não Informado,08/05/2027,550.0,57129904000139
-(11) 98901 1292,Pós Pago,Claro,53.69,Inativo,Cancelar Linha,Não Informado,08/05/2027,550.0,57129904000139
-(11) 98901 1790,Pós Pago,Claro,53.69,Ativo,Thais Santos,Limão,08/05/2027,550.0,57129904000139
-(11) 98901 2048,Pós Pago,Claro,53.69,Ativo,Felipe Augusto Salomao,Barueri,08/05/2027,550.0,57129904000139
-(11) 98901 2428,Pós Pago,Claro,53.69,Inativo,Cancelar Linha,Não Informado,08/05/2027,550.0,57129904000139
-(11) 98901 2714,Pós Pago,Claro,53.69,Inativo,Cancelar Linha,Não Informado,08/05/2027,550.0,57129904000139
-(11) 98901 2942,Pós Pago,Claro,53.69,Inativo,Cancelar Linha,Não Informado,08/05/2027,550.0,57129904000139
-(11) 98901 3624,Pós Pago,Claro,53.69,Inativo,Cancelar Linha,Não Informado,08/05/2027,550.0,57129904000139
-(11) 98901 3910,Pós Pago,Claro,209.98,Ativo,Eliane Mattos,Todas,08/05/2027,550.0,57129904000139
-(11) 91524 4700,Pós Pago,Claro,53.69,Ativo,Lucas Pereira,Zona Sul,12/12/2026,300.0,57129904000139
-(11) 91524 4711,Pós Pago,Claro,53.69,Inativo,Cancelar Linha,Não Informado,12/12/2026,300.0,57129904000139
-(11) 91524 4723,Pós Pago,Claro,53.69,Inativo,Cancelar Linha,Não Informado,12/12/2026,300.0,57129904000139
-(11) 91524 4750,Pós Pago,Claro,53.69,Inativo,Cancelar Linha,Não Informado,12/12/2026,300.0,57129904000139
-(11) 91524 4788,Pós Pago,Claro,53.69,Inativo,Cancelar Linha,Não Informado,12/12/2026,300.0,57129904000139
-(11) 91524 4801,Pós Pago,Claro,53.69,Inativo,Cancelar Linha,Não Informado,12/12/2026,300.0,57129904000139
-(11) 91524 4839,Pós Pago,Claro,53.69,Inativo,Cancelar Linha,Não Informado,12/12/2026,300.0,57129904000139
-(11) 91524 4845,Pós Pago,Claro,53.69,Inativo,Cancelar Linha,Não Informado,12/12/2026,300.0,57129904000139
-(11) 91524 4854,Pós Pago,Claro,53.69,Inativo,Cancelar Linha,Não Informado,12/12/2026,300.0,57129904000139
-(11) 91524 4901,Pós Pago,Claro,53.69,Inativo,Cancelar Linha,Não Informado,12/12/2026,300.0,57129904000139
-(11) 91524 4918,Pós Pago,Claro,53.69,Ativo,Jeferson Gomes da Silva,Limão,12/12/2026,300.0,57129904000139
-(11) 91524 4975,Pós Pago,Claro,53.69,Inativo,Cancelar Linha,Não Informado,12/12/2026,300.0,57129904000139
-(11) 91524 4985,Pós Pago,Claro,53.69,Inativo,Cancelar Linha,Não Informado,12/12/2026,300.0,57129904000139
-(11) 91524 4991,Pós Pago,Claro,53.69,Ativo,Vitoria Luiza,Barueri,12/12/2026,300.0,57129904000139
-(11) 91524 5012,Pós Pago,Claro,53.69,Inativo,Cancelar Linha,Não Informado,12/12/2026,300.0,57129904000139
-(11) 91524 5027,Pós Pago,Claro,53.69,Ativo,Letícia Souza,Zona Sul,12/12/2026,300.0,57129904000139
-(11) 91524 5037,Pós Pago,Claro,53.69,Inativo,Cancelar Linha,Não Informado,12/12/2026,300.0,57129904000139
-(11) 91524 5051,Pós Pago,Claro,53.69,Inativo,Cancelar Linha,Não Informado,12/12/2026,300.0,57129904000139
-(11) 91524 5086,Pós Pago,Claro,53.69,Ativo,Italuana santana,Barueri,12/12/2026,300.0,57129904000139
-(11) 91524 5129,Pós Pago,Claro,53.69,Ativo,Aline Duarte,Barueri,12/12/2026,300.0,57129904000139
-(11) 91524 5158,Pós Pago,Claro,53.69,Inativo,Cancelar Linha,Não Informado,12/12/2026,300.0,57129904000139
-(11) 91524 5192,Pós Pago,Claro,53.69,Inativo,Cancelar Linha,Não Informado,12/12/2026,300.0,57129904000139
-(11) 91524 5200,Pós Pago,Claro,53.69,Inativo,Cancelar Linha,Não Informado,12/12/2026,300.0,57129904000139
-(11) 91524 5220,Pós Pago,Claro,53.69,Inativo,Cancelar Linha,Não Informado,12/12/2026,300.0,57129904000139
-(11) 91524 5234,Pós Pago,Claro,53.69,Inativo,Cancelar Linha,Não Informado,12/12/2026,300.0,57129904000139
-(11) 93902 7380,Pós Pago,Claro,53.69,Inativo,Sem Registro,Não Informado,16/04/2027,500.0,57129904000139
-(11) 93902 7485,Pós Pago,Claro,53.69,Inativo,Cancelar Linha,Não Informado,16/04/2027,500.0,57129904000139
-(11) 93902 7517,Pós Pago,Claro,53.69,Inativo,Cancelar Linha,Não Informado,16/04/2027,500.0,57129904000139
-(11) 93902 7617,Pós Pago,Claro,53.69,Inativo,Cancelar Linha,Não Informado,16/04/2027,500.0,57129904000139
-(11) 93902 7825,Pós Pago,Claro,53.69,Inativo,Cancelar Linha,Não Informado,16/04/2027,500.0,57129904000139
-(11) 93902 7890,Pós Pago,Claro,53.69,Inativo,Cancelar Linha,Não Informado,16/04/2027,500.0,57129904000139
-(11) 93902 8183,Pós Pago,Claro,53.69,Inativo,Cancelar Linha,Não Informado,16/04/2027,500.0,57129904000139
-(11) 93902 9776,Pós Pago,Claro,53.69,Ativo,Isabela da Silva Menezes,Canindé,16/04/2027,500.0,57129904000139
-(11) 93902 9979,Pós Pago,Claro,53.69,Inativo,Cancelar Linha,Não Informado,16/04/2027,500.0,57129904000139
-(11) 93903 0115,Pós Pago,Claro,53.69,Inativo,Cancelar Linha,Não Informado,16/04/2027,500.0,57129904000139
-(11) 93903 0241,Pós Pago,Claro,53.69,Inativo,Cancelar Linha,Não Informado,16/04/2027,500.0,57129904000139
-(11) 93903 0353,Pós Pago,Claro,53.69,Inativo,Cancelar Linha,Não Informado,16/04/2027,500.0,57129904000139
-(11) 93903 1762,Pós Pago,Claro,53.69,Inativo,Cancelar Linha,Não Informado,16/04/2027,500.0,57129904000139
-(11) 93903 2141,Pós Pago,Claro,53.69,Inativo,Cancelar Linha,Não Informado,16/04/2027,500.0,57129904000139
-(11) 93903 2192,Pós Pago,Claro,53.69,Inativo,Cancelar Linha,Não Informado,16/04/2027,500.0,57129904000139
-(11) 96734 5046,Pós Pago,Claro,53.69,Ativo,Adevair Moreira,Zona Sul,16/01/2027,350.0,57129904000139
-(11) 99140 8456,Pós Pago,Claro,53.69,Inativo,Cancelar Linha,Não Informado,30/01/2027,400.0,57129904000139
-(11) 91541 1363,Pós Pago,Claro,53.69,Inativo,Sem Registro,Não Informado,09/12/2026,300.0,54248957000180
-(11) 91541 1388,Pós Pago,Claro,53.69,Inativo,Sem Registro,Não Informado,09/12/2026,300.0,54248957000180
-(11) 91541 1494,Pós Pago,Claro,53.69,Inativo,Sem Registro,Não Informado,09/12/2026,300.0,54248957000180
-(11) 91541 1518,Pós Pago,Claro,53.69,Inativo,Sem Registro,Não Informado,09/12/2026,300.0,54248957000180
-(11) 91541 1536,Pós Pago,Claro,53.69,Inativo,Sem Registro,Não Informado,09/12/2026,300.0,54248957000180
-(11) 91541 1545,Pós Pago,Claro,53.69,Inativo,Sem Registro,Não Informado,09/12/2026,300.0,54248957000180
-(11) 91541 1606,Pós Pago,Claro,53.69,Inativo,Sem Registro,Não Informado,09/12/2026,300.0,54248957000180
-(11) 91541 1682,Pós Pago,Claro,53.69,Inativo,Sem Registro,Não Informado,09/12/2026,300.0,54248957000180
-(11) 91541 1718,Pós Pago,Claro,53.69,Inativo,Sem Registro,Não Informado,09/12/2026,300.0,54248957000180
-(11) 91541 1795,Pós Pago,Claro,53.69,Ativo,Thaynara Gomes,Limão,09/12/2026,300.0,54248957000180
-(11) 91524 3091,Pós Pago,Claro,53.69,Inativo,Cancelar,Não Informado,12/12/2026,300.0,57228691000100
-(11) 91524 3141,Pós Pago,Claro,53.69,Inativo,Cancelar,Não Informado,12/12/2026,300.0,57228691000100
-(11) 91524 3147,Pós Pago,Claro,53.69,Inativo,Cancelar,Não Informado,12/12/2026,300.0,57228691000100
-(11) 91524 3163,Pós Pago,Claro,53.69,Inativo,Cancelar,Não Informado,12/12/2026,300.0,57228691000100
-(11) 91524 3193,Pós Pago,Claro,53.69,Ativo,Alana,Home Ofice,12/12/2026,300.0,57228691000100
-(11) 91524 3213,Pós Pago,Claro,53.69,Ativo,Andressa Farias,Zona Sul,12/12/2026,300.0,57228691000100
-(11) 91524 3262,Pós Pago,Claro,53.69,Ativo,Rayane Sanzovo,Tatuapé,12/12/2026,300.0,57228691000100
-(11) 91524 3276,Pós Pago,Claro,53.69,Inativo,Cancelar,Não Informado,12/12/2026,300.0,57228691000100
-(11) 91524 3298,Pós Pago,Claro,53.69,Inativo,Alexandre Manutenção / Afastado,Não Informado,12/12/2026,300.0,57228691000100
-(11) 91524 3318,Pós Pago,Claro,53.69,Inativo,Cancelar,Não Informado,12/12/2026,300.0,57228691000100
-(11) 91524 3404,Pós Pago,Claro,74.99,Ativo,Alberto Frigo,Limão,12/12/2026,300.0,57228691000100
-(11) 91524 3412,Pós Pago,Claro,53.69,Inativo,Cancelar,Não Informado,12/12/2026,300.0,57228691000100
-(11) 91524 3429,Pós Pago,Claro,53.69,Ativo,Elida Figueredo,Home Ofice,12/12/2026,300.0,57228691000100
-(11) 91524 3453,Pós Pago,Claro,53.69,Inativo,Cancelar,Não Informado,12/12/2026,300.0,57228691000100
-(11) 91524 3465,Pós Pago,Claro,53.69,Inativo,Cancelar,Não Informado,12/12/2026,300.0,57228691000100
-(11) 91524 3498,Pós Pago,Claro,53.69,Inativo,Cancelar,Não Informado,12/12/2026,300.0,57228691000100
-(11) 91524 3517,Pós Pago,Claro,74.99,Ativo,Murillo Silva,Zona Sul,12/12/2026,300.0,57228691000100
-(11) 91524 3526,Pós Pago,Claro,53.69,Inativo,Cancelar,Não Informado,12/12/2026,300.0,57228691000100
-(11) 91524 4143,Pós Pago,Claro,53.69,Inativo,Cancelar,Não Informado,12/12/2026,300.0,57228691000100
-(11) 91524 4163,Pós Pago,Claro,53.69,Ativo,Mylena,Canindé,12/12/2026,300.0,57228691000100
-(11) 91524 4185,Pós Pago,Claro,53.69,Inativo,Cancelar,Não Informado,12/12/2026,300.0,57228691000100
-(11) 91524 4205,Pós Pago,Claro,53.69,Inativo,Cancelar,Não Informado,12/12/2026,300.0,57228691000100
-(11) 91524 4253,Pós Pago,Claro,53.69,Inativo,Cancelar,Não Informado,15/12/2026,300.0,57228691000100
-(11) 91524 4268,Pós Pago,Claro,53.69,Inativo,Cancelar,Não Informado,12/12/2026,300.0,57228691000100
-(11) 91524 4270,Pós Pago,Claro,53.69,Inativo,Cancelar,Não Informado,12/12/2026,300.0,57228691000100
-(11) 91524 4306,Pós Pago,Claro,53.69,Inativo,Cancelar,Não Informado,12/12/2026,300.0,57228691000100
-(11) 91524 4341,Pós Pago,Claro,53.69,Ativo,Nicole Milani Macuzaya,Barueri,12/12/2026,300.0,57228691000100
-(11) 91524 4359,Pós Pago,Claro,53.69,Inativo,Cancelar,Não Informado,12/12/2026,300.0,57228691000100
-(11) 91524 4373,Pós Pago,Claro,53.69,Ativo,Hiago,Barueri,12/12/2026,300.0,57228691000100
-(11) 91524 4379,Pós Pago,Claro,53.69,Ativo,Hugo,Barueri,12/12/2026,300.0,57228691000100
-(11) 97648 5038,Pós Pago,Claro,53.69,Inativo,Cancelar,Não Informado,09/02/2027,400.0,57228691000100
-(11) 97667 1593,Pós Pago,Claro,53.69,Inativo,Cancelar,Não Informado,09/02/2027,400.0,57228691000100
-(11) 97697 8423,Pós Pago,Claro,49.99,Inativo,Cancelar,Não Informado,09/02/2027,400.0,57228691000100
-(11) 97835 1395,Pós Pago,Claro,53.69,Inativo,Cancelar,Não Informado,09/02/2027,400.0,57228691000100
-(11) 97839 8866,Pós Pago,Claro,53.69,Inativo,Cancelar,Não Informado,09/02/2027,400.0,57228691000100
-(11) 97852 3347,Pós Pago,Claro,53.69,Inativo,Cancelar,Não Informado,09/02/2027,400.0,57228691000100
-(11) 97870 1765,Pós Pago,Claro,53.69,Inativo,Cancelar,Não Informado,09/02/2027,400.0,57228691000100
-(11) 97890 2084,Pós Pago,Claro,53.69,Inativo,Cancelar,Não Informado,09/02/2027,400.0,57228691000100
-(11) 98808 5772,Pós Pago,Claro,53.69,Ativo,Leidianne holanda,Limão,09/02/2027,400.0,57228691000100
-(11) 98858 2401,Pós Pago,Claro,53.69,Ativo,Yngrid Zamboni ,Limão,26/02/2027,450.0,57228691000100
-(11) 98858 3375,Pós Pago,Claro,53.69,Inativo,Cancelar,Não Informado,26/02/2027,450.0,57228691000100
-(11) 98858 4908,Pós Pago,Claro,53.69,Ativo,Telma Monteiro,Home Ofice,26/02/2027,450.0,57228691000100
-(11) 98858 5129,Pós Pago,Claro,53.69,Inativo,Cancelar,Não Informado,26/02/2027,450.0,57228691000100
-(11) 98859 2594,Pós Pago,Claro,53.69,Ativo,Flavia Duarte,Barueri,26/02/2027,450.0,57228691000100
-(11) 98859 4981,Pós Pago,Claro,53.69,Ativo,Thaina Tavares ,Barueri,26/02/2027,450.0,57228691000100
-(11) 98859 6307,Pós Pago,Claro,53.69,Inativo,Cancelar,Não Informado,26/02/2027,450.0,57228691000100
-(11) 98859 9655,Pós Pago,Claro,53.69,Inativo,Cancelar,Não Informado,26/02/2027,450.0,57228691000100
-(11) 98861 1739,Pós Pago,Claro,53.69,Inativo,Cancelar,Não Informado,26/02/2027,450.0,57228691000100
-(11) 98861 4608,Pós Pago,Claro,53.69,Inativo,Cancelar,Não Informado,26/02/2027,450.0,57228691000100
-(11) 98869 6257,Pós Pago,Claro,53.69,Inativo,Cancelar,Não Informado,09/02/2027,400.0,57228691000100
-(11) 99489 4199,Pós Pago,Claro,53.69,Ativo,Naiara Marjorie,Marketing,26/12/2026,350.0,58135325000161
-(11) 99491 0063,Pós Pago,Claro,53.69,Ativo,Raphael Miranda Xavier de Almeida,Marketing,26/12/2026,350.0,58135325000161
-(11) 99491 6058,Pós Pago,Claro,53.69,Inativo,Cancelar,Não Informado,26/12/2026,350.0,58135325000161
-(11) 99492 0112,Pós Pago,Claro,53.69,Inativo,Cancelar,Não Informado,26/12/2026,350.0,58135325000161
-(11) 99492 0534,Pós Pago,Claro,53.69,Inativo,Cancelar,Não Informado,26/12/2026,350.0,58135325000161
-(11) 99492 3994,Pós Pago,Claro,53.69,Inativo,Cancelar,Não Informado,26/12/2026,350.0,58135325000161
-(11) 99492 4979,Pós Pago,Claro,53.69,Inativo,Cancelar,Não Informado,26/12/2026,350.0,58135325000161
-(11) 99492 5210,Pós Pago,Claro,53.69,Inativo,Cancelar,Não Informado,26/12/2026,350.0,58135325000161
-(11) 99492 5769,Pós Pago,Claro,53.69,Inativo,Cancelar,Não Informado,26/12/2026,350.0,58135325000161
-(11) 99492 7643,Pós Pago,Claro,53.69,Inativo,Cancelar,Não Informado,26/12/2026,350.0,58135325000161
-(11) 99492 8182,Pós Pago,Claro,53.69,Ativo,Rodolfo Paiva,Limão,26/12/2026,350.0,58135325000161
-(11) 99492 8458,Pós Pago,Claro,53.69,Inativo,Cancelar,Não Informado,26/12/2026,350.0,58135325000161
-(11) 99492 9776,Pós Pago,Claro,53.69,Ativo,Diego Alves ,Limão,26/12/2026,350.0,58135325000161
-(11) 99493 1256,Pós Pago,Claro,53.69,Inativo,Cancelar,Não Informado,26/12/2026,350.0,58135325000161
-(11) 99493 2203,Pós Pago,Claro,53.69,Inativo,Cancelar,Não Informado,26/12/2026,350.0,58135325000161
-(11) 99493 3032,Pós Pago,Claro,53.69,Inativo,Cancelar,Não Informado,26/12/2026,350.0,58135325000161
-(11) 99493 3860,Pós Pago,Claro,53.69,Ativo,Thiago Bossolani,Limão,26/12/2026,350.0,58135325000161
-(11) 99493 6084,Pós Pago,Claro,53.69,Inativo,Cancelar,Não Informado,26/12/2026,350.0,58135325000161
-(11) 99493 8639,Pós Pago,Claro,53.69,Inativo,Cancelar,Não Informado,26/12/2026,350.0,58135325000161
-(11) 99493 9572,Pós Pago,Claro,53.69,Inativo,Cancelar,Não Informado,26/12/2026,350.0,58135325000161
-(11) 99494 1800,Pós Pago,Claro,53.69,Ativo,Simone Santos,Zona Sul,26/12/2026,350.0,58135325000161
-(11) 99494 2474,Pós Pago,Claro,53.69,Inativo,Cancelar,Não Informado,26/12/2026,350.0,58135325000161
-(11) 99494 3277,Pós Pago,Claro,53.69,Ativo,Diogo Henrique,Limão,26/12/2026,350.0,58135325000161
-(11) 99494 4675,Pós Pago,Claro,53.69,Inativo,Cancelar,Não Informado,26/12/2026,350.0,58135325000161
-(11) 99494 5763,Pós Pago,Claro,53.69,Inativo,Cancelar,Não Informado,26/12/2026,350.0,58135325000161
-(31) 97400 8480,Pós Pago,Claro,50.29,Inativo,Cancelar linha,Não Informado,01/09/2027,750.0,48449181000164
-(31) 98013 9039,Pós Pago,Claro,49.99,Ativo,Daiana Mauro,Floresta,01/09/2027,750.0,48449181000164
-(31) 98020 9351,Pós Pago,Claro,49.99,Inativo,Cancelar linha,Não Informado,01/09/2027,750.0,48449181000164
-(31) 98400 2047,Pós Pago,Claro,53.69,Ativo,Felipe Ornelas Rezende Rodrigues ,Centro,17/03/2027,450.0,48449181000164
-(31) 98400 4607,Pós Pago,Claro,53.69,Inativo,Cancelar linha,Não Informado,17/03/2027,450.0,48449181000164
-(31) 98400 4689,Pós Pago,Claro,53.69,Ativo,Stephany Alves Oliveira Santos,Floresta,17/03/2027,450.0,48449181000164
-(31) 98400 4833,Pós Pago,Claro,53.69,Ativo,Jucelia de Oliveira Alves,Floresta,17/03/2027,450.0,48449181000164
-(31) 98400 7677,Pós Pago,Claro,53.69,Ativo,Eduarda Da Pieve Monteiro,Floresta,17/03/2027,450.0,48449181000164
-(31) 98400 7727,Pós Pago,Claro,53.69,Ativo,Estoque,Centro,17/03/2027,450.0,48449181000164
-(31) 98410 0039,Pós Pago,Claro,53.69,Inativo,Cancelar linha,Não Informado,17/03/2027,450.0,48449181000164
-(31) 98410 0146,Pós Pago,Claro,53.69,Ativo,Camila Mairinques,Floresta,17/03/2027,450.0,48449181000164
-(31) 98410 0318,Pós Pago,Claro,53.69,Inativo,Cancelar linha,Não Informado,17/03/2027,450.0,48449181000164
-(31) 98410 3095,Pós Pago,Claro,53.69,Ativo,Thiago Freitas dos Santos,Centro,17/03/2027,450.0,48449181000164
-(31) 98410 5837,Pós Pago,Claro,53.69,Inativo,Cancelar linha,Não Informado,17/03/2027,450.0,48449181000164
-(31) 98410 8475,Pós Pago,Claro,53.69,Ativo,Jonathan Patrick dos Santos,Floresta,17/03/2027,450.0,48449181000164
-(31) 98410 8653,Pós Pago,Claro,53.69,Ativo,Josué Rodrigues,Floresta,17/03/2027,450.0,48449181000164
-(31) 98410 8833,Pós Pago,Claro,53.69,Inativo,Cancelar linha,Não Informado,17/03/2027,450.0,48449181000164
-(31) 98420 3957,Pós Pago,Claro,53.69,Ativo,Anna Carolina Gonçalves Lopes,Floresta,17/03/2027,450.0,48449181000164
-(31) 98420 4282,Pós Pago,Claro,53.69,Inativo,Cancelar linha,Não Informado,17/03/2027,450.0,48449181000164
-(31) 98420 6717,Pós Pago,Claro,53.69,Ativo,Fábio Augusto de Freitas Dias,Floresta,17/03/2027,450.0,48449181000164
-(31) 98420 7002,Pós Pago,Claro,53.69,Ativo,Júlia Rocha Braga da Silva,Floresta,17/03/2027,450.0,48449181000164
-(31) 98471 5259,Pós Pago,Claro,49.99,Ativo,Anna Karine Pereira Barcelos,Floramar,01/09/2027,750.0,48449181000164
-(31) 98478 6531,Pós Pago,Claro,49.99,Ativo,Felipe Alexandre Generoso,Floresta,01/09/2027,750.0,48449181000164
-(31) 98480 5852,Pós Pago,Claro,49.99,Ativo,Caio Augusto Pereira Rocha,Floramar,01/09/2027,750.0,48449181000164
-(31) 98490 2808,Pós Pago,Claro,53.69,Ativo,Cássio Augusto Fernandes,Centro,17/03/2027,450.0,48449181000164
-(31) 98490 3710,Pós Pago,Claro,53.69,Ativo,Wellyngton Luiz de Souza,Centro,17/03/2027,450.0,48449181000164
-(31) 98499 3575,Pós Pago,Claro,49.99,Ativo,Camilla Fernanda Gonçalves Almeida,Floramar,01/09/2027,750.0,48449181000164
-(31) 98504 0724,Pós Pago,Claro,49.99,Ativo,Victor Augusto Malagoli Araujo,Centro,01/09/2027,750.0,48449181000164
-(31) 98511 1587,Pós Pago,Claro,49.99,Ativo,Sistema de Disparo API Oficial (Bruno),Centro,01/09/2027,750.0,48449181000164
-(31) 98512 5437,Pós Pago,Claro,49.99,Ativo,[Sistema] AtendaX (Bruno),Centro,01/09/2027,750.0,48449181000164
-(31) 98515 3767,Pós Pago,Claro,49.99,Ativo,[Sistema] AtendaX (Bruno),Centro,01/09/2027,750.0,48449181000164
-(31) 98523 7736,Pós Pago,Claro,49.99,Ativo,[Sistema] AtendaX (Bruno),Centro,01/09/2027,750.0,48449181000164
-(31) 98546 0813,Pós Pago,Claro,49.99,Ativo,[Sistema] AtendaX (Bruno),Centro,01/09/2027,750.0,48449181000164
-(31) 98551 6939,Pós Pago,Claro,49.99,Ativo,Jackson Junio da Silva Rosa,Floresta,01/09/2027,750.0,48449181000164
-(31) 98571 0121,Pós Pago,Claro,49.99,Ativo,Stella Barbosa da Silva,Floresta,01/09/2027,750.0,48449181000164
-(31) 98582 8808,Pós Pago,Claro,49.99,Inativo,Cancelar linha,Não Informado,01/09/2027,750.0,48449181000164
-(31) 98597 1184,Pós Pago,Claro,49.99,Inativo,Cancelar linha,Não Informado,01/09/2027,750.0,48449181000164
-(31) 98611 8810,Pós Pago,Claro,49.99,Ativo,Arthur Parentoni dos Santos,Centro,01/09/2027,750.0,48449181000164
-(31) 98817 1955,Pós Pago,Claro,49.99,Inativo,Cancelar linha,Não Informado,01/09/2027,750.0,48449181000164
-(31) 98823 1446,Pós Pago,Claro,49.99,Ativo,Gabriel Caique de Souza,Floresta,01/09/2027,750.0,48449181000164
-(31) 98857 3395,Pós Pago,Claro,49.99,Ativo,Marcus Oliveira,Centro,01/09/2027,750.0,48449181000164
-(31) 98861 5473,Pós Pago,Claro,49.99,Inativo,Cancelar linha,Não Informado,01/09/2027,750.0,48449181000164
-(31) 98871 0954,Pós Pago,Claro,49.99,Ativo,Matheus Filipe da Silva,Floresta,01/09/2027,750.0,48449181000164
-(31) 98889 1210,Pós Pago,Claro,49.99,Ativo,Raillan,Floramar,01/09/2027,750.0,48449181000164
-(31) 98908 9689,Pós Pago,Claro,49.99,Inativo,Cancelar linha,Não Informado,01/09/2027,750.0,48449181000164
-(31) 98916 0555,Pós Pago,Claro,49.99,Ativo,Estoque,Centro,01/09/2027,750.0,48449181000164
-(31) 98942 0343,Pós Pago,Claro,49.99,Inativo,Cancelar linha,Não Informado,01/09/2027,750.0,48449181000164
-(31) 98950 0069,Pós Pago,Claro,49.99,Ativo,[Sistema] BM Suporte Locação (Bruno),Floresta,01/09/2027,750.0,48449181000164
-(31) 98964 5466,Pós Pago,Claro,49.99,Ativo,[Sistema] BM (Bruno),Floresta,01/09/2027,750.0,48449181000164
-(31) 98993 0913,Pós Pago,Claro,49.99,Ativo,Lara Victoria Campos Rocha,Floramar,01/09/2027,750.0,48449181000164
-(31) 98202 4090,Pós Pago,Claro,53.69,Ativo,Ana Clara Gonçalves Sabino,Floresta,01/06/2027,600.0,48449181000164
-(31) 98212 3070,Pós Pago,Claro,53.69,Ativo,Laila Morgana Xavier Vieira ,Floresta,01/06/2027,600.0,48449181000164
-(31) 98216 0622,Pós Pago,Claro,53.69,Ativo,Cristiano Raydan da Cruz,Centro,01/06/2027,600.0,48449181000164
-(31) 98216 0697,Pós Pago,Claro,53.69,Inativo,Cancelar linha,Não Informado,01/06/2027,600.0,48449181000164
-(31) 98216 0732,Pós Pago,Claro,53.69,Ativo,Estoque,Centro,01/06/2027,600.0,48449181000164
-(31) 98260 8100,Pós Pago,Claro,53.69,Ativo,Ana Luiza Silva Sant'Anna,Centro,25/03/2027,500.0,48449181000164
-(31) 98262 3555,Pós Pago,Claro,53.69,Ativo,Juliana Lopes Barbosa,Floresta,25/03/2027,500.0,48449181000164
-(31) 98263 9177,Pós Pago,Claro,53.69,Inativo,Cancelar linha,Não Informado,25/03/2027,500.0,48449181000164
-(31) 98265 1388,Pós Pago,Claro,53.69,Ativo,Sheylla Ribeiro Silva,Barreiro,25/03/2027,500.0,48449181000164
-(31) 98266 3444,Pós Pago,Claro,53.69,Inativo,Cancelar linha,Não Informado,25/03/2027,500.0,48449181000164
-(31) 98266 9149,Pós Pago,Claro,53.69,Inativo,Cancelar linha,Não Informado,25/03/2027,500.0,48449181000164
-(31) 98267 3736,Pós Pago,Claro,53.69,Ativo,Lucas Ferreira Silva,Floresta,25/03/2027,500.0,48449181000164
-(31) 98267 9187,Pós Pago,Claro,53.69,Ativo,Maria Luiza Barbosa Rodrigues,Floresta,25/03/2027,500.0,48449181000164
-(31) 98270 0243,Pós Pago,Claro,53.69,Ativo,[SISTEMA] Kommo Loccel (Katy/Tchaya/Luana),Não Informado,25/03/2027,500.0,48449181000164
-(31) 98271 9544,Pós Pago,Claro,53.69,Inativo,Cancelar linha,Não Informado,25/03/2027,500.0,48449181000164
-(31) 98330 6324,Pós Pago,Claro,53.69,Inativo,Cancelar linha,Não Informado,01/06/2027,600.0,48449181000164
-(31) 98336 8702,Pós Pago,Claro,53.69,Ativo,Sthefany Gomes Nazareth,Floramar,01/06/2027,600.0,48449181000164
-(31) 98340 5674,Pós Pago,Claro,53.69,Ativo,CS FRANQUEADO,Floresta,01/06/2027,600.0,48449181000164
-(31) 98357 4011,Pós Pago,Claro,53.69,Ativo,Daiana Mauro,Floresta,01/06/2027,600.0,48449181000164
-(31) 98359 3672,Pós Pago,Claro,53.69,Ativo,Amanda Alves Vieira,Floramar,01/06/2027,600.0,48449181000164
-(31) 98359 6871,Pós Pago,Claro,53.69,Inativo,Cancelar linha,Não Informado,01/06/2027,600.0,48449181000164
-(31) 98363 0169,Pós Pago,Claro,53.69,Ativo,Thais Alessandra Monteiro Rocha,Floresta,01/06/2027,600.0,48449181000164
-(31) 98386 9603,Pós Pago,Claro,53.69,Inativo,Cancelar linha,Não Informado,01/06/2027,600.0,48449181000164
-(31) 98400 9607,Pós Pago,Claro,53.69,Ativo,Priscila Cristina Xavier de Souza,Floresta,01/06/2027,600.0,48449181000164
-(31) 98404 7405,Pós Pago,Claro,53.69,Ativo,Carla Patrícia Dias Soares,Barreiro,01/06/2027,600.0,48449181000164
-(31) 98411 6368,Pós Pago,Claro,53.69,Inativo,Cancelar linha,Não Informado,01/06/2027,600.0,48449181000164
-(31) 98412 1312,Pós Pago,Claro,53.69,Ativo,Kamila Gomes,Centro,01/06/2027,600.0,48449181000164
-(31) 98427 8793,Pós Pago,Claro,53.69,Ativo,Thalita Evelyn Siqueira Silva,Floresta,01/06/2027,600.0,48449181000164
-(31) 98437 0658,Pós Pago,Claro,53.69,Inativo,Cancelar linha,Não Informado,01/06/2027,600.0,48449181000164
-(31) 98444 5081,Pós Pago,Claro,53.69,Ativo,Emilly Alves Tonaco,Floramar,01/06/2027,600.0,48449181000164
-(31) 98449 3727,Pós Pago,Claro,53.69,Inativo,Cancelar linha,Não Informado,01/06/2027,600.0,48449181000164
-(31) 98453 6808,Pós Pago,Claro,53.69,Ativo,Daiana Gomes Silva,Floramar,01/06/2027,600.0,48449181000164
-(31) 98467 1428,Pós Pago,Claro,53.69,Ativo,Isabela Aparecida Pereira da Fonseca,Floresta,01/06/2027,600.0,48449181000164
-(31) 98471 3221,Pós Pago,Claro,53.69,Inativo,Cancelar linha,Não Informado,01/06/2027,600.0,48449181000164
-(31) 98471 4418,Pós Pago,Claro,53.69,Ativo,Millena Iana Teixeira,Floresta,04/02/2027,400.0,48449181000164
-(31) 98472 1874,Pós Pago,Claro,53.69,Inativo,Cancelar linha,Não Informado,01/06/2027,600.0,48449181000164
-(31) 98473 7368,Pós Pago,Claro,53.69,Ativo,Danyane Pereira de Souza,Floresta,04/02/2027,400.0,48449181000164
-(31) 98473 9435,Pós Pago,Claro,53.69,Inativo,Cancelar linha,Não Informado,04/02/2027,400.0,48449181000164
-(31) 98475 8327,Pós Pago,Claro,53.69,Inativo,Cancelar linha,Não Informado,04/02/2027,400.0,48449181000164
-(31) 98476 5188,Pós Pago,Claro,53.69,Ativo,Kathleen Martins D Avila Carneiro ,Floramar,04/02/2027,400.0,48449181000164
-(31) 98477 5133,Pós Pago,Claro,53.69,Ativo,Beatriz Carvalho Santos Solar ,Floresta,04/02/2027,400.0,48449181000164
-(31) 98477 5390,Pós Pago,Claro,53.69,Ativo,Kerolainy Campos Braga,Centro,01/06/2027,600.0,48449181000164
-(31) 98478 8899,Pós Pago,Claro,53.69,Inativo,Cancelar linha,Não Informado,04/02/2027,400.0,48449181000164
-(31) 98482 7184,Pós Pago,Claro,53.69,Inativo,Cancelar linha,Não Informado,04/02/2027,400.0,48449181000164
-(31) 98484 8346,Pós Pago,Claro,53.69,Ativo,Stefany Silva de Souza,Centro,04/02/2027,400.0,48449181000164
-(31) 98485 8249,Pós Pago,Claro,53.69,Ativo,Caroline Gabrielle Barsante,Floresta,01/06/2027,600.0,48449181000164
-(31) 98490 0311,Pós Pago,Claro,53.69,Inativo,Cancelar linha,Não Informado,01/06/2027,600.0,48449181000164
-(31) 98499 3924,Pós Pago,Claro,53.69,Ativo,Anderson Renato,Floresta,01/06/2027,600.0,48449181000164
-(31) 98499 6352,Pós Pago,Claro,53.69,Ativo,Thais Hosken Portugal,Floresta,01/06/2027,600.0,48449181000164
-(31) 98620 0421,Pós Pago,Claro,53.69,Ativo,Gleidson Mendonça de Andrade,Centro,04/02/2027,400.0,48449181000164
-11912199965,Pós Pago,Vivo,53.69,Inativo,Sem Registro,Não Informado,12/11/2026,250.0,48449181000164
-11914475885,Pós Pago,Vivo,53.69,Inativo,Sem Registro,Não Informado,12/11/2026,250.0,48449181000164
-11916383788,Pós Pago,Vivo,53.69,Inativo,Sem Registro,Não Informado,12/11/2026,250.0,48449181000164
-11930600976,Pós Pago,Vivo,53.69,Inativo,Sem Registro,Não Informado,12/11/2026,250.0,48449181000164
-11930692733,Pós Pago,Vivo,53.69,Inativo,Sem Registro,Não Informado,12/11/2026,250.0,48449181000164
-11933920572,Pós Pago,Vivo,53.69,Inativo,Sem Registro,Não Informado,12/11/2026,250.0,48449181000164
-11937748571,Pós Pago,Vivo,53.69,Inativo,Sem Registro,Não Informado,12/11/2026,250.0,48449181000164
-11941058829,Pós Pago,Vivo,53.69,Inativo,Sem Registro,Não Informado,12/11/2026,250.0,48449181000164
-11950269949,Pós Pago,Vivo,53.69,Inativo,Sem Registro,Não Informado,12/11/2026,250.0,48449181000164
-11961992365,Pós Pago,Vivo,53.69,Inativo,Sem Registro,Não Informado,12/11/2026,250.0,48449181000164
-11971828807,Pós Pago,Vivo,53.69,Inativo,Sem Registro,Não Informado,12/11/2026,250.0,48449181000164
-11973441796,Pós Pago,Vivo,53.69,Inativo,Sem Registro,Não Informado,12/11/2026,250.0,48449181000164
-11974302942,Pós Pago,Vivo,53.69,Inativo,Sem Registro,Não Informado,12/11/2026,250.0,48449181000164
-11974839505,Pós Pago,Vivo,53.69,Ativo,Rodrigo,Zona Sul,12/11/2026,250.0,48449181000164
-11975288132,Pós Pago,Vivo,53.69,Inativo,Sem Registro,Não Informado,12/11/2026,250.0,48449181000164
-11975902865,Pós Pago,Vivo,53.69,Ativo,Ariele,Barueri,12/11/2026,250.0,48449181000164
-11995154416,Pós Pago,Vivo,53.69,Ativo,Allan,Limão,12/11/2026,250.0,48449181000164
-11995260777,Pós Pago,Vivo,53.69,Inativo,Sem Registro,Não Informado,12/11/2026,250.0,48449181000164
-11998502480,Pós Pago,Vivo,53.69,Inativo,Sem Registro,Não Informado,12/11/2026,250.0,48449181000164
-11999212146,Pós Pago,Vivo,53.69,Inativo,Sem Registro,Não Informado,12/11/2026,250.0,48449181000164
-11930190066,Pós Pago,TIM,39.99,Ativo,Sem Registro,Não Informado,11/09/2026,150.0,54248957000180
-11930190084,Pós Pago,TIM,39.99,Ativo,Sem Registro,Não Informado,11/09/2026,150.0,54248957000180
-11930190091,Pós Pago,TIM,39.99,Ativo,Sem Registro,Não Informado,11/09/2026,150.0,54248957000180
-11930190109,Pós Pago,TIM,39.99,Ativo,Sem Registro,Não Informado,11/09/2026,150.0,54248957000180
-11930190142,Pós Pago,TIM,39.99,Ativo,Sem Registro,Não Informado,11/09/2026,150.0,54248957000180
-11930190156,Pós Pago,TIM,39.99,Ativo,Sem Registro,Não Informado,11/09/2026,150.0,54248957000180
-11930190209,Pós Pago,TIM,39.99,Ativo,Sem Registro,Não Informado,11/09/2026,150.0,54248957000180
-11930190240,Pós Pago,TIM,39.99,Ativo,Sem Registro,Não Informado,11/09/2026,150.0,54248957000180
-11930190242,Pós Pago,TIM,39.99,Ativo,Sem Registro,Não Informado,11/09/2026,150.0,54248957000180
-11930190286,Pós Pago,TIM,39.99,Ativo,Sem Registro,Não Informado,11/09/2026,150.0,54248957000180
-11930190411,Pós Pago,TIM,39.99,Ativo,Sem Registro,Não Informado,11/09/2026,150.0,54248957000180
-11930190622,Pós Pago,TIM,39.99,Ativo,Sem Registro,Não Informado,11/09/2026,150.0,54248957000180
-11930190965,Pós Pago,TIM,39.99,Ativo,Sem Registro,Não Informado,11/09/2026,150.0,54248957000180
-11930191594,Pós Pago,TIM,39.99,Ativo,Sem Registro,Não Informado,11/09/2026,150.0,54248957000180
-11930192405,Pós Pago,TIM,39.99,Ativo,Sem Registro,Não Informado,11/09/2026,150.0,54248957000180
-11930192755,Pós Pago,TIM,39.99,Ativo,Sem Registro,Não Informado,11/09/2026,150.0,54248957000180
-11930192770,Pós Pago,TIM,39.99,Ativo,Sem Registro,Não Informado,11/09/2026,150.0,54248957000180
-11930192771,Pós Pago,TIM,39.99,Ativo,Sem Registro,Não Informado,11/09/2026,150.0,54248957000180
-11930192773,Pós Pago,TIM,39.99,Ativo,Sem Registro,Não Informado,11/09/2026,150.0,54248957000180
-11930192802,Pós Pago,TIM,39.99,Ativo,Sem Registro,Não Informado,11/09/2026,150.0,54248957000180
-11977260072,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,09/02/2028,1000.0,54248957000180
-11977260161,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,09/02/2028,1000.0,54248957000180
-11977260294,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,09/02/2028,1000.0,54248957000180
-11977260337,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,09/02/2028,1000.0,54248957000180
-11977260359,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,09/02/2028,1000.0,54248957000180
-11977260431,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,09/02/2028,1000.0,54248957000180
-11977260531,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,09/02/2028,1000.0,54248957000180
-11977260551,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,09/02/2028,1000.0,54248957000180
-11977260682,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,09/02/2028,1000.0,54248957000180
-11977260763,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,09/02/2028,1000.0,54248957000180
-11977260780,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,09/02/2028,1000.0,54248957000180
-11977260860,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,09/02/2028,1000.0,54248957000180
-11977261094,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,09/02/2028,1000.0,54248957000180
-11977261423,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,09/02/2028,1000.0,54248957000180
-11977261461,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,09/02/2028,1000.0,54248957000180
-11977261485,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,09/02/2028,1000.0,54248957000180
-11977261492,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,09/02/2028,1000.0,54248957000180
-11977261568,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,09/02/2028,1000.0,54248957000180
-11977261758,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,09/02/2028,1000.0,54248957000180
-11977261867,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,09/02/2028,1000.0,54248957000180
-11977261940,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,09/02/2028,1000.0,54248957000180
-11977261951,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,09/02/2028,1000.0,54248957000180
-11977261979,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,09/02/2028,1000.0,54248957000180
-11977262191,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,09/02/2028,1000.0,54248957000180
-11977262193,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,09/02/2028,1000.0,54248957000180
-11977262294,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,09/02/2028,1000.0,54248957000180
-11977262327,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,09/02/2028,1000.0,54248957000180
-11977262455,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,09/02/2028,1000.0,54248957000180
-11977262463,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,09/02/2028,1000.0,54248957000180
-11977262514,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,09/02/2028,1000.0,54248957000180
-31991520093,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,13/02/2028,1000.0,54248957000180
-31991520108,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,13/02/2028,1000.0,54248957000180
-31991520176,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,13/02/2028,1000.0,54248957000180
-31991520187,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,13/02/2028,1000.0,54248957000180
-31991520196,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,13/02/2028,1000.0,54248957000180
-31991520243,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,13/02/2028,1000.0,54248957000180
-31991520245,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,13/02/2028,1000.0,54248957000180
-31991520257,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,13/02/2028,1000.0,54248957000180
-31991520270,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,13/02/2028,1000.0,54248957000180
-31991520346,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,13/02/2028,1000.0,54248957000180
-31991520366,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,13/02/2028,1000.0,54248957000180
-31991520371,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,13/02/2028,1000.0,54248957000180
-31991520390,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,13/02/2028,1000.0,54248957000180
-31991520407,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,13/02/2028,1000.0,54248957000180
-31991520470,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,13/02/2028,1000.0,54248957000180
-31991520523,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,13/02/2028,1000.0,54248957000180
-31991520533,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,13/02/2028,1000.0,54248957000180
-31991520554,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,13/02/2028,1000.0,54248957000180
-31991520596,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,13/02/2028,1000.0,54248957000180
-31991520600,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,13/02/2028,1000.0,54248957000180
-31991520614,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,13/02/2028,1000.0,54248957000180
-31991520632,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,13/02/2028,1000.0,54248957000180
-31991520655,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,13/02/2028,1000.0,54248957000180
-31991520657,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,13/02/2028,1000.0,54248957000180
-31991520715,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,13/02/2028,1000.0,54248957000180
-31991520728,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,13/02/2028,1000.0,54248957000180
-31991520744,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,13/02/2028,1000.0,54248957000180
-31991520786,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,13/02/2028,1000.0,54248957000180
-31991520817,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,13/02/2028,1000.0,54248957000180
-31991520848,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,13/02/2028,1000.0,54248957000180
-11953281822,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,27/05/2026,0.0,48449181000164
-11953281932,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,27/05/2026,0.0,48449181000164
-11953282139,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,27/05/2026,0.0,48449181000164
-11953281992,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,27/05/2026,0.0,48449181000164
-11953282107,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,27/05/2026,0.0,48449181000164
-11953282269,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,27/05/2026,0.0,48449181000164
-11953280813,Pós Pago,TIM,39.99,Ativo,Sem Registro,Não Informado,27/05/2026,0.0,48449181000164
-11953280837,Pós Pago,TIM,39.99,Ativo,Sem Registro,Não Informado,27/05/2026,0.0,48449181000164
-11948171702,Pós Pago,TIM,39.99,Ativo,Sem Registro,Não Informado,27/05/2026,0.0,48449181000164
-11953280857,Pós Pago,TIM,39.99,Ativo,Sem Registro,Não Informado,27/05/2026,0.0,48449181000164
-11953280978,Pós Pago,TIM,39.99,Ativo,Sem Registro,Não Informado,27/05/2026,0.0,48449181000164
-11953281109,Pós Pago,TIM,39.99,Ativo,Sem Registro,Não Informado,27/05/2026,0.0,48449181000164
-11953281185,Pós Pago,TIM,39.99,Ativo,Sem Registro,Não Informado,27/05/2026,0.0,48449181000164
-11953281188,Pós Pago,TIM,39.99,Ativo,Sem Registro,Não Informado,27/05/2026,0.0,48449181000164
-11953281196,Pós Pago,TIM,39.99,Ativo,Sem Registro,Não Informado,27/05/2026,0.0,48449181000164
-11953281753,Pós Pago,TIM,39.99,Ativo,Sem Registro,Não Informado,27/05/2026,0.0,48449181000164
-11953281788,Pós Pago,TIM,39.99,Ativo,Sem Registro,Não Informado,27/05/2026,0.0,48449181000164
-11953280499,Pós Pago,TIM,39.99,Ativo,Sem Registro,Não Informado,27/05/2026,0.0,48449181000164
-11953280312,Pós Pago,TIM,39.99,Ativo,Sem Registro,Não Informado,27/05/2026,0.0,48449181000164
-11953280274,Pós Pago,TIM,39.99,Ativo,Sem Registro,Não Informado,27/05/2026,0.0,48449181000164
-11938107295,Pós Pago,TIM,39.99,Ativo,Sem Registro,Não Informado,27/05/2026,0.0,48449181000164
-11938107235,Pós Pago,TIM,39.99,Ativo,Sem Registro,Não Informado,27/05/2026,0.0,48449181000164
-11938104889,Pós Pago,TIM,39.99,Ativo,Sem Registro,Não Informado,27/05/2026,0.0,48449181000164
-11953280785,Pós Pago,TIM,39.99,Ativo,Sem Registro,Não Informado,27/05/2026,0.0,48449181000164
-11953280784,Pós Pago,TIM,39.99,Ativo,Sem Registro,Não Informado,27/05/2026,0.0,48449181000164
-11953280777,Pós Pago,TIM,39.99,Ativo,Sem Registro,Não Informado,27/05/2026,0.0,48449181000164
-11953280697,Pós Pago,TIM,39.99,Ativo,Sem Registro,Não Informado,27/05/2026,0.0,48449181000164
-11953280530,Pós Pago,TIM,39.99,Ativo,Sem Registro,Não Informado,27/05/2026,0.0,48449181000164
-11953280518,Pós Pago,TIM,39.99,Ativo,Sem Registro,Não Informado,27/05/2026,0.0,48449181000164
-11953280847,Pós Pago,TIM,39.99,Ativo,Sem Registro,Não Informado,27/05/2026,0.0,48449181000164
-11969530939,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,27/10/2027,850.0,57129904000139
-11969535826,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,27/10/2027,850.0,57129904000139
-11969531499,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,27/10/2027,850.0,57129904000139
-11969531565,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,27/10/2027,850.0,57129904000139
-11969531889,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,27/10/2027,850.0,57129904000139
-11969532059,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,27/10/2027,850.0,57129904000139
-11969532251,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,27/10/2027,850.0,57129904000139
-11969532386,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,27/10/2027,850.0,57129904000139
-11969532794,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,27/10/2027,850.0,57129904000139
-11969532892,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,27/10/2027,850.0,57129904000139
-11969533034,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,27/10/2027,850.0,57129904000139
-11969533952,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,27/10/2027,850.0,57129904000139
-11969534442,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,27/10/2027,850.0,57129904000139
-11969534555,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,27/10/2027,850.0,57129904000139
-11969534827,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,27/10/2027,850.0,57129904000139
-11969534845,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,27/10/2027,850.0,57129904000139
-11969534909,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,27/10/2027,850.0,57129904000139
-11969535010,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,27/10/2027,850.0,57129904000139
-11969535079,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,27/10/2027,850.0,57129904000139
-11969535193,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,27/10/2027,850.0,57129904000139
-11969535728,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,27/10/2027,850.0,57129904000139
-11969531498,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,27/10/2027,850.0,57129904000139
-11952801478,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,31/12/2027,950.0,57129904000139
-11979579069,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,31/12/2027,950.0,57129904000139
-11963420522,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,31/12/2027,950.0,57129904000139
-11952802090,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,31/12/2027,950.0,57129904000139
-11952801932,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,31/12/2027,950.0,57129904000139
-11952801841,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,31/12/2027,950.0,57129904000139
-11952801689,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,31/12/2027,950.0,57129904000139
-11952801652,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,31/12/2027,950.0,57129904000139
-11952801512,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,31/12/2027,950.0,57129904000139
-11952801200,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,31/12/2027,950.0,57129904000139
-11952800947,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,31/12/2027,950.0,57129904000139
-11952800901,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,31/12/2027,950.0,57129904000139
-11952800891,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,31/12/2027,950.0,57129904000139
-11952800840,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,31/12/2027,950.0,57129904000139
-11986529362,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,31/12/2027,950.0,57129904000139
-11986528662,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,31/12/2027,950.0,57129904000139
-11986526258,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,31/12/2027,950.0,57129904000139
-11986523250,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,31/12/2027,950.0,57129904000139
-11986523101,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,31/12/2027,950.0,57129904000139
-11986523036,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,31/12/2027,950.0,57129904000139
-11986523015,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,31/12/2027,950.0,57129904000139
-11986520941,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,31/12/2027,950.0,57129904000139
-11963428680,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,31/12/2027,950.0,57129904000139
-11963427592,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,31/12/2027,950.0,57129904000139
-11963425224,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,31/12/2027,950.0,57129904000139
-11963424021,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,31/12/2027,950.0,57129904000139
-11963422922,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,31/12/2027,950.0,57129904000139
-11963422680,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,31/12/2027,950.0,57129904000139
-11963422217,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,31/12/2027,950.0,57129904000139
-11963421173,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,31/12/2027,950.0,57129904000139
-31991500047,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,31/12/2027,950.0,57129904000139
-31991500048,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,31/12/2027,950.0,57129904000139
-31991500211,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,31/12/2027,950.0,57129904000139
-31991500210,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,31/12/2027,950.0,57129904000139
-31991500204,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,31/12/2027,950.0,57129904000139
-31991500187,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,31/12/2027,950.0,57129904000139
-31991500186,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,31/12/2027,950.0,57129904000139
-31991500182,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,31/12/2027,950.0,57129904000139
-31991500213,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,31/12/2027,950.0,57129904000139
-31991500179,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,31/12/2027,950.0,57129904000139
-31991500178,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,31/12/2027,950.0,57129904000139
-31991500176,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,31/12/2027,950.0,57129904000139
-31991500168,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,31/12/2027,950.0,57129904000139
-31991500147,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,31/12/2027,950.0,57129904000139
-31991500138,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,31/12/2027,950.0,57129904000139
-31991500105,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,31/12/2027,950.0,57129904000139
-31991500100,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,31/12/2027,950.0,57129904000139
-31991500098,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,31/12/2027,950.0,57129904000139
-31991500097,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,31/12/2027,950.0,57129904000139
-31991500093,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,31/12/2027,950.0,57129904000139
-31991500092,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,31/12/2027,950.0,57129904000139
-31991500089,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,31/12/2027,950.0,57129904000139
-31991500088,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,31/12/2027,950.0,57129904000139
-31991500083,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,31/12/2027,950.0,57129904000139
-31991500082,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,31/12/2027,950.0,57129904000139
-31991500081,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,31/12/2027,950.0,57129904000139
-31991500079,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,31/12/2027,950.0,57129904000139
-31991500060,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,31/12/2027,950.0,57129904000139
-31991500212,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,31/12/2027,950.0,57129904000139
-31991500040,Pós Pago,TIM,52.99,Ativo,Sem Registro,Não Informado,31/12/2027,950.0,57129904000139
+numero;plano;operadora;valor;status;nome;departamento;fidelidade;multa;cnpj
+(11) 97690 7609;Pós Pago;Claro;53,69;Inativo;Cancelar Linha;Não Informado;08/05/2027;550,0;57129904000139
+(11) 97894 0458;Pós Pago;Claro;53,69;Inativo;Cancelar Linha;Não Informado;09/05/2027;550,0;57129904000139
+(11) 97897 1668;Pós Pago;Claro;53,69;Ativo;Barbara Silva;Barueri;10/05/2027;550,0;57129904000139
+(11) 98859 6434;Pós Pago;Claro;53,69;Inativo;Cancelar Linha;Não Informado;27/02/2027;450,0;57129904000139
+(11) 98859 6679;Pós Pago;Claro;53,69;Ativo;Alize Maria Do Amparo Campelo;Barueri;27/02/2027;450,0;57129904000139
+(11) 98859 7639;Pós Pago;Claro;53,69;Ativo;Thaina Tavares;Barueri;27/02/2027;450,0;57129904000139
+(11) 98859 9820;Pós Pago;Claro;53,69;Inativo;Cancelar Linha;Não Informado;27/02/2027;450,0;57129904000139
+(11) 98861 0049;Pós Pago;Claro;53,69;Inativo;Cancelar Linha;Não Informado;27/02/2027;450,0;57129904000139
+(11) 98861 0697;Pós Pago;Claro;53,69;Inativo;Cancelar Linha;Não Informado;27/02/2027;450,0;57129904000139
+(11) 98861 3026;Pós Pago;Claro;53,69;Inativo;Cancelar Linha;Não Informado;27/02/2027;450,0;57129904000139
+(11) 98861 3687;Pós Pago;Claro;53,69;Inativo;Cancelar Linha;Não Informado;27/02/2027;450,0;57129904000139
+(11) 98861 4609;Pós Pago;Claro;53,69;Inativo;Cancelar Linha;Não Informado;27/02/2027;450,0;57129904000139
+(11) 98861 4824;Pós Pago;Claro;53,69;Inativo;Cancelar Linha;Não Informado;27/02/2027;450,0;57129904000139
+(11) 98901 0370;Pós Pago;Claro;53,69;Inativo;Cancelar Linha;Não Informado;08/05/2027;550,0;57129904000139
+(11) 98901 0494;Pós Pago;Claro;53,69;Ativo;Vanderson Luis Augusto;Barueri;08/05/2027;550,0;57129904000139
+(11) 98901 0566;Pós Pago;Claro;53,69;Ativo;Elenice Soares;Canindé;08/05/2027;550,0;57129904000139
+(11) 98901 0751;Pós Pago;Claro;53,69;Inativo;Cancelar Linha;Não Informado;08/05/2027;550,0;57129904000139
+(11) 98901 1292;Pós Pago;Claro;53,69;Inativo;Cancelar Linha;Não Informado;08/05/2027;550,0;57129904000139
+(11) 98901 1790;Pós Pago;Claro;53,69;Ativo;Thais Santos;Limão;08/05/2027;550,0;57129904000139
+(11) 98901 2048;Pós Pago;Claro;53,69;Ativo;Felipe Augusto Salomao;Barueri;08/05/2027;550,0;57129904000139
+(11) 98901 2428;Pós Pago;Claro;53,69;Inativo;Cancelar Linha;Não Informado;08/05/2027;550,0;57129904000139
+(11) 98901 2714;Pós Pago;Claro;53,69;Inativo;Cancelar Linha;Não Informado;08/05/2027;550,0;57129904000139
+(11) 98901 2942;Pós Pago;Claro;53,69;Inativo;Cancelar Linha;Não Informado;08/05/2027;550,0;57129904000139
+(11) 98901 3624;Pós Pago;Claro;53,69;Inativo;Cancelar Linha;Não Informado;08/05/2027;550,0;57129904000139
+(11) 98901 3910;Pós Pago;Claro;209,98;Ativo;Eliane Mattos;Todas;08/05/2027;550,0;57129904000139
+(11) 91524 4700;Pós Pago;Claro;53,69;Ativo;Lucas Pereira;Zona Sul;12/12/2026;300,0;57129904000139
+(11) 91524 4711;Pós Pago;Claro;53,69;Inativo;Cancelar Linha;Não Informado;12/12/2026;300,0;57129904000139
+(11) 91524 4723;Pós Pago;Claro;53,69;Inativo;Cancelar Linha;Não Informado;12/12/2026;300,0;57129904000139
+(11) 91524 4750;Pós Pago;Claro;53,69;Inativo;Cancelar Linha;Não Informado;12/12/2026;300,0;57129904000139
+(11) 91524 4788;Pós Pago;Claro;53,69;Inativo;Cancelar Linha;Não Informado;12/12/2026;300,0;57129904000139
+(11) 91524 4801;Pós Pago;Claro;53,69;Inativo;Cancelar Linha;Não Informado;12/12/2026;300,0;57129904000139
+(11) 91524 4839;Pós Pago;Claro;53,69;Inativo;Cancelar Linha;Não Informado;12/12/2026;300,0;57129904000139
+(11) 91524 4845;Pós Pago;Claro;53,69;Inativo;Cancelar Linha;Não Informado;12/12/2026;300,0;57129904000139
+(11) 91524 4854;Pós Pago;Claro;53,69;Inativo;Cancelar Linha;Não Informado;12/12/2026;300,0;57129904000139
+(11) 91524 4901;Pós Pago;Claro;53,69;Inativo;Cancelar Linha;Não Informado;12/12/2026;300,0;57129904000139
+(11) 91524 4918;Pós Pago;Claro;53,69;Ativo;Jeferson Gomes da Silva;Limão;12/12/2026;300,0;57129904000139
+(11) 91524 4975;Pós Pago;Claro;53,69;Inativo;Cancelar Linha;Não Informado;12/12/2026;300,0;57129904000139
+(11) 91524 4985;Pós Pago;Claro;53,69;Inativo;Cancelar Linha;Não Informado;12/12/2026;300,0;57129904000139
+(11) 91524 4991;Pós Pago;Claro;53,69;Ativo;Vitoria Luiza;Barueri;12/12/2026;300,0;57129904000139
+(11) 91524 5012;Pós Pago;Claro;53,69;Inativo;Cancelar Linha;Não Informado;12/12/2026;300,0;57129904000139
+(11) 91524 5027;Pós Pago;Claro;53,69;Ativo;Letícia Souza;Zona Sul;12/12/2026;300,0;57129904000139
+(11) 91524 5037;Pós Pago;Claro;53,69;Inativo;Cancelar Linha;Não Informado;12/12/2026;300,0;57129904000139
+(11) 91524 5051;Pós Pago;Claro;53,69;Inativo;Cancelar Linha;Não Informado;12/12/2026;300,0;57129904000139
+(11) 91524 5086;Pós Pago;Claro;53,69;Ativo;Italuana santana;Barueri;12/12/2026;300,0;57129904000139
+(11) 91524 5129;Pós Pago;Claro;53,69;Ativo;Aline Duarte;Barueri;12/12/2026;300,0;57129904000139
+(11) 91524 5158;Pós Pago;Claro;53,69;Inativo;Cancelar Linha;Não Informado;12/12/2026;300,0;57129904000139
+(11) 91524 5192;Pós Pago;Claro;53,69;Inativo;Cancelar Linha;Não Informado;12/12/2026;300,0;57129904000139
+(11) 91524 5200;Pós Pago;Claro;53,69;Inativo;Cancelar Linha;Não Informado;12/12/2026;300,0;57129904000139
+(11) 91524 5220;Pós Pago;Claro;53,69;Inativo;Cancelar Linha;Não Informado;12/12/2026;300,0;57129904000139
+(11) 91524 5234;Pós Pago;Claro;53,69;Inativo;Cancelar Linha;Não Informado;12/12/2026;300,0;57129904000139
+(11) 93902 7380;Pós Pago;Claro;53,69;Inativo;Sem Registro;Não Informado;16/04/2027;500,0;57129904000139
+(11) 93902 7485;Pós Pago;Claro;53,69;Inativo;Cancelar Linha;Não Informado;16/04/2027;500,0;57129904000139
+(11) 93902 7517;Pós Pago;Claro;53,69;Inativo;Cancelar Linha;Não Informado;16/04/2027;500,0;57129904000139
+(11) 93902 7617;Pós Pago;Claro;53,69;Inativo;Cancelar Linha;Não Informado;16/04/2027;500,0;57129904000139
+(11) 93902 7825;Pós Pago;Claro;53,69;Inativo;Cancelar Linha;Não Informado;16/04/2027;500,0;57129904000139
+(11) 93902 7890;Pós Pago;Claro;53,69;Inativo;Cancelar Linha;Não Informado;16/04/2027;500,0;57129904000139
+(11) 93902 8183;Pós Pago;Claro;53,69;Inativo;Cancelar Linha;Não Informado;16/04/2027;500,0;57129904000139
+(11) 93902 9776;Pós Pago;Claro;53,69;Ativo;Isabela da Silva Menezes;Canindé;16/04/2027;500,0;57129904000139
+(11) 93902 9979;Pós Pago;Claro;53,69;Inativo;Cancelar Linha;Não Informado;16/04/2027;500,0;57129904000139
+(11) 93903 0115;Pós Pago;Claro;53,69;Inativo;Cancelar Linha;Não Informado;16/04/2027;500,0;57129904000139
+(11) 93903 0241;Pós Pago;Claro;53,69;Inativo;Cancelar Linha;Não Informado;16/04/2027;500,0;57129904000139
+(11) 93903 0353;Pós Pago;Claro;53,69;Inativo;Cancelar Linha;Não Informado;16/04/2027;500,0;57129904000139
+(11) 93903 1762;Pós Pago;Claro;53,69;Inativo;Cancelar Linha;Não Informado;16/04/2027;500,0;57129904000139
+(11) 93903 2141;Pós Pago;Claro;53,69;Inativo;Cancelar Linha;Não Informado;16/04/2027;500,0;57129904000139
+(11) 93903 2192;Pós Pago;Claro;53,69;Inativo;Cancelar Linha;Não Informado;16/04/2027;500,0;57129904000139
+(11) 96734 5046;Pós Pago;Claro;53,69;Ativo;Adevair Moreira;Zona Sul;16/01/2027;350,0;57129904000139
+(11) 99140 8456;Pós Pago;Claro;53,69;Inativo;Cancelar Linha;Não Informado;30/01/2027;400,0;57129904000139
+(11) 91541 1363;Pós Pago;Claro;53,69;Inativo;Sem Registro;Não Informado;09/12/2026;300,0;54248957000180
+(11) 91541 1388;Pós Pago;Claro;53,69;Inativo;Sem Registro;Não Informado;09/12/2026;300,0;54248957000180
+(11) 91541 1494;Pós Pago;Claro;53,69;Inativo;Sem Registro;Não Informado;09/12/2026;300,0;54248957000180
+(11) 91541 1518;Pós Pago;Claro;53,69;Inativo;Sem Registro;Não Informado;09/12/2026;300,0;54248957000180
+(11) 91541 1536;Pós Pago;Claro;53,69;Inativo;Sem Registro;Não Informado;09/12/2026;300,0;54248957000180
+(11) 91541 1545;Pós Pago;Claro;53,69;Inativo;Sem Registro;Não Informado;09/12/2026;300,0;54248957000180
+(11) 91541 1606;Pós Pago;Claro;53,69;Inativo;Sem Registro;Não Informado;09/12/2026;300,0;54248957000180
+(11) 91541 1682;Pós Pago;Claro;53,69;Inativo;Sem Registro;Não Informado;09/12/2026;300,0;54248957000180
+(11) 91541 1718;Pós Pago;Claro;53,69;Inativo;Sem Registro;Não Informado;09/12/2026;300,0;54248957000180
+(11) 91541 1795;Pós Pago;Claro;53,69;Ativo;Thaynara Gomes;Limão;09/12/2026;300,0;54248957000180
+(11) 91524 3091;Pós Pago;Claro;53,69;Inativo;Cancelar;Não Informado;12/12/2026;300,0;57228691000100
+(11) 91524 3141;Pós Pago;Claro;53,69;Inativo;Cancelar;Não Informado;12/12/2026;300,0;57228691000100
+(11) 91524 3147;Pós Pago;Claro;53,69;Inativo;Cancelar;Não Informado;12/12/2026;300,0;57228691000100
+(11) 91524 3163;Pós Pago;Claro;53,69;Inativo;Cancelar;Não Informado;12/12/2026;300,0;57228691000100
+(11) 91524 3193;Pós Pago;Claro;53,69;Ativo;Alana;Home Ofice;12/12/2026;300,0;57228691000100
+(11) 91524 3213;Pós Pago;Claro;53,69;Ativo;Andressa Farias;Zona Sul;12/12/2026;300,0;57228691000100
+(11) 91524 3262;Pós Pago;Claro;53,69;Ativo;Rayane Sanzovo;Tatuapé;12/12/2026;300,0;57228691000100
+(11) 91524 3276;Pós Pago;Claro;53,69;Inativo;Cancelar;Não Informado;12/12/2026;300,0;57228691000100
+(11) 91524 3298;Pós Pago;Claro;53,69;Inativo;Alexandre Manutenção / Afastado;Não Informado;12/12/2026;300,0;57228691000100
+(11) 91524 3318;Pós Pago;Claro;53,69;Inativo;Cancelar;Não Informado;12/12/2026;300,0;57228691000100
+(11) 91524 3404;Pós Pago;Claro;74,99;Ativo;Alberto Frigo;Limão;12/12/2026;300,0;57228691000100
+(11) 91524 3412;Pós Pago;Claro;53,69;Inativo;Cancelar;Não Informado;12/12/2026;300,0;57228691000100
+(11) 91524 3429;Pós Pago;Claro;53,69;Ativo;Elida Figueredo;Home Ofice;12/12/2026;300,0;57228691000100
+(11) 91524 3453;Pós Pago;Claro;53,69;Inativo;Cancelar;Não Informado;12/12/2026;300,0;57228691000100
+(11) 91524 3465;Pós Pago;Claro;53,69;Inativo;Cancelar;Não Informado;12/12/2026;300,0;57228691000100
+(11) 91524 3498;Pós Pago;Claro;53,69;Inativo;Cancelar;Não Informado;12/12/2026;300,0;57228691000100
+(11) 91524 3517;Pós Pago;Claro;74,99;Ativo;Murillo Silva;Zona Sul;12/12/2026;300,0;57228691000100
+(11) 91524 3526;Pós Pago;Claro;53,69;Inativo;Cancelar;Não Informado;12/12/2026;300,0;57228691000100
+(11) 91524 4143;Pós Pago;Claro;53,69;Inativo;Cancelar;Não Informado;12/12/2026;300,0;57228691000100
+(11) 91524 4163;Pós Pago;Claro;53,69;Ativo;Mylena;Canindé;12/12/2026;300,0;57228691000100
+(11) 91524 4185;Pós Pago;Claro;53,69;Inativo;Cancelar;Não Informado;12/12/2026;300,0;57228691000100
+(11) 91524 4205;Pós Pago;Claro;53,69;Inativo;Cancelar;Não Informado;12/12/2026;300,0;57228691000100
+(11) 91524 4253;Pós Pago;Claro;53,69;Inativo;Cancelar;Não Informado;15/12/2026;300,0;57228691000100
+(11) 91524 4268;Pós Pago;Claro;53,69;Inativo;Cancelar;Não Informado;12/12/2026;300,0;57228691000100
+(11) 91524 4270;Pós Pago;Claro;53,69;Inativo;Cancelar;Não Informado;12/12/2026;300,0;57228691000100
+(11) 91524 4306;Pós Pago;Claro;53,69;Inativo;Cancelar;Não Informado;12/12/2026;300,0;57228691000100
+(11) 91524 4341;Pós Pago;Claro;53,69;Ativo;Nicole Milani Macuzaya;Barueri;12/12/2026;300,0;57228691000100
+(11) 91524 4359;Pós Pago;Claro;53,69;Inativo;Cancelar;Não Informado;12/12/2026;300,0;57228691000100
+(11) 91524 4373;Pós Pago;Claro;53,69;Ativo;Hiago;Barueri;12/12/2026;300,0;57228691000100
+(11) 91524 4379;Pós Pago;Claro;53,69;Ativo;Hugo;Barueri;12/12/2026;300,0;57228691000100
+(11) 97648 5038;Pós Pago;Claro;53,69;Inativo;Cancelar;Não Informado;09/02/2027;400,0;57228691000100
+(11) 97667 1593;Pós Pago;Claro;53,69;Inativo;Cancelar;Não Informado;09/02/2027;400,0;57228691000100
+(11) 97697 8423;Pós Pago;Claro;49,99;Inativo;Cancelar;Não Informado;09/02/2027;400,0;57228691000100
+(11) 97835 1395;Pós Pago;Claro;53,69;Inativo;Cancelar;Não Informado;09/02/2027;400,0;57228691000100
+(11) 97839 8866;Pós Pago;Claro;53,69;Inativo;Cancelar;Não Informado;09/02/2027;400,0;57228691000100
+(11) 97852 3347;Pós Pago;Claro;53,69;Inativo;Cancelar;Não Informado;09/02/2027;400,0;57228691000100
+(11) 97870 1765;Pós Pago;Claro;53,69;Inativo;Cancelar;Não Informado;09/02/2027;400,0;57228691000100
+(11) 97890 2084;Pós Pago;Claro;53,69;Inativo;Cancelar;Não Informado;09/02/2027;400,0;57228691000100
+(11) 98808 5772;Pós Pago;Claro;53,69;Ativo;Leidianne holanda;Limão;09/02/2027;400,0;57228691000100
+(11) 98858 2401;Pós Pago;Claro;53,69;Ativo;Yngrid Zamboni ;Limão;26/02/2027;450,0;57228691000100
+(11) 98858 3375;Pós Pago;Claro;53,69;Inativo;Cancelar;Não Informado;26/02/2027;450,0;57228691000100
+(11) 98858 4908;Pós Pago;Claro;53,69;Ativo;Telma Monteiro;Home Ofice;26/02/2027;450,0;57228691000100
+(11) 98858 5129;Pós Pago;Claro;53,69;Inativo;Cancelar;Não Informado;26/02/2027;450,0;57228691000100
+(11) 98859 2594;Pós Pago;Claro;53,69;Ativo;Flavia Duarte;Barueri;26/02/2027;450,0;57228691000100
+(11) 98859 4981;Pós Pago;Claro;53,69;Ativo;Thaina Tavares ;Barueri;26/02/2027;450,0;57228691000100
+(11) 98859 6307;Pós Pago;Claro;53,69;Inativo;Cancelar;Não Informado;26/02/2027;450,0;57228691000100
+(11) 98859 9655;Pós Pago;Claro;53,69;Inativo;Cancelar;Não Informado;26/02/2027;450,0;57228691000100
+(11) 98861 1739;Pós Pago;Claro;53,69;Inativo;Cancelar;Não Informado;26/02/2027;450,0;57228691000100
+(11) 98861 4608;Pós Pago;Claro;53,69;Inativo;Cancelar;Não Informado;26/02/2027;450,0;57228691000100
+(11) 98869 6257;Pós Pago;Claro;53,69;Inativo;Cancelar;Não Informado;09/02/2027;400,0;57228691000100
+(11) 99489 4199;Pós Pago;Claro;53,69;Ativo;Naiara Marjorie;Marketing;26/12/2026;350,0;58135325000161
+(11) 99491 0063;Pós Pago;Claro;53,69;Ativo;Raphael Miranda Xavier de Almeida;Marketing;26/12/2026;350,0;58135325000161
+(11) 99491 6058;Pós Pago;Claro;53,69;Inativo;Cancelar;Não Informado;26/12/2026;350,0;58135325000161
+(11) 99492 0112;Pós Pago;Claro;53,69;Inativo;Cancelar;Não Informado;26/12/2026;350,0;58135325000161
+(11) 99492 0534;Pós Pago;Claro;53,69;Inativo;Cancelar;Não Informado;26/12/2026;350,0;58135325000161
+(11) 99492 3994;Pós Pago;Claro;53,69;Inativo;Cancelar;Não Informado;26/12/2026;350,0;58135325000161
+(11) 99492 4979;Pós Pago;Claro;53,69;Inativo;Cancelar;Não Informado;26/12/2026;350,0;58135325000161
+(11) 99492 5210;Pós Pago;Claro;53,69;Inativo;Cancelar;Não Informado;26/12/2026;350,0;58135325000161
+(11) 99492 5769;Pós Pago;Claro;53,69;Inativo;Cancelar;Não Informado;26/12/2026;350,0;58135325000161
+(11) 99492 7643;Pós Pago;Claro;53,69;Inativo;Cancelar;Não Informado;26/12/2026;350,0;58135325000161
+(11) 99492 8182;Pós Pago;Claro;53,69;Ativo;Rodolfo Paiva;Limão;26/12/2026;350,0;58135325000161
+(11) 99492 8458;Pós Pago;Claro;53,69;Inativo;Cancelar;Não Informado;26/12/2026;350,0;58135325000161
+(11) 99492 9776;Pós Pago;Claro;53,69;Ativo;Diego Alves ;Limão;26/12/2026;350,0;58135325000161
+(11) 99493 1256;Pós Pago;Claro;53,69;Inativo;Cancelar;Não Informado;26/12/2026;350,0;58135325000161
+(11) 99493 2203;Pós Pago;Claro;53,69;Inativo;Cancelar;Não Informado;26/12/2026;350,0;58135325000161
+(11) 99493 3032;Pós Pago;Claro;53,69;Inativo;Cancelar;Não Informado;26/12/2026;350,0;58135325000161
+(11) 99493 3860;Pós Pago;Claro;53,69;Ativo;Thiago Bossolani;Limão;26/12/2026;350,0;58135325000161
+(11) 99493 6084;Pós Pago;Claro;53,69;Inativo;Cancelar;Não Informado;26/12/2026;350,0;58135325000161
+(11) 99493 8639;Pós Pago;Claro;53,69;Inativo;Cancelar;Não Informado;26/12/2026;350,0;58135325000161
+(11) 99493 9572;Pós Pago;Claro;53,69;Inativo;Cancelar;Não Informado;26/12/2026;350,0;58135325000161
+(11) 99494 1800;Pós Pago;Claro;53,69;Ativo;Simone Santos;Zona Sul;26/12/2026;350,0;58135325000161
+(11) 99494 2474;Pós Pago;Claro;53,69;Inativo;Cancelar;Não Informado;26/12/2026;350,0;58135325000161
+(11) 99494 3277;Pós Pago;Claro;53,69;Ativo;Diogo Henrique;Limão;26/12/2026;350,0;58135325000161
+(11) 99494 4675;Pós Pago;Claro;53,69;Inativo;Cancelar;Não Informado;26/12/2026;350,0;58135325000161
+(11) 99494 5763;Pós Pago;Claro;53,69;Inativo;Cancelar;Não Informado;26/12/2026;350,0;58135325000161
+(31) 97400 8480;Pós Pago;Claro;50,29;Inativo;Cancelar linha;Não Informado;01/09/2027;750,0;48449181000164
+(31) 98013 9039;Pós Pago;Claro;49,99;Ativo;Daiana Mauro;Floresta;01/09/2027;750,0;48449181000164
+(31) 98020 9351;Pós Pago;Claro;49,99;Inativo;Cancelar linha;Não Informado;01/09/2027;750,0;48449181000164
+(31) 98400 2047;Pós Pago;Claro;53,69;Ativo;Felipe Ornelas Rezende Rodrigues ;Centro;17/03/2027;450,0;48449181000164
+(31) 98400 4607;Pós Pago;Claro;53,69;Inativo;Cancelar linha;Não Informado;17/03/2027;450,0;48449181000164
+(31) 98400 4689;Pós Pago;Claro;53,69;Ativo;Stephany Alves Oliveira Santos;Floresta;17/03/2027;450,0;48449181000164
+(31) 98400 4833;Pós Pago;Claro;53,69;Ativo;Jucelia de Oliveira Alves;Floresta;17/03/2027;450,0;48449181000164
+(31) 98400 7677;Pós Pago;Claro;53,69;Ativo;Eduarda Da Pieve Monteiro;Floresta;17/03/2027;450,0;48449181000164
+(31) 98400 7727;Pós Pago;Claro;53,69;Ativo;Estoque;Centro;17/03/2027;450,0;48449181000164
+(31) 98410 0039;Pós Pago;Claro;53,69;Inativo;Cancelar linha;Não Informado;17/03/2027;450,0;48449181000164
+(31) 98410 0146;Pós Pago;Claro;53,69;Ativo;Camila Mairinques;Floresta;17/03/2027;450,0;48449181000164
+(31) 98410 0318;Pós Pago;Claro;53,69;Inativo;Cancelar linha;Não Informado;17/03/2027;450,0;48449181000164
+(31) 98410 3095;Pós Pago;Claro;53,69;Ativo;Thiago Freitas dos Santos;Centro;17/03/2027;450,0;48449181000164
+(31) 98410 5837;Pós Pago;Claro;53,69;Inativo;Cancelar linha;Não Informado;17/03/2027;450,0;48449181000164
+(31) 98410 8475;Pós Pago;Claro;53,69;Ativo;Jonathan Patrick dos Santos;Floresta;17/03/2027;450,0;48449181000164
+(31) 98410 8653;Pós Pago;Claro;53,69;Ativo;Josué Rodrigues;Floresta;17/03/2027;450,0;48449181000164
+(31) 98410 8833;Pós Pago;Claro;53,69;Inativo;Cancelar linha;Não Informado;17/03/2027;450,0;48449181000164
+(31) 98420 3957;Pós Pago;Claro;53,69;Ativo;Anna Carolina Gonçalves Lopes;Floresta;17/03/2027;450,0;48449181000164
+(31) 98420 4282;Pós Pago;Claro;53,69;Inativo;Cancelar linha;Não Informado;17/03/2027;450,0;48449181000164
+(31) 98420 6717;Pós Pago;Claro;53,69;Ativo;Fábio Augusto de Freitas Dias;Floresta;17/03/2027;450,0;48449181000164
+(31) 98420 7002;Pós Pago;Claro;53,69;Ativo;Júlia Rocha Braga da Silva;Floresta;17/03/2027;450,0;48449181000164
+(31) 98471 5259;Pós Pago;Claro;49,99;Ativo;Anna Karine Pereira Barcelos;Floramar;01/09/2027;750,0;48449181000164
+(31) 98478 6531;Pós Pago;Claro;49,99;Ativo;Felipe Alexandre Generoso;Floresta;01/09/2027;750,0;48449181000164
+(31) 98480 5852;Pós Pago;Claro;49,99;Ativo;Caio Augusto Pereira Rocha;Floramar;01/09/2027;750,0;48449181000164
+(31) 98490 2808;Pós Pago;Claro;53,69;Ativo;Cássio Augusto Fernandes;Centro;17/03/2027;450,0;48449181000164
+(31) 98490 3710;Pós Pago;Claro;53,69;Ativo;Wellyngton Luiz de Souza;Centro;17/03/2027;450,0;48449181000164
+(31) 98499 3575;Pós Pago;Claro;49,99;Ativo;Camilla Fernanda Gonçalves Almeida;Floramar;01/09/2027;750,0;48449181000164
+(31) 98504 0724;Pós Pago;Claro;49,99;Ativo;Victor Augusto Malagoli Araujo;Centro;01/09/2027;750,0;48449181000164
+(31) 98511 1587;Pós Pago;Claro;49,99;Ativo;Sistema de Disparo API Oficial (Bruno);Centro;01/09/2027;750,0;48449181000164
+(31) 98512 5437;Pós Pago;Claro;49,99;Ativo;[Sistema] AtendaX (Bruno);Centro;01/09/2027;750,0;48449181000164
+(31) 98515 3767;Pós Pago;Claro;49,99;Ativo;[Sistema] AtendaX (Bruno);Centro;01/09/2027;750,0;48449181000164
+(31) 98523 7736;Pós Pago;Claro;49,99;Ativo;[Sistema] AtendaX (Bruno);Centro;01/09/2027;750,0;48449181000164
+(31) 98546 0813;Pós Pago;Claro;49,99;Ativo;[Sistema] AtendaX (Bruno);Centro;01/09/2027;750,0;48449181000164
+(31) 98551 6939;Pós Pago;Claro;49,99;Ativo;Jackson Junio da Silva Rosa;Floresta;01/09/2027;750,0;48449181000164
+(31) 98571 0121;Pós Pago;Claro;49,99;Ativo;Stella Barbosa da Silva;Floresta;01/09/2027;750,0;48449181000164
+(31) 98582 8808;Pós Pago;Claro;49,99;Inativo;Cancelar linha;Não Informado;01/09/2027;750,0;48449181000164
+(31) 98597 1184;Pós Pago;Claro;49,99;Inativo;Cancelar linha;Não Informado;01/09/2027;750,0;48449181000164
+(31) 98611 8810;Pós Pago;Claro;49,99;Ativo;Arthur Parentoni dos Santos;Centro;01/09/2027;750,0;48449181000164
+(31) 98817 1955;Pós Pago;Claro;49,99;Inativo;Cancelar linha;Não Informado;01/09/2027;750,0;48449181000164
+(31) 98823 1446;Pós Pago;Claro;49,99;Ativo;Gabriel Caique de Souza;Floresta;01/09/2027;750,0;48449181000164
+(31) 98857 3395;Pós Pago;Claro;49,99;Ativo;Marcus Oliveira;Centro;01/09/2027;750,0;48449181000164
+(31) 98861 5473;Pós Pago;Claro;49,99;Inativo;Cancelar linha;Não Informado;01/09/2027;750,0;48449181000164
+(31) 98871 0954;Pós Pago;Claro;49,99;Ativo;Matheus Filipe da Silva;Floresta;01/09/2027;750,0;48449181000164
+(31) 98889 1210;Pós Pago;Claro;49,99;Ativo;Raillan;Floramar;01/09/2027;750,0;48449181000164
+(31) 98908 9689;Pós Pago;Claro;49,99;Inativo;Cancelar linha;Não Informado;01/09/2027;750,0;48449181000164
+(31) 98916 0555;Pós Pago;Claro;49,99;Ativo;Estoque;Centro;01/09/2027;750,0;48449181000164
+(31) 98942 0343;Pós Pago;Claro;49,99;Inativo;Cancelar linha;Não Informado;01/09/2027;750,0;48449181000164
+(31) 98950 0069;Pós Pago;Claro;49,99;Ativo;[Sistema] BM Suporte Locação (Bruno);Floresta;01/09/2027;750,0;48449181000164
+(31) 98964 5466;Pós Pago;Claro;49,99;Ativo;[Sistema] BM (Bruno);Floresta;01/09/2027;750,0;48449181000164
+(31) 98993 0913;Pós Pago;Claro;49,99;Ativo;Lara Victoria Campos Rocha;Floramar;01/09/2027;750,0;48449181000164
+(31) 98202 4090;Pós Pago;Claro;53,69;Ativo;Ana Clara Gonçalves Sabino;Floresta;01/06/2027;600,0;48449181000164
+(31) 98212 3070;Pós Pago;Claro;53,69;Ativo;Laila Morgana Xavier Vieira ;Floresta;01/06/2027;600,0;48449181000164
+(31) 98216 0622;Pós Pago;Claro;53,69;Ativo;Cristiano Raydan da Cruz;Centro;01/06/2027;600,0;48449181000164
+(31) 98216 0697;Pós Pago;Claro;53,69;Inativo;Cancelar linha;Não Informado;01/06/2027;600,0;48449181000164
+(31) 98216 0732;Pós Pago;Claro;53,69;Ativo;Estoque;Centro;01/06/2027;600,0;48449181000164
+(31) 98260 8100;Pós Pago;Claro;53,69;Ativo;Ana Luiza Silva Sant'Anna;Centro;25/03/2027;500,0;48449181000164
+(31) 98262 3555;Pós Pago;Claro;53,69;Ativo;Juliana Lopes Barbosa;Floresta;25/03/2027;500,0;48449181000164
+(31) 98263 9177;Pós Pago;Claro;53,69;Inativo;Cancelar linha;Não Informado;25/03/2027;500,0;48449181000164
+(31) 98265 1388;Pós Pago;Claro;53,69;Ativo;Sheylla Ribeiro Silva;Barreiro;25/03/2027;500,0;48449181000164
+(31) 98266 3444;Pós Pago;Claro;53,69;Inativo;Cancelar linha;Não Informado;25/03/2027;500,0;48449181000164
+(31) 98266 9149;Pós Pago;Claro;53,69;Inativo;Cancelar linha;Não Informado;25/03/2027;500,0;48449181000164
+(31) 98267 3736;Pós Pago;Claro;53,69;Ativo;Lucas Ferreira Silva;Floresta;25/03/2027;500,0;48449181000164
+(31) 98267 9187;Pós Pago;Claro;53,69;Ativo;Maria Luiza Barbosa Rodrigues;Floresta;25/03/2027;500,0;48449181000164
+(31) 98270 0243;Pós Pago;Claro;53,69;Ativo;[SISTEMA] Kommo Loccel (Katy/Tchaya/Luana);Não Informado;25/03/2027;500,0;48449181000164
+(31) 98271 9544;Pós Pago;Claro;53,69;Inativo;Cancelar linha;Não Informado;25/03/2027;500,0;48449181000164
+(31) 98330 6324;Pós Pago;Claro;53,69;Inativo;Cancelar linha;Não Informado;01/06/2027;600,0;48449181000164
+(31) 98336 8702;Pós Pago;Claro;53,69;Ativo;Sthefany Gomes Nazareth;Floramar;01/06/2027;600,0;48449181000164
+(31) 98340 5674;Pós Pago;Claro;53,69;Ativo;CS FRANQUEADO;Floresta;01/06/2027;600,0;48449181000164
+(31) 98357 4011;Pós Pago;Claro;53,69;Ativo;Daiana Mauro;Floresta;01/06/2027;600,0;48449181000164
+(31) 98359 3672;Pós Pago;Claro;53,69;Ativo;Amanda Alves Vieira;Floramar;01/06/2027;600,0;48449181000164
+(31) 98359 6871;Pós Pago;Claro;53,69;Inativo;Cancelar linha;Não Informado;01/06/2027;600,0;48449181000164
+(31) 98363 0169;Pós Pago;Claro;53,69;Ativo;Thais Alessandra Monteiro Rocha;Floresta;01/06/2027;600,0;48449181000164
+(31) 98386 9603;Pós Pago;Claro;53,69;Inativo;Cancelar linha;Não Informado;01/06/2027;600,0;48449181000164
+(31) 98400 9607;Pós Pago;Claro;53,69;Ativo;Priscila Cristina Xavier de Souza;Floresta;01/06/2027;600,0;48449181000164
+(31) 98404 7405;Pós Pago;Claro;53,69;Ativo;Carla Patrícia Dias Soares;Barreiro;01/06/2027;600,0;48449181000164
+(31) 98411 6368;Pós Pago;Claro;53,69;Inativo;Cancelar linha;Não Informado;01/06/2027;600,0;48449181000164
+(31) 98412 1312;Pós Pago;Claro;53,69;Ativo;Kamila Gomes;Centro;01/06/2027;600,0;48449181000164
+(31) 98427 8793;Pós Pago;Claro;53,69;Ativo;Thalita Evelyn Siqueira Silva;Floresta;01/06/2027;600,0;48449181000164
+(31) 98437 0658;Pós Pago;Claro;53,69;Inativo;Cancelar linha;Não Informado;01/06/2027;600,0;48449181000164
+(31) 98444 5081;Pós Pago;Claro;53,69;Ativo;Emilly Alves Tonaco;Floramar;01/06/2027;600,0;48449181000164
+(31) 98449 3727;Pós Pago;Claro;53,69;Inativo;Cancelar linha;Não Informado;01/06/2027;600,0;48449181000164
+(31) 98453 6808;Pós Pago;Claro;53,69;Ativo;Daiana Gomes Silva;Floramar;01/06/2027;600,0;48449181000164
+(31) 98467 1428;Pós Pago;Claro;53,69;Ativo;Isabela Aparecida Pereira da Fonseca;Floresta;01/06/2027;600,0;48449181000164
+(31) 98471 3221;Pós Pago;Claro;53,69;Inativo;Cancelar linha;Não Informado;01/06/2027;600,0;48449181000164
+(31) 98471 4418;Pós Pago;Claro;53,69;Ativo;Millena Iana Teixeira;Floresta;04/02/2027;400,0;48449181000164
+(31) 98472 1874;Pós Pago;Claro;53,69;Inativo;Cancelar linha;Não Informado;01/06/2027;600,0;48449181000164
+(31) 98473 7368;Pós Pago;Claro;53,69;Ativo;Danyane Pereira de Souza;Floresta;04/02/2027;400,0;48449181000164
+(31) 98473 9435;Pós Pago;Claro;53,69;Inativo;Cancelar linha;Não Informado;04/02/2027;400,0;48449181000164
+(31) 98475 8327;Pós Pago;Claro;53,69;Inativo;Cancelar linha;Não Informado;04/02/2027;400,0;48449181000164
+(31) 98476 5188;Pós Pago;Claro;53,69;Ativo;Kathleen Martins D Avila Carneiro ;Floramar;04/02/2027;400,0;48449181000164
+(31) 98477 5133;Pós Pago;Claro;53,69;Ativo;Beatriz Carvalho Santos Solar ;Floresta;04/02/2027;400,0;48449181000164
+(31) 98477 5390;Pós Pago;Claro;53,69;Ativo;Kerolainy Campos Braga;Centro;01/06/2027;600,0;48449181000164
+(31) 98478 8899;Pós Pago;Claro;53,69;Inativo;Cancelar linha;Não Informado;04/02/2027;400,0;48449181000164
+(31) 98482 7184;Pós Pago;Claro;53,69;Inativo;Cancelar linha;Não Informado;04/02/2027;400,0;48449181000164
+(31) 98484 8346;Pós Pago;Claro;53,69;Ativo;Stefany Silva de Souza;Centro;04/02/2027;400,0;48449181000164
+(31) 98485 8249;Pós Pago;Claro;53,69;Ativo;Caroline Gabrielle Barsante;Floresta;01/06/2027;600,0;48449181000164
+(31) 98490 0311;Pós Pago;Claro;53,69;Inativo;Cancelar linha;Não Informado;01/06/2027;600,0;48449181000164
+(31) 98499 3924;Pós Pago;Claro;53,69;Ativo;Anderson Renato;Floresta;01/06/2027;600,0;48449181000164
+(31) 98499 6352;Pós Pago;Claro;53,69;Ativo;Thais Hosken Portugal;Floresta;01/06/2027;600,0;48449181000164
+(31) 98620 0421;Pós Pago;Claro;53,69;Ativo;Gleidson Mendonça de Andrade;Centro;04/02/2027;400,0;48449181000164
+11912199965;Pós Pago;Vivo;53,69;Inativo;Sem Registro;Não Informado;12/11/2026;250,0;48449181000164
+11914475885;Pós Pago;Vivo;53,69;Inativo;Sem Registro;Não Informado;12/11/2026;250,0;48449181000164
+11916383788;Pós Pago;Vivo;53,69;Inativo;Sem Registro;Não Informado;12/11/2026;250,0;48449181000164
+11930600976;Pós Pago;Vivo;53,69;Inativo;Sem Registro;Não Informado;12/11/2026;250,0;48449181000164
+11930692733;Pós Pago;Vivo;53,69;Inativo;Sem Registro;Não Informado;12/11/2026;250,0;48449181000164
+11933920572;Pós Pago;Vivo;53,69;Inativo;Sem Registro;Não Informado;12/11/2026;250,0;48449181000164
+11937748571;Pós Pago;Vivo;53,69;Inativo;Sem Registro;Não Informado;12/11/2026;250,0;48449181000164
+11941058829;Pós Pago;Vivo;53,69;Inativo;Sem Registro;Não Informado;12/11/2026;250,0;48449181000164
+11950269949;Pós Pago;Vivo;53,69;Inativo;Sem Registro;Não Informado;12/11/2026;250,0;48449181000164
+11961992365;Pós Pago;Vivo;53,69;Inativo;Sem Registro;Não Informado;12/11/2026;250,0;48449181000164
+11971828807;Pós Pago;Vivo;53,69;Inativo;Sem Registro;Não Informado;12/11/2026;250,0;48449181000164
+11973441796;Pós Pago;Vivo;53,69;Inativo;Sem Registro;Não Informado;12/11/2026;250,0;48449181000164
+11974302942;Pós Pago;Vivo;53,69;Inativo;Sem Registro;Não Informado;12/11/2026;250,0;48449181000164
+11974839505;Pós Pago;Vivo;53,69;Ativo;Rodrigo;Zona Sul;12/11/2026;250,0;48449181000164
+11975288132;Pós Pago;Vivo;53,69;Inativo;Sem Registro;Não Informado;12/11/2026;250,0;48449181000164
+11975902865;Pós Pago;Vivo;53,69;Ativo;Ariele;Barueri;12/11/2026;250,0;48449181000164
+11995154416;Pós Pago;Vivo;53,69;Ativo;Allan;Limão;12/11/2026;250,0;48449181000164
+11995260777;Pós Pago;Vivo;53,69;Inativo;Sem Registro;Não Informado;12/11/2026;250,0;48449181000164
+11998502480;Pós Pago;Vivo;53,69;Inativo;Sem Registro;Não Informado;12/11/2026;250,0;48449181000164
+11999212146;Pós Pago;Vivo;53,69;Inativo;Sem Registro;Não Informado;12/11/2026;250,0;48449181000164
+11930190066;Pós Pago;TIM;39,99;Ativo;Sem Registro;Não Informado;11/09/2026;150,0;54248957000180
+11930190084;Pós Pago;TIM;39,99;Ativo;Sem Registro;Não Informado;11/09/2026;150,0;54248957000180
+11930190091;Pós Pago;TIM;39,99;Ativo;Sem Registro;Não Informado;11/09/2026;150,0;54248957000180
+11930190109;Pós Pago;TIM;39,99;Ativo;Sem Registro;Não Informado;11/09/2026;150,0;54248957000180
+11930190142;Pós Pago;TIM;39,99;Ativo;Sem Registro;Não Informado;11/09/2026;150,0;54248957000180
+11930190156;Pós Pago;TIM;39,99;Ativo;Sem Registro;Não Informado;11/09/2026;150,0;54248957000180
+11930190209;Pós Pago;TIM;39,99;Ativo;Sem Registro;Não Informado;11/09/2026;150,0;54248957000180
+11930190240;Pós Pago;TIM;39,99;Ativo;Sem Registro;Não Informado;11/09/2026;150,0;54248957000180
+11930190242;Pós Pago;TIM;39,99;Ativo;Sem Registro;Não Informado;11/09/2026;150,0;54248957000180
+11930190286;Pós Pago;TIM;39,99;Ativo;Sem Registro;Não Informado;11/09/2026;150,0;54248957000180
+11930190411;Pós Pago;TIM;39,99;Ativo;Sem Registro;Não Informado;11/09/2026;150,0;54248957000180
+11930190622;Pós Pago;TIM;39,99;Ativo;Sem Registro;Não Informado;11/09/2026;150,0;54248957000180
+11930190965;Pós Pago;TIM;39,99;Ativo;Sem Registro;Não Informado;11/09/2026;150,0;54248957000180
+11930191594;Pós Pago;TIM;39,99;Ativo;Sem Registro;Não Informado;11/09/2026;150,0;54248957000180
+11930192405;Pós Pago;TIM;39,99;Ativo;Sem Registro;Não Informado;11/09/2026;150,0;54248957000180
+11930192755;Pós Pago;TIM;39,99;Ativo;Sem Registro;Não Informado;11/09/2026;150,0;54248957000180
+11930192770;Pós Pago;TIM;39,99;Ativo;Sem Registro;Não Informado;11/09/2026;150,0;54248957000180
+11930192771;Pós Pago;TIM;39,99;Ativo;Sem Registro;Não Informado;11/09/2026;150,0;54248957000180
+11930192773;Pós Pago;TIM;39,99;Ativo;Sem Registro;Não Informado;11/09/2026;150,0;54248957000180
+11930192802;Pós Pago;TIM;39,99;Ativo;Sem Registro;Não Informado;11/09/2026;150,0;54248957000180
+11977260072;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;09/02/2028;1000,0;54248957000180
+11977260161;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;09/02/2028;1000,0;54248957000180
+11977260294;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;09/02/2028;1000,0;54248957000180
+11977260337;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;09/02/2028;1000,0;54248957000180
+11977260359;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;09/02/2028;1000,0;54248957000180
+11977260431;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;09/02/2028;1000,0;54248957000180
+11977260531;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;09/02/2028;1000,0;54248957000180
+11977260551;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;09/02/2028;1000,0;54248957000180
+11977260682;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;09/02/2028;1000,0;54248957000180
+11977260763;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;09/02/2028;1000,0;54248957000180
+11977260780;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;09/02/2028;1000,0;54248957000180
+11977260860;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;09/02/2028;1000,0;54248957000180
+11977261094;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;09/02/2028;1000,0;54248957000180
+11977261423;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;09/02/2028;1000,0;54248957000180
+11977261461;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;09/02/2028;1000,0;54248957000180
+11977261485;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;09/02/2028;1000,0;54248957000180
+11977261492;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;09/02/2028;1000,0;54248957000180
+11977261568;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;09/02/2028;1000,0;54248957000180
+11977261758;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;09/02/2028;1000,0;54248957000180
+11977261867;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;09/02/2028;1000,0;54248957000180
+11977261940;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;09/02/2028;1000,0;54248957000180
+11977261951;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;09/02/2028;1000,0;54248957000180
+11977261979;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;09/02/2028;1000,0;54248957000180
+11977262191;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;09/02/2028;1000,0;54248957000180
+11977262193;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;09/02/2028;1000,0;54248957000180
+11977262294;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;09/02/2028;1000,0;54248957000180
+11977262327;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;09/02/2028;1000,0;54248957000180
+11977262455;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;09/02/2028;1000,0;54248957000180
+11977262463;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;09/02/2028;1000,0;54248957000180
+11977262514;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;09/02/2028;1000,0;54248957000180
+31991520093;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;13/02/2028;1000,0;54248957000180
+31991520108;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;13/02/2028;1000,0;54248957000180
+31991520176;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;13/02/2028;1000,0;54248957000180
+31991520187;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;13/02/2028;1000,0;54248957000180
+31991520196;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;13/02/2028;1000,0;54248957000180
+31991520243;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;13/02/2028;1000,0;54248957000180
+31991520245;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;13/02/2028;1000,0;54248957000180
+31991520257;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;13/02/2028;1000,0;54248957000180
+31991520270;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;13/02/2028;1000,0;54248957000180
+31991520346;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;13/02/2028;1000,0;54248957000180
+31991520366;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;13/02/2028;1000,0;54248957000180
+31991520371;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;13/02/2028;1000,0;54248957000180
+31991520390;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;13/02/2028;1000,0;54248957000180
+31991520407;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;13/02/2028;1000,0;54248957000180
+31991520470;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;13/02/2028;1000,0;54248957000180
+31991520523;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;13/02/2028;1000,0;54248957000180
+31991520533;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;13/02/2028;1000,0;54248957000180
+31991520554;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;13/02/2028;1000,0;54248957000180
+31991520596;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;13/02/2028;1000,0;54248957000180
+31991520600;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;13/02/2028;1000,0;54248957000180
+31991520614;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;13/02/2028;1000,0;54248957000180
+31991520632;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;13/02/2028;1000,0;54248957000180
+31991520655;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;13/02/2028;1000,0;54248957000180
+31991520657;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;13/02/2028;1000,0;54248957000180
+31991520715;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;13/02/2028;1000,0;54248957000180
+31991520728;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;13/02/2028;1000,0;54248957000180
+31991520744;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;13/02/2028;1000,0;54248957000180
+31991520786;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;13/02/2028;1000,0;54248957000180
+31991520817;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;13/02/2028;1000,0;54248957000180
+31991520848;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;13/02/2028;1000,0;54248957000180
+11953281822;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;27/05/2026;0,0;48449181000164
+11953281932;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;27/05/2026;0,0;48449181000164
+11953282139;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;27/05/2026;0,0;48449181000164
+11953281992;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;27/05/2026;0,0;48449181000164
+11953282107;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;27/05/2026;0,0;48449181000164
+11953282269;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;27/05/2026;0,0;48449181000164
+11953280813;Pós Pago;TIM;39,99;Ativo;Sem Registro;Não Informado;27/05/2026;0,0;48449181000164
+11953280837;Pós Pago;TIM;39,99;Ativo;Sem Registro;Não Informado;27/05/2026;0,0;48449181000164
+11948171702;Pós Pago;TIM;39,99;Ativo;Sem Registro;Não Informado;27/05/2026;0,0;48449181000164
+11953280857;Pós Pago;TIM;39,99;Ativo;Sem Registro;Não Informado;27/05/2026;0,0;48449181000164
+11953280978;Pós Pago;TIM;39,99;Ativo;Sem Registro;Não Informado;27/05/2026;0,0;48449181000164
+11953281109;Pós Pago;TIM;39,99;Ativo;Sem Registro;Não Informado;27/05/2026;0,0;48449181000164
+11953281185;Pós Pago;TIM;39,99;Ativo;Sem Registro;Não Informado;27/05/2026;0,0;48449181000164
+11953281188;Pós Pago;TIM;39,99;Ativo;Sem Registro;Não Informado;27/05/2026;0,0;48449181000164
+11953281196;Pós Pago;TIM;39,99;Ativo;Sem Registro;Não Informado;27/05/2026;0,0;48449181000164
+11953281753;Pós Pago;TIM;39,99;Ativo;Sem Registro;Não Informado;27/05/2026;0,0;48449181000164
+11953281788;Pós Pago;TIM;39,99;Ativo;Sem Registro;Não Informado;27/05/2026;0,0;48449181000164
+11953280499;Pós Pago;TIM;39,99;Ativo;Sem Registro;Não Informado;27/05/2026;0,0;48449181000164
+11953280312;Pós Pago;TIM;39,99;Ativo;Sem Registro;Não Informado;27/05/2026;0,0;48449181000164
+11953280274;Pós Pago;TIM;39,99;Ativo;Sem Registro;Não Informado;27/05/2026;0,0;48449181000164
+11938107295;Pós Pago;TIM;39,99;Ativo;Sem Registro;Não Informado;27/05/2026;0,0;48449181000164
+11938107235;Pós Pago;TIM;39,99;Ativo;Sem Registro;Não Informado;27/05/2026;0,0;48449181000164
+11938104889;Pós Pago;TIM;39,99;Ativo;Sem Registro;Não Informado;27/05/2026;0,0;48449181000164
+11953280785;Pós Pago;TIM;39,99;Ativo;Sem Registro;Não Informado;27/05/2026;0,0;48449181000164
+11953280784;Pós Pago;TIM;39,99;Ativo;Sem Registro;Não Informado;27/05/2026;0,0;48449181000164
+11953280777;Pós Pago;TIM;39,99;Ativo;Sem Registro;Não Informado;27/05/2026;0,0;48449181000164
+11953280697;Pós Pago;TIM;39,99;Ativo;Sem Registro;Não Informado;27/05/2026;0,0;48449181000164
+11953280530;Pós Pago;TIM;39,99;Ativo;Sem Registro;Não Informado;27/05/2026;0,0;48449181000164
+11953280518;Pós Pago;TIM;39,99;Ativo;Sem Registro;Não Informado;27/05/2026;0,0;48449181000164
+11953280847;Pós Pago;TIM;39,99;Ativo;Sem Registro;Não Informado;27/05/2026;0,0;48449181000164
+11969530939;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;27/10/2027;850,0;57129904000139
+11969535826;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;27/10/2027;850,0;57129904000139
+11969531499;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;27/10/2027;850,0;57129904000139
+11969531565;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;27/10/2027;850,0;57129904000139
+11969531889;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;27/10/2027;850,0;57129904000139
+11969532059;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;27/10/2027;850,0;57129904000139
+11969532251;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;27/10/2027;850,0;57129904000139
+11969532386;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;27/10/2027;850,0;57129904000139
+11969532794;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;27/10/2027;850,0;57129904000139
+11969532892;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;27/10/2027;850,0;57129904000139
+11969533034;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;27/10/2027;850,0;57129904000139
+11969533952;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;27/10/2027;850,0;57129904000139
+11969534442;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;27/10/2027;850,0;57129904000139
+11969534555;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;27/10/2027;850,0;57129904000139
+11969534827;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;27/10/2027;850,0;57129904000139
+11969534845;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;27/10/2027;850,0;57129904000139
+11969534909;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;27/10/2027;850,0;57129904000139
+11969535010;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;27/10/2027;850,0;57129904000139
+11969535079;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;27/10/2027;850,0;57129904000139
+11969535193;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;27/10/2027;850,0;57129904000139
+11969535728;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;27/10/2027;850,0;57129904000139
+11969531498;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;27/10/2027;850,0;57129904000139
+11952801478;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;31/12/2027;950,0;57129904000139
+11979579069;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;31/12/2027;950,0;57129904000139
+11963420522;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;31/12/2027;950,0;57129904000139
+11952802090;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;31/12/2027;950,0;57129904000139
+11952801932;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;31/12/2027;950,0;57129904000139
+11952801841;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;31/12/2027;950,0;57129904000139
+11952801689;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;31/12/2027;950,0;57129904000139
+11952801652;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;31/12/2027;950,0;57129904000139
+11952801512;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;31/12/2027;950,0;57129904000139
+11952801200;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;31/12/2027;950,0;57129904000139
+11952800947;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;31/12/2027;950,0;57129904000139
+11952800901;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;31/12/2027;950,0;57129904000139
+11952800891;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;31/12/2027;950,0;57129904000139
+11952800840;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;31/12/2027;950,0;57129904000139
+11986529362;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;31/12/2027;950,0;57129904000139
+11986528662;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;31/12/2027;950,0;57129904000139
+11986526258;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;31/12/2027;950,0;57129904000139
+11986523250;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;31/12/2027;950,0;57129904000139
+11986523101;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;31/12/2027;950,0;57129904000139
+11986523036;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;31/12/2027;950,0;57129904000139
+11986523015;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;31/12/2027;950,0;57129904000139
+11986520941;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;31/12/2027;950,0;57129904000139
+11963428680;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;31/12/2027;950,0;57129904000139
+11963427592;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;31/12/2027;950,0;57129904000139
+11963425224;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;31/12/2027;950,0;57129904000139
+11963424021;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;31/12/2027;950,0;57129904000139
+11963422922;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;31/12/2027;950,0;57129904000139
+11963422680;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;31/12/2027;950,0;57129904000139
+11963422217;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;31/12/2027;950,0;57129904000139
+11963421173;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;31/12/2027;950,0;57129904000139
+31991500047;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;31/12/2027;950,0;57129904000139
+31991500048;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;31/12/2027;950,0;57129904000139
+31991500211;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;31/12/2027;950,0;57129904000139
+31991500210;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;31/12/2027;950,0;57129904000139
+31991500204;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;31/12/2027;950,0;57129904000139
+31991500187;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;31/12/2027;950,0;57129904000139
+31991500186;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;31/12/2027;950,0;57129904000139
+31991500182;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;31/12/2027;950,0;57129904000139
+31991500213;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;31/12/2027;950,0;57129904000139
+31991500179;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;31/12/2027;950,0;57129904000139
+31991500178;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;31/12/2027;950,0;57129904000139
+31991500176;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;31/12/2027;950,0;57129904000139
+31991500168;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;31/12/2027;950,0;57129904000139
+31991500147;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;31/12/2027;950,0;57129904000139
+31991500138;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;31/12/2027;950,0;57129904000139
+31991500105;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;31/12/2027;950,0;57129904000139
+31991500100;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;31/12/2027;950,0;57129904000139
+31991500098;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;31/12/2027;950,0;57129904000139
+31991500097;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;31/12/2027;950,0;57129904000139
+31991500093;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;31/12/2027;950,0;57129904000139
+31991500092;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;31/12/2027;950,0;57129904000139
+31991500089;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;31/12/2027;950,0;57129904000139
+31991500088;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;31/12/2027;950,0;57129904000139
+31991500083;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;31/12/2027;950,0;57129904000139
+31991500082;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;31/12/2027;950,0;57129904000139
+31991500081;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;31/12/2027;950,0;57129904000139
+31991500079;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;31/12/2027;950,0;57129904000139
+31991500060;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;31/12/2027;950,0;57129904000139
+31991500212;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;31/12/2027;950,0;57129904000139
+31991500040;Pós Pago;TIM;52,99;Ativo;Sem Registro;Não Informado;31/12/2027;950,0;57129904000139
