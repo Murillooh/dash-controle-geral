@@ -1,3 +1,6 @@
+let DATA = { chips: [], inventario: [], controle: [], pagamentos: [] };
+const SHEET_ID = '1ny9SzA7Sxsc6HSuLeJ8OS0w3bhX5Qq5WX-1ZXHIJ21A';
+
 const fmt = n => 'R$' + Number(n).toLocaleString('pt-BR',{minimumFractionDigits:0,maximumFractionDigits:0});
 const fmtCNPJ = s => {
   s = String(s||'').replace(/\D/g,'').padStart(14,'0');
@@ -304,6 +307,53 @@ function initDashboard(){
     function(){return '#c9a227';});
 }
 
+async function fetchSheetData(sheetName) {
+  const url = `https://docs.google.com/spreadsheets/d/${SHEET_ID}/gviz/tq?tqx=out:json&sheet=${sheetName}&headers=1`;
+  const response = await fetch(url);
+  const text = await response.text();
+  const jsonString = text.match(/google\.visualization\.Query\.setResponse\((.*)\);/)[1];
+  const jsonData = JSON.parse(jsonString);
+
+  const headers = jsonData.table.cols.map(c => c.label);
+  const rows = jsonData.table.rows.map(row => {
+    const obj = {};
+    row.c.forEach((cell, i) => {
+      let val = cell ? cell.v : '';
+      if (val === null) val = '';
+      obj[headers[i]] = val;
+    });
+    return obj;
+  });
+  return rows;
+}
+
+async function loadDataAndInit() {
+  const title = document.getElementById('topbar-title');
+  const meta = document.getElementById('topbar-meta');
+  title.textContent = 'Carregando dados...';
+  meta.textContent = 'Conectando ao Google Sheets';
+
+  try {
+    const [chips, inventario, controle, pagamentos] = await Promise.all([
+      fetchSheetData('chips'),
+      fetchSheetData('inventario'),
+      fetchSheetData('controle'),
+      fetchSheetData('pagamentos')
+    ]);
+
+    DATA.chips = chips;
+    DATA.inventario = inventario;
+    DATA.controle = controle;
+    DATA.pagamentos = pagamentos;
+
+    initDashboard();
+  } catch (error) {
+    console.error("Erro ao carregar dados do Sheets:", error);
+    title.textContent = 'Erro de Conexão';
+    meta.textContent = 'Não foi possível carregar os dados da planilha.';
+  }
+}
+
 document.addEventListener('DOMContentLoaded', function(){
-  initDashboard();
+  loadDataAndInit();
 });
