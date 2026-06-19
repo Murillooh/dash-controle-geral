@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Painel de Controle TI — Loc Grupo</title>
+<link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+
+<aside class="sidebar">
+  <div class="logo">
+    <div class="logo-mark">Loc Grupo</div>
+    <div class="logo-sub">Painel de TI — Controle Total</div>
+  </div>
+  <nav class="nav">
+    <div class="nav-group">
+      <div class="nav-label">Visão Geral</div>
+      <a class="nav-item active" data-page="dashboard" onclick="showPage('dashboard')">
+        <span class="nav-icon">⬛</span> Dashboard
+      </a>
+    </div>
+    <div class="nav-group">
+      <div class="nav-label">Módulos</div>
+      <a class="nav-item" data-page="chips" onclick="showPage('chips')">
+        <span class="nav-icon">📱</span> Chips / Telefonia
+      </a>
+      <a class="nav-item" data-page="inventario" onclick="showPage('inventario')">
+        <span class="nav-icon">💻</span> Inventário TI
+      </a>
+      <a class="nav-item" data-page="controle" onclick="showPage('controle')">
+        <span class="nav-icon">📋</span> Controle de Ativos
+      </a>
+      <a class="nav-item" data-page="pagamentos" onclick="showPage('pagamentos')">
+        <span class="nav-icon">💳</span> Pagamentos
+      </a>
+    </div>
+  </nav>
+  <div class="sidebar-footer">Atualizado · Jun 2026</div>
+</aside>
+
+<main class="main">
+  <div class="topbar">
+    <div>
+      <div class="topbar-title" id="topbar-title">Dashboard Geral</div>
+      <div class="topbar-meta" id="topbar-meta">Visão consolidada de todos os controles</div>
+    </div>
+    <div class="search-wrap">
+      <span style="color:var(--text-dim)">🔍</span>
+      <input type="text" id="global-search" placeholder="Buscar em qualquer módulo...">
+    </div>
+  </div>
+
+  <!-- DASHBOARD -->
+  <div class="page active" id="page-dashboard">
+    <div class="kpi-grid">
+      <div class="kpi" style="--accent:var(--gold)">
+        <div class="kpi-label">Chips Ativos</div>
+        <div class="kpi-value" id="kpi-chips-ativo">—</div>
+        <div class="kpi-sub">de <span id="kpi-chips-total">—</span> linhas corporativas</div>
+        <span class="kpi-badge badge-green" id="kpi-chips-pct">—</span>
+      </div>
+      <div class="kpi" style="--accent:var(--blue)">
+        <div class="kpi-label">Ativos TI em Uso</div>
+        <div class="kpi-value" id="kpi-inv-uso">—</div>
+        <div class="kpi-sub">de <span id="kpi-inv-total">—</span> itens catalogados</div>
+        <span class="kpi-badge badge-blue" id="kpi-inv-estoque">—</span>
+      </div>
+      <div class="kpi" style="--accent:var(--green)">
+        <div class="kpi-label">Colaboradores Registrados</div>
+        <div class="kpi-value" id="kpi-col-total">—</div>
+        <div class="kpi-sub">com termos de recebimento</div>
+        <span class="kpi-badge badge-gold" id="kpi-col-badge">42 vínculos</span>
+      </div>
+      <div class="kpi" style="--accent:var(--red)">
+        <div class="kpi-label">Gastos Mensais TI</div>
+        <div class="kpi-value" id="kpi-pag-total">—</div>
+        <div class="kpi-sub">em contratos e serviços</div>
+        <span class="kpi-badge badge-red" id="kpi-pag-fornec">—</span>
+      </div>
+    </div>
+    <div class="bars-grid">
+      <div class="chart-card"><div class="chart-title">CHIPS POR OPERADORA</div><div id="chart-operadora"></div></div>
+      <div class="chart-card"><div class="chart-title">ATIVOS POR CATEGORIA</div><div id="chart-categoria"></div></div>
+      <div class="chart-card"><div class="chart-title">STATUS DO INVENTÁRIO</div><div id="chart-status-inv"></div></div>
+      <div class="chart-card"><div class="chart-title">TOP FORNECEDORES (R$)</div><div id="chart-fornecedores"></div></div>
+    </div>
+  </div>
+
+  <!-- CHIPS -->
+  <div class="page" id="page-chips">
+    <div class="kpi-grid">
+      <div class="kpi" style="--accent:#e879f9"><div class="kpi-label">Total de Linhas</div><div class="kpi-value" id="c-total">—</div></div>
+      <div class="kpi" style="--accent:var(--green)"><div class="kpi-label">Ativas</div><div class="kpi-value" id="c-ativas">—</div><span class="kpi-badge badge-green">Em uso</span></div>
+      <div class="kpi" style="--accent:var(--red)"><div class="kpi-label">Inativas</div><div class="kpi-value" id="c-inativas">—</div><span class="kpi-badge badge-red">A cancelar</span></div>
+      <div class="kpi" style="--accent:var(--gold)"><div class="kpi-label">Receita Mensal</div><div class="kpi-value" id="c-mrr">—</div></div>
+    </div>
+    <div class="filter-row">
+      <select class="filter-select" id="chips-op" onchange="renderChips()">
+        <option value="">Todas operadoras</option>
+        <option>Claro</option><option>TIM</option><option>Vivo</option>
+      </select>
+      <select class="filter-select" id="chips-st" onchange="renderChips()">
+        <option value="">Todos status</option><option>Ativo</option><option>Inativo</option>
+      </select>
+      <select class="filter-select" id="chips-cnpj" onchange="renderChips()"><option value="">Todos CNPJs</option></select>
+      <input class="filter-select" type="text" id="chips-search" placeholder="Buscar número / nome..." oninput="renderChips()" style="width:200px">
+    </div>
+    <div class="table-wrap">
+      <div class="table-head"><span class="table-title">Base de Chips Corporativos</span><span class="table-count" id="chips-count">—</span></div>
+      <div style="overflow-x:auto">
+        <table class="tbl"><thead><tr>
+          <th>NÚMERO</th><th>OPERADORA</th><th>STATUS</th><th>NOME</th>
+          <th>DEPARTAMENTO</th><th>PLANO</th><th>VALOR</th><th>FIDELIDADE</th><th>MULTA</th><th>CNPJ</th>
+        </tr></thead><tbody id="chips-tbody"></tbody></table>
+      </div>
+      <div class="pagination"><span class="pag-info" id="chips-pag-info"></span><div class="pag-btns" id="chips-pag-btns"></div></div>
+    </div>
+  </div>
+
+  <!-- INVENTÁRIO -->
+  <div class="page" id="page-inventario">
+    <div class="kpi-grid">
+      <div class="kpi" style="--accent:var(--blue)"><div class="kpi-label">Total Catalogado</div><div class="kpi-value" id="i-total">—</div></div>
+      <div class="kpi" style="--accent:var(--green)"><div class="kpi-label">Em Uso</div><div class="kpi-value" id="i-uso">—</div></div>
+      <div class="kpi" style="--accent:var(--gold)"><div class="kpi-label">Em Estoque</div><div class="kpi-value" id="i-estoque">—</div></div>
+      <div class="kpi" style="--accent:var(--orange)"><div class="kpi-label">Manutenção / Quarentena</div><div class="kpi-value" id="i-manut">—</div></div>
+    </div>
+    <div class="filter-row">
+      <select class="filter-select" id="inv-cat" onchange="renderInventario()">
+        <option value="">Todas categorias</option>
+        <option>Notebook</option><option>Monitor</option><option>Periférico</option>
+        <option>Tablet</option><option>Telefone</option><option>Computador</option>
+      </select>
+      <select class="filter-select" id="inv-st" onchange="renderInventario()">
+        <option value="">Todos status</option>
+        <option>Em uso</option><option>Em estoque</option><option>Em manutenção</option><option>Quarentena</option><option>Inutilizável</option>
+      </select>
+      <input class="filter-select" type="text" id="inv-search" placeholder="Buscar ativo / colaborador..." oninput="renderInventario()" style="width:220px">
+      <label class="filter-select" style="display:inline-flex;align-items:center;gap:6px;cursor:pointer;">
+        <input type="checkbox" id="inv-uso-estoque" onchange="renderInventario()" style="margin:0;cursor:pointer;">
+        Apenas Notebooks (Uso/Estoque)
+      </label>
+    </div>
+    <div class="table-wrap">
+      <div class="table-head"><span class="table-title">Inventário Completo</span><span class="table-count" id="inv-count">—</span></div>
+      <div style="overflow-x:auto">
+        <table class="tbl"><thead><tr>
+          <th>ATIVO</th><th>CATEGORIA</th><th>STATUS</th><th>MATRÍCULA</th>
+          <th>DEPARTAMENTO</th><th>RESPONSÁVEL</th><th>EMPRESA</th><th>TERMO</th>
+        </tr></thead><tbody id="inv-tbody"></tbody></table>
+      </div>
+      <div class="pagination"><span class="pag-info" id="inv-pag-info"></span><div class="pag-btns" id="inv-pag-btns"></div></div>
+    </div>
+  </div>
+
+  <!-- CONTROLE -->
+  <div class="page" id="page-controle">
+    <div class="kpi-grid">
+      <div class="kpi" style="--accent:var(--purple)"><div class="kpi-label">Colaboradores</div><div class="kpi-value" id="ctrl-kpi-total">42</div></div>
+      <div class="kpi" style="--accent:var(--gold)"><div class="kpi-label">Zona Sul</div><div class="kpi-value" id="ctrl-kpi-zs">22</div></div>
+      <div class="kpi" style="--accent:var(--blue)"><div class="kpi-label">Limão</div><div class="kpi-value" id="ctrl-kpi-limao">16</div></div>
+      <div class="kpi" style="--accent:var(--green)"><div class="kpi-label">Barueri</div><div class="kpi-value" id="ctrl-kpi-barueri">3</div></div>
+    </div>
+    <div class="filter-row">
+      <select class="filter-select" id="ctrl-unidade" onchange="renderControle()">
+        <option value="">Todas unidades</option>
+        <option>Limão</option><option>Zona Sul</option><option>Barueri</option><option>Santa Cruz</option>
+      </select>
+      <input class="filter-select" type="text" id="ctrl-search" placeholder="Buscar nome / patrimônio / celular..." oninput="renderControle()" style="width:240px">
+      <label class="filter-select" style="display:inline-flex;align-items:center;gap:6px;cursor:pointer;">
+        <input type="checkbox" id="ctrl-com-notebook" onchange="renderControle()" style="margin:0;cursor:pointer;">
+        Apenas c/ Notebook
+      </label>
+    </div>
+    <div class="table-wrap">
+      <div class="table-head"><span class="table-title">Controle de Recebimento — Notebooks e Celulares</span><span class="table-count" id="ctrl-count">—</span></div>
+      <div style="overflow-x:auto">
+        <table class="tbl"><thead><tr>
+          <th>COLABORADOR</th><th>CARGO</th><th>UNIDADE</th><th>NOTEBOOK</th>
+          <th>PATRIMÔNIO</th><th>CELULAR</th><th>ACESSÓRIOS</th><th>OBS</th><th>RECIBO</th>
+        </tr></thead><tbody id="ctrl-tbody"></tbody></table>
+      </div>
+      <div class="pagination"><span class="pag-info" id="ctrl-pag-info"></span><div class="pag-btns" id="ctrl-pag-btns"></div></div>
+    </div>
+  </div>
+
+  <!-- PAGAMENTOS -->
+  <div class="page" id="page-pagamentos">
+    <div class="kpi-grid">
+      <div class="kpi" style="--accent:var(--red)"><div class="kpi-label">Total Mensal</div><div class="kpi-value" id="p-total">—</div></div>
+      <div class="kpi" style="--accent:var(--orange)"><div class="kpi-label">Fornecedores</div><div class="kpi-value" id="p-fornec">—</div></div>
+      <div class="kpi" style="--accent:var(--gold)"><div class="kpi-label">CNPJs Pagadores</div><div class="kpi-value" id="p-cnpj">—</div></div>
+      <div class="kpi" style="--accent:var(--blue)">
+        <div class="kpi-label">Maior Contrato</div>
+        <div class="kpi-value" id="p-maior">—</div>
+        <div class="kpi-sub" id="p-maior-nome">—</div>
+      </div>
+    </div>
+    <div class="filter-row">
+      <select class="filter-select" id="pag-cat" onchange="renderPagamentos()"><option value="">Todos fornecedores</option></select>
+      <input class="filter-select" type="text" id="pag-search" placeholder="Buscar fornecedor / descrição..." oninput="renderPagamentos()" style="width:240px">
+    </div>
+    <div class="table-wrap">
+      <div class="table-head"><span class="table-title">Pagamentos e Contratos TI</span><span class="table-count" id="pag-count">—</span></div>
+      <div style="overflow-x:auto">
+        <table class="tbl"><thead><tr>
+          <th>FORNECEDOR</th><th>DESCRIÇÃO</th><th>UNIDADE</th><th>CNPJ</th>
+          <th>VALOR UNIT.</th><th>VALOR MÊS</th><th>OBS</th>
+        </tr></thead><tbody id="pag-tbody"></tbody></table>
+      </div>
+      <div class="pagination"><span class="pag-info" id="pag-pag-info"></span><div class="pag-btns" id="pag-pag-btns"></div></div>
+    </div>
+  </div>
+</main>
+
+<script src="data.js"></script>
+<script src="script.js"></script>
+
+</body>
+</html>
