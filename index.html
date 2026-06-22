@@ -173,13 +173,34 @@
     <div class="filter-row">
       <select class="filter-select" id="ctrl-unidade" onchange="renderControle()">
         <option value="">Todas unidades</option>
-        <option>Limão</option><option>Zona Sul</option><option>Barueri</option><option>Santa Cruz</option>
+      </select>
+      <select class="filter-select" id="ctrl-cargo" onchange="renderControle()">
+        <option value="">Todos cargos</option>
+      </select>
+      <select class="filter-select" id="ctrl-notebook-modelo" onchange="renderControle()">
+        <option value="">Todos notebooks</option>
+      </select>
+      <select class="filter-select" id="ctrl-celular-modelo" onchange="renderControle()">
+        <option value="">Todos celulares</option>
       </select>
       <input class="filter-select" type="text" id="ctrl-search" placeholder="Buscar nome / patrimônio / celular..." oninput="renderControle()" style="width:240px">
+    </div>
+    <div class="filter-row">
       <label class="filter-select" style="display:inline-flex;align-items:center;gap:6px;cursor:pointer;">
         <input type="checkbox" id="ctrl-com-notebook" onchange="renderControle()" style="margin:0;cursor:pointer;">
         Apenas c/ Notebook
       </label>
+      <label class="filter-select" style="display:inline-flex;align-items:center;gap:6px;cursor:pointer;">
+        <input type="checkbox" id="ctrl-com-celular" onchange="renderControle()" style="margin:0;cursor:pointer;">
+        Apenas c/ Celular
+      </label>
+      <label class="filter-select" style="display:inline-flex;align-items:center;gap:6px;cursor:pointer;">
+        <input type="checkbox" id="ctrl-com-recibo" onchange="renderControle()" style="margin:0;cursor:pointer;">
+        Apenas c/ Recibo
+      </label>
+      <button class="filter-select" id="ctrl-limpar-filtros" onclick="limparFiltrosControle()" style="color:var(--red);cursor:pointer;border-color:rgba(248,113,113,.3);">
+        ✕ Limpar filtros
+      </button>
     </div>
     <div class="table-wrap">
       <div class="table-head"><span class="table-title">Controle de Recebimento — Notebooks e Celulares</span><span class="table-count" id="ctrl-count">—</span></div>

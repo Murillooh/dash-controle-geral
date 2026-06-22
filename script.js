@@ -152,16 +152,42 @@ function renderInventario(){
 // ── CONTROLE ──────────────────────────────────────────────────
 function ctrlFiltered(){
   var un = (document.getElementById('ctrl-unidade').value||'').toLowerCase();
+  var cg = (document.getElementById('ctrl-cargo').value||'').toLowerCase();
+  var nb = (document.getElementById('ctrl-notebook-modelo').value||'').toLowerCase();
+  var cl = (document.getElementById('ctrl-celular-modelo').value||'').toLowerCase();
   var q  = (document.getElementById('ctrl-search').value||'').toLowerCase();
   var comNote = document.getElementById('ctrl-com-notebook').checked;
+  var comCel  = document.getElementById('ctrl-com-celular').checked;
+  var comRec  = document.getElementById('ctrl-com-recibo').checked;
   return DATA.controle.filter(function(c){
     if(comNote){
       if(!c.notebook || c.notebook.trim() === '-' || c.notebook.trim() === '') return false;
     }
+    if(comCel){
+      if(!c.celular || c.celular.trim() === '-' || c.celular.trim() === '') return false;
+    }
+    if(comRec){
+      if(!c.recibo || c.recibo.trim() === '') return false;
+    }
+    if(cg && c.cargo.toLowerCase() !== cg) return false;
+    if(nb && !c.notebook.toLowerCase().includes(nb)) return false;
+    if(cl && !c.celular.toLowerCase().includes(cl)) return false;
     return (!un||c.unidade.toLowerCase().includes(un))&&
       (!q||c.nome.toLowerCase().includes(q)||c.patrimonio.toLowerCase().includes(q)||
-          c.celular.toLowerCase().includes(q)||c.cargo.toLowerCase().includes(q));
+          c.celular.toLowerCase().includes(q)||c.cargo.toLowerCase().includes(q)||
+          c.notebook.toLowerCase().includes(q)||c.acessorios.toLowerCase().includes(q));
   });
+}
+function limparFiltrosControle(){
+  document.getElementById('ctrl-unidade').value = '';
+  document.getElementById('ctrl-cargo').value = '';
+  document.getElementById('ctrl-notebook-modelo').value = '';
+  document.getElementById('ctrl-celular-modelo').value = '';
+  document.getElementById('ctrl-search').value = '';
+  document.getElementById('ctrl-com-notebook').checked = false;
+  document.getElementById('ctrl-com-celular').checked = false;
+  document.getElementById('ctrl-com-recibo').checked = false;
+  renderControle();
 }
 function renderControle(){
   var f = ctrlFiltered();
@@ -369,6 +395,27 @@ function initDashboard(){
   document.getElementById('ctrl-kpi-zs').textContent      = sumUnidadeLike('zona sul');
   document.getElementById('ctrl-kpi-limao').textContent   = sumUnidadeLike('lim');
   document.getElementById('ctrl-kpi-barueri').textContent = sumUnidadeLike('barueri');
+
+  // Populate Controle dynamic selects
+  var ctrlUnidades = [...new Set(DATA.controle.map(function(c){return (c.unidade||'').trim();}).filter(Boolean))].sort();
+  var selUn = document.getElementById('ctrl-unidade');
+  selUn.innerHTML = '<option value="">Todas unidades</option>';
+  ctrlUnidades.forEach(function(u){var o=document.createElement('option');o.value=u.toLowerCase();o.textContent=u;selUn.appendChild(o);});
+
+  var ctrlCargos = [...new Set(DATA.controle.map(function(c){return (c.cargo||'').trim();}).filter(Boolean))].sort(function(a,b){return a.toLowerCase().localeCompare(b.toLowerCase());});
+  var selCg = document.getElementById('ctrl-cargo');
+  selCg.innerHTML = '<option value="">Todos cargos</option>';
+  ctrlCargos.forEach(function(cg){var o=document.createElement('option');o.value=cg.toLowerCase();o.textContent=cg;selCg.appendChild(o);});
+
+  var ctrlNotebooks = [...new Set(DATA.controle.map(function(c){return (c.notebook||'').trim();}).filter(function(n){return n && n !== '-';}))].sort();
+  var selNb = document.getElementById('ctrl-notebook-modelo');
+  selNb.innerHTML = '<option value="">Todos notebooks</option>';
+  ctrlNotebooks.forEach(function(nb){var o=document.createElement('option');o.value=nb.toLowerCase();o.textContent=nb;selNb.appendChild(o);});
+
+  var ctrlCelulares = [...new Set(DATA.controle.map(function(c){return (c.celular||'').trim();}).filter(function(cl){return cl && cl !== '-';}))].sort();
+  var selCl = document.getElementById('ctrl-celular-modelo');
+  selCl.innerHTML = '<option value="">Todos celulares</option>';
+  ctrlCelulares.forEach(function(cl){var o=document.createElement('option');o.value=cl.toLowerCase();o.textContent=cl;selCl.appendChild(o);});
 
   // Pagamentos page KPIs
   document.getElementById('p-total').textContent  = fmt(totalP);
