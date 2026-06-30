@@ -114,6 +114,18 @@ function renderChips(){
   }).join('');
   document.getElementById('chips-tbody').innerHTML = html||'<tr><td colspan="10" class="empty">Nenhum resultado</td></tr>';
   document.getElementById('chips-count').textContent = f.length+' registros';
+
+  // Update KPIs based on current filtered list
+  var totalC = f.length;
+  var ativas = f.filter(function(c){return c.status==='Ativo';}).length;
+  var inativas = totalC - ativas;
+  var mrr = f.filter(function(c){return c.status==='Ativo';}).reduce(function(s,c){return s+c.valor;},0);
+
+  document.getElementById('c-total').textContent  = totalC;
+  document.getElementById('c-ativas').textContent = ativas;
+  document.getElementById('c-inativas').textContent = inativas;
+  document.getElementById('c-mrr').textContent    = fmt(mrr);
+
   renderPagination('chips', f.length);
 }
 
@@ -146,6 +158,18 @@ function renderInventario(){
   }).join('');
   document.getElementById('inv-tbody').innerHTML = html||'<tr><td colspan="8" class="empty">Nenhum resultado</td></tr>';
   document.getElementById('inv-count').textContent = f.length+' itens';
+
+  // Update KPIs based on current filtered list
+  var totalI  = f.length;
+  var emUso   = f.filter(function(i){return i.status==='Em uso';}).length;
+  var emEst   = f.filter(function(i){return i.status==='Em estoque';}).length;
+  var manut   = f.filter(function(i){return ['Em manutenção','Quarentena','Inutilizável'].includes(i.status);}).length;
+
+  document.getElementById('i-total').textContent   = totalI;
+  document.getElementById('i-uso').textContent     = emUso;
+  document.getElementById('i-estoque').textContent = emEst;
+  document.getElementById('i-manut').textContent   = manut;
+
   renderPagination('inventario', f.length);
 }
 
@@ -204,6 +228,23 @@ function renderControle(){
   }).join('');
   document.getElementById('ctrl-tbody').innerHTML = html||'<tr><td colspan="9" class="empty">Nenhum resultado</td></tr>';
   document.getElementById('ctrl-count').textContent = f.length+' colaboradores';
+
+  // Update KPIs based on current filtered list
+  var byUnidade = {};
+  f.forEach(function(c){
+    var u = (c.unidade||'').trim();
+    byUnidade[u] = (byUnidade[u]||0)+1;
+  });
+  function sumUnidadeLike(part){
+    return Object.entries(byUnidade).reduce(function(s,e){
+      return e[0].toLowerCase().includes(part) ? s+e[1] : s;
+    },0);
+  }
+  document.getElementById('ctrl-kpi-total').textContent   = f.length;
+  document.getElementById('ctrl-kpi-zs').textContent      = sumUnidadeLike('zona sul');
+  document.getElementById('ctrl-kpi-limao').textContent   = sumUnidadeLike('lim');
+  document.getElementById('ctrl-kpi-barueri').textContent = sumUnidadeLike('barueri');
+
   renderPagination('controle', f.length);
 }
 
@@ -259,19 +300,19 @@ function renderEmails(){
   document.getElementById('em-tbody').innerHTML = html||'<tr><td colspan="8" class="empty">Nenhum resultado</td></tr>';
   document.getElementById('em-count').textContent = f.length+' registros';
   
-  // Update KPIs
-  var totalAtivos = DATA.emails.filter(e => {
+  // Update KPIs based on current filtered list
+  var totalAtivos = f.filter(e => {
     let st = String(e.status_read_only || e.status || '').toLowerCase();
     return st === 'active' || st === 'ativo';
   }).length;
-  var totalSuspensos = DATA.emails.filter(e => {
+  var totalSuspensos = f.filter(e => {
     let st = String(e.status_read_only || e.status || '').toLowerCase();
     return st === 'suspended' || st === 'suspenso';
   }).length;
 
   var emTotal = document.getElementById('em-total');
   if (emTotal) {
-    emTotal.textContent = DATA.emails.length;
+    emTotal.textContent = f.length;
     document.getElementById('em-ativos').textContent = totalAtivos;
     document.getElementById('em-suspensas').textContent = totalSuspensos;
   }
@@ -305,6 +346,19 @@ function renderPagamentos(){
   }).join('');
   document.getElementById('pag-tbody').innerHTML = html||'<tr><td colspan="7" class="empty">Nenhum resultado</td></tr>';
   document.getElementById('pag-count').textContent = f.length+' registros';
+
+  // Update KPIs based on current filtered list
+  var totalP = f.reduce(function(s,p){return s+p.valor_mes;},0);
+  var uniqF = [...new Set(f.map(function(p){return p.fornecedor;}))].length;
+  var uniqCNPJ = [...new Set(f.filter(function(p){return p.cnpj;}).map(function(p){return p.cnpj;}))].length;
+  var maxPag = f.reduce(function(m,p){return p.valor_mes>m.valor_mes?p:m;}, f[0]||{valor_mes:0});
+
+  document.getElementById('p-total').textContent  = fmt(totalP);
+  document.getElementById('p-fornec').textContent = uniqF;
+  document.getElementById('p-cnpj').textContent   = uniqCNPJ;
+  document.getElementById('p-maior').textContent  = maxPag && maxPag.valor_mes ? fmt(maxPag.valor_mes) : '—';
+  document.getElementById('p-maior-nome').textContent = maxPag && maxPag.valor_mes ? maxPag.fornecedor : '';
+
   renderPagination('pagamentos', f.length);
 }
 
